@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+<data>
+    <template id="website_gordonramsay.css" inherit_id="website.theme" customize_show="True" name="Snippet CSS"> 
+    <xpath expr="//link[@href='/website/static/src/css/website.css']" position="after">
+        <link rel="stylesheet" href="/theme_gordonramsay/static/src/css/snippets.css" t-ignore="true"/>
+    </xpath>  
+    </template>
+ 
+<template id="gordonramsay_snippet_id" inherit_id="website.snippets" name="Gordonramsay snippet">
+    <xpath expr="//ul[@class='nav navbar-nav nav-tabs']" position="inside">
+         <li class=""><a href="#snippet_gordonramsay" data-toggle="tab">Gordon Ramsay</a></li>
+    </xpath>
+    <xpath expr="//div[@class='tab-content']">
+        <div id="snippet_gordonramsay" class="tab-pane">
+
+
+<!-- content goes here -->
+
+<!--main row layout-->
+    <div>
+        <div class="oe_snippet_thumbnail">
+            <img class="oe_snippet_thumbnail_img" src="/website/static/src/img/blocks/block_title.png"/>
+            <span class="oe_snippet_thumbnail_title">main page layout</span>
+        </div>
+        <section class="oe_snippet_body mb32 mt16">        
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 text-center mt16 mb32">
+        </div>
+        <div class="col-md-8">
+            <div id="wrap" class="oe_structure oe_empty"/>
+        </div>
+        <div class="col-md-4">
+            <div id="wrap" class="oe_structure oe_empty"/>
+        </div>
+        <div class="col-md-4">
+            <div id="wrap" class="oe_structure oe_empty"/>
+        </div>
+        <div class="col-md-8">
+            <div id="wrap" class="oe_structure oe_empty"/>
+        </div>
+    </div>
+</div>
+</section>
+</div>
+
+
+<!--sub row layout-->
+    <div>
+        <div class="oe_snippet_thumbnail">
+            <img class="oe_snippet_thumbnail_img" src="/website/static/src/img/blocks/block_title.png"/>
+            <span class="oe_snippet_thumbnail_title">sub page layout</span>
+        </div>
+        <section class="oe_snippet_body mb32 mt16">        
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 text-center mt16 mb32">
+        </div>
+        <div class="col-md-12">
+            <div id="wrap" class="oe_structure oe_empty"/>
+        </div>
+        <div class="col-md-6">
+            <div id="wrap" class="oe_structure oe_empty"/>
+        </div>
+        <div class="col-md-3">
+            <div id="wrap" class="oe_structure oe_empty"/>
+        </div>
+        <div class="col-md-3">
+            <div id="wrap" class="oe_structure oe_empty"/>
+        </div>
+    </div>
+</div>
+</section>
+</div>
+
+<!-- dont do changes efter this -->            
+       
+        </div>   
+    </xpath>
+</template>
+</data>
+</openerp>
+
+<!-- add before snippts-->
+<!--
+    <div>
+        <div class="oe_snippet_thumbnail">
+            <img class="oe_snippet_thumbnail_img" src="add_your_dir_with.png"/>
+            <span class="oe_snippet_thumbnail_title">NAME</span>
+        </div>
+        <section class="oe_snippet_body mb32 mt16">        
+<div class="container">
+-->
+<!--add after snippets-->
+<!--
+</section>
+</div>
+-->

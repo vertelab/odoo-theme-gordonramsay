@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- vim:fdn=3:
+-->
+<openerp>
+    <data>
+<template id="theme_gordonramsay" name="website assete for theme Gordonramsay" inherit_id="website.theme">
+    <xpath expr="." position="inside">
+        <link rel="stylesheet" href="/theme_gordonramsay/static/src/css/custom.css"/>
+    </xpath>
+</template>
+
+<template id="homepage_inherit" inherit_id="website.homepage"> 	
+      <xpath expr="//div" position="inside">
+        <div data-oe-id="318" data-oe-source-id="288" data-oe-xpath="/data/xpath/div[1]" data-oe-model="ir.ui.view" data-oe-field="arch">
+          <div class="row padding-top">
+            <div class="col-sm-12">
+              <div class="entry shop-banner">
+                <div id="wrap" class="oe_structure oe_empty"/> 
+              </div>
+            </div>
+          </div>
+        </div>
+       </xpath>
+</template>
+
+ <template id="layout_inherit" inherit_id="website.layout">
+    <xpath expr="//html/head" position="inside">
+		<link rel="stylesheet" href="/theme_gordonramsay/static/src/css/bootstrap.css"/>
+ 		<link rel="stylesheet" href="/theme_gordonramsay/static/src/css/custom.css"/> 
+    </xpath>
+    <xpath expr="//div[@id='wrapwrap']/header" position="attributes" invisible="1">
+		<attribute name="id">header-style-1</attribute>   
+    </xpath> 
+ <xpath expr="//footer" position="replace">
+	<div class="oe_structure" data-oe-id="776" data-oe-source-id="769" data-oe-xpath="/data/xpath/div" data-oe-model="ir.ui.view" data-oe-field="arch">
+        </div>
+	 </xpath>
+</template>
+
+</data>
+</openerp>

@@ -21,7 +21,7 @@
 
 {
     'name': 'Theme Gordonramsay',
-    'version': '0.1',
+    'version': '0.2',
     'category': 'Theme',
     'description': """
 GordonRamsey style theme.
@@ -29,16 +29,13 @@ GordonRamsey style theme.
 """,
     'author': 'Vertel AB',
     'website': 'http://www.vertel.se',
-    'depends': ['website'],
+    'depends': ['website','website_less'],
     'data': [
-        'views/theme.xml',
-        'views/snippets.xml',
-        'views/website_templates.xml',
-        'views/website_backend_navbar.xml',
-    ],
-    'qweb': ['static/src/xml/website.backend.xml'],
-    
+        'static/src/views/theme.xml',
+        'static/src/views/snippets.xml',
+],
     'application': True,
-    
 }
+
 # vim:expandtab:smartindent:tabstop=4s:softtabstop=4:shiftwidth=4:
+
