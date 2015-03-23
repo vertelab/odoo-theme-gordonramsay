@@ -1,0 +1,71 @@
+
+.img-content {
+    margin-top:40px;    
+}
+
+.img-content .title {
+    margin-bottom:20px;    
+}
+
+img {
+  -moz-box-shadow:    3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow:         3px 3px 5px 6px #ccc;
+  margin-bottom:20px;
+}
+
+.gray img:hover{
+  filter: gray;
+  -webkit-filter: grayscale(1); 
+}
+
+.tilt img:hover {
+  -webkit-transform: rotate(-10deg);
+     -moz-transform: rotate(-10deg);
+       -o-transform: rotate(-10deg);
+      -ms-transform: rotate(-10deg);
+          transform: rotate(-10deg);
+          
+    -webkit-transition-duration: 500ms;
+       -moz-transition-duration: 500ms;
+         -o-transition-duration: 500ms;
+            transition-duration: 500ms;
+}
+
+
+.vertpan img:hover {
+  margin-top: -50px;
+  -webkit-transition: margin 1s ease;
+     -moz-transition: margin 1s ease;
+       -o-transition: margin 1s ease;
+      -ms-transition: margin 1s ease;
+          transition: margin 1s ease;
+
+}
+
+.shrink img:hover {
+    opacity: 0.7;
+    cursor: pointer;
+    border-radius: 0px;
+  -webkit-transform: scale(1.2, 1.2);
+  -webkit-transition-timing-function: ease-out;
+                      -moz-transform: scale(1.2, 1.2);
+     -moz-transition-timing-function: ease-out;
+                       -ms-transform: scale(1.20, 1.20);
+      -ms-transition-timing-function: ease-out;
+
+         -webkit-transition-duration: 500ms;
+            -moz-transition-duration: 500ms;
+             -ms-transition-duration: 500ms;
+
+}
+
+.tilt img:hover {
+  -webkit-transform: rotate(-10deg);
+     -moz-transform: rotate(-10deg);
+       -o-transform: rotate(-10deg);
+      -ms-transform: rotate(-10deg);
+          transform: rotate(-10deg);
+}
+
+ 

@@ -1,0 +1,66 @@
+.timeline_back {
+  list-style: none;
+  padding: 20px 0 20px;
+  position: relative;
+}
+.timeline_back:before {
+  top: 0;
+  bottom: 0;
+  position: absolute;
+  content: " ";
+  width: 3px;
+  background-color: #eeeeee;
+  left: 70%;
+  margin-left: -1.5px;
+}
+.timeline_back > li {
+  margin-bottom: 0px;
+  position: relative;
+  width: 72%;
+  float: left;
+  clear: left;
+}
+.timeline_back > li:before,
+.timeline_back > li:after {
+  content: " ";
+  display: table;
+}
+.timeline_back > li:after {
+  clear: both;
+}
+.timeline_back > li:before,
+.timeline_back > li:after {
+  content: " ";
+  display: table;
+}
+.timeline_back > li:after {
+  clear: both;
+}
+.timeline-body > ul {
+    padding:20px;
+    margin-bottom: 0;
+}
+.timeline_back > li.timeline-inverted{
+  float: right; 
+  clear: right;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+@media (max-width: 767px) {
+    ul.timeline_back:before {
+        left: 40px;
+    }
+    ul.timeline_back > li {
+      margin-bottom: 0px;
+      position: relative;
+      width:100%;
+      float: left;
+      clear: left;
+    }
+.timeline_back > li.timeline-inverted{
+  float: left; 
+  clear: left;
+  width: 72%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
