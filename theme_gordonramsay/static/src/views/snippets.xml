@@ -5,6 +5,9 @@
     <xpath expr="//link[@href='/website/static/src/css/website.css']" position="after">
         <link rel="stylesheet" href="/theme_gordonramsay/static/src/css/snippets.css" t-ignore="true"/>
         <link rel="stylesheet" href="/theme_gordonramsay/static/src/css/navbar.css" t-ignore="true"/>
+<!--
+        <link rel="stylesheet" href="/theme_gordonramsay/static/src/css/site.less" t-ignore="true"/>
+-->
     </xpath>  
     </template>
  
@@ -171,6 +174,33 @@
   
  
 </div><!-- /.container -->
+</section>
+</div>
+
+    <div>
+        <div class="oe_snippet_thumbnail">
+            <img class="oe_snippet_thumbnail_img" src="add_your_dir_with.png"/>
+            <span class="oe_snippet_thumbnail_title">NAME</span>
+        </div>
+        <section class="oe_snippet_body mb32 mt16">        
+<div class="container">
+
+    <div class="rollover bottom">
+      <div class="v-holder overlay">
+           <div class="v-center">
+                        <p class="title"><span> Opening soon...</span><i class="icon-chevron-right"></i></p>
+                        
+                        <p class="body">
+                            Coming to South West London this April, we are excited to introduce our newest restaurant to the collection, maze Grill Park Walk. 
+                            <!--Html.Raw(node.GetPropertyValue("gridBody").Replace("\r\n", "<br />").Replace("\n", "<br />").Replace("\r", "<br />"))-->
+                        </p>
+                <div class="cta-wrapper">                                
+                    <a class='cta' href="/mazegrill/park-walk/">Find out more</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 </section>
 </div>
 
