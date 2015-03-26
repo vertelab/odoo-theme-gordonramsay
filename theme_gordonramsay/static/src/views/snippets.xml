@@ -140,42 +140,11 @@
 </div>
 
 <!--image hover-->
+
     <div>
         <div class="oe_snippet_thumbnail">
-            <img class="oe_snippet_thumbnail_img" src="add_your_dir_with.png"/>
+            <img class="oe_snippet_thumbnail_img" src="/website/static/src/img/blocks/block_title.png"/>
             <span class="oe_snippet_thumbnail_title">image hover</span>
-        </div>
-        <section class="oe_snippet_body mb32 mt16">        
-<div class="container">
-
-    <div class="row">
-    	<div class="col-lg-3">
-    				<div class="cuadro_intro_hover " style="background-color:#cccccc;">
-						<p style="text-align:center; margin-top:20px;">
-							<img src="http://placehold.it/500x330" class="img-responsive" alt=""/>
-						</p>
-						<div class="caption">
-							<div class="blur"></div>
-							<div class="caption-text">
-								<h3 style="border-top:2px solid white; border-bottom:2px solid white; padding:10px;">Info</h3>
-								<p>Add Text Here</p>
-								<a class=" btn btn-default" href="#"><span class="glyphicon glyphicon-plus"> INFO</span></a>
-							</div>
-						</div>
-					</div>
-			</div>	
-	    </div>
-</div>
-</section>
-</div>
-
-
-<!--image hover adv-->
-
-    <div>
-        <div class="oe_snippet_thumbnail">
-            <img class="oe_snippet_thumbnail_img" src="add_your_dir_with.png"/>
-            <span class="oe_snippet_thumbnail_title">image hover adv</span>
         </div>
         <section class="oe_snippet_body mb32 mt16">        
 <div class="container"> 
