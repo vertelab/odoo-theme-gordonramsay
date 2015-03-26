@@ -6,6 +6,7 @@
         <link rel="stylesheet" href="/website_less/static/src/less/website.less" t-ignore="true"/>        
         <link rel="stylesheet" href="/theme_gordonramsay/static/src/css/snippets.css" t-ignore="true"/>
         <link rel="stylesheet" href="/theme_gordonramsay/static/src/css/hover.css" t-ignore="true"/>
+        <link rel="stylesheet" href="/theme_gordonramsay/static/src/css/navbar.css" t-ignore="true"/>
     </xpath>  
     </template>
     
@@ -160,6 +161,53 @@
 </div> 
 </section>
 </div>
+
+<!--navbar-->
+    <div>
+        <div class="oe_snippet_thumbnail">
+            <img class="oe_snippet_thumbnail_img" src="add_your_dir_with.png"/>
+            <span class="oe_snippet_thumbnail_title">NAME</span>
+        </div>
+        <section class="oe_snippet_body mb32 mt16">        
+<div class="container-fluid">    
+    <!-- Second navbar for profile settings -->
+    <nav class="navbar navbar-inverse">
+      <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-4">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Brand</a>
+        </div>
+    
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="navbar-collapse-4">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#">Main</a></li>
+            <li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"> Media <span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li><a href="#">Bilder</a></li>
+                <li><a href="#">Video</a></li>
+              </ul>
+            </li>
+            </li>
+            <li><a href="#">Kurser</a></li>
+            <li><a href="#">Webshop</a></li>
+            <li><a href="#">Kontakt</a></li>
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container -->
+    </nav><!-- /.navbar -->
+</div><!-- /.container-fluid -->
+</section>
+</div>
+
 
 <!-- dont do changes efter this -->            
        

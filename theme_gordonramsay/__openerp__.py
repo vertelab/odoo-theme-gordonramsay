@@ -31,6 +31,7 @@ GordonRamsey style theme.
     'website': 'http://www.vertel.se',
     'depends': ['website','website_less'],
     'data': [
+        'gordonramsay_view.xml',
         'static/src/views/theme.xml',
         'static/src/views/snippets.xml',
 ],
