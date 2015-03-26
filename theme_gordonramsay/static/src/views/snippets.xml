@@ -6,13 +6,12 @@
         <link rel="stylesheet" href="/website_less/static/src/less/website.less" t-ignore="true"/>        
         <link rel="stylesheet" href="/theme_gordonramsay/static/src/css/snippets.css" t-ignore="true"/>
         <link rel="stylesheet" href="/theme_gordonramsay/static/src/css/hover.css" t-ignore="true"/>
-        <link rel="stylesheet" href="/theme_gordonramsay/static/src/css/hoveradv.css" t-ignore="true"/>
     </xpath>  
     </template>
     
     <template id="theme_gordonramsay.js" inherit_id="website_less.assets_frontend" customize_show="True" name="Snippet js"> 
     <xpath expr="//script[@src='/website/static/src/js/website.js']" position="after"> 
-        <script type="text/javascript" src="/theme_gordonramsay/static/src/js/hoveradv.js"></script>
+        <script type="text/javascript" src="/theme_gordonramsay/static/src/js/hover.js"></script>
     </xpath>
     </template>
     
