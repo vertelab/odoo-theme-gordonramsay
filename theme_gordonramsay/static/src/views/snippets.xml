@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <openerp>
 <data>
-    <template id="theme_gordonramsay.css" inherit_id="website.theme" customize_show="True" name="Snippet CSS"> 
+    <template id="theme_gordonramsay.css" inherit_id="website_less.theme" customize_show="True" name="Snippet CSS"> 
     <xpath expr="//link[@href='/website/static/src/css/website.css']" position="after">
+        <link rel="stylesheet" href="/website_less/static/src/less/website.less" t-ignore="true"/>        
         <link rel="stylesheet" href="/theme_gordonramsay/static/src/css/snippets.css" t-ignore="true"/>
-        <link rel="stylesheet" href="/theme_gordonramsay/static/src/css/navbar.css" t-ignore="true"/>
-<!--
-        <link rel="stylesheet" href="/theme_gordonramsay/static/src/css/site.less" t-ignore="true"/>
--->
+        <link rel="stylesheet" href="/theme_gordonramsay/static/src/css/hover.css" t-ignore="true"/>
+        <link rel="stylesheet" href="/theme_gordonramsay/static/src/css/hoveradv.css" t-ignore="true"/>
     </xpath>  
     </template>
- 
-<template id="gordonramsay_snippet_id" inherit_id="website.snippets" name="Gordonramsay snippet">
+    
+    <template id="theme_gordonramsay.js" inherit_id="website_less.assets_frontend" customize_show="True" name="Snippet js"> 
+    <xpath expr="//script[@src='/website/static/src/js/website.js']" position="after"> 
+        <script type="text/javascript" src="/theme_gordonramsay/static/src/js/hoveradv.js"></script>
+    </xpath>
+    </template>
+    
+<template id="gordonramsay_snippet_id" inherit_id="website_less.snippets" name="Gordonramsay snippet">
     <xpath expr="//ul[@class='nav navbar-nav nav-tabs']" position="inside">
          <li class=""><a href="#snippet_gordonramsay" data-toggle="tab">Gordon Ramsay</a></li>
     </xpath>
@@ -134,77 +139,61 @@
 </section>
 </div>
 
-<!--navbar-->
-
+<!--image hover-->
     <div>
         <div class="oe_snippet_thumbnail">
-            <img class="oe_snippet_thumbnail_img" src="/website/static/src/img/blocks/block_title.png"/>
-            <span class="oe_snippet_thumbnail_title">Navbar</span>
+            <img class="oe_snippet_thumbnail_img" src="add_your_dir_with.png"/>
+            <span class="oe_snippet_thumbnail_title">image hover</span>
         </div>
         <section class="oe_snippet_body mb32 mt16">        
 <div class="container">
-<div class="navbar navbar-default navbar-static-top">
-  <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="#">Grones</a>
-    </div>
-    <div class="collapse navbar-collapse">
-      <ul class="nav navbar-nav">
-        <li class="active"><a href="#">Home</a></li>
-        <li class="dropdown "><a href="#" id="drop1" data-toggle="dropdown" class="dropdown-toggle" role="button">Music <b class="caret"></b></a>
-            <ul role="menu" class="dropdown-menu" aria-labelledby="drop1">
-                <li role="presentation"><a href="#" role="menuitem">Grones</a></li>
-                <li role="presentation"><a href="#" role="menuitem">Nach</a></li>
-                <li role="presentation"><a href="#" role="menuitem">Zpu</a></li>
-                <li role="presentation"><a href="#" role="menuitem">Madnass</a></li>
-            </ul>
-        </li>
-        <li><a href="#contact">Contact</a></li>
-      </ul>
-    </div><!--/.nav-collapse -->
-  </div>
+
+    <div class="row">
+    	<div class="col-lg-3">
+    				<div class="cuadro_intro_hover " style="background-color:#cccccc;">
+						<p style="text-align:center; margin-top:20px;">
+							<img src="http://placehold.it/500x330" class="img-responsive" alt=""/>
+						</p>
+						<div class="caption">
+							<div class="blur"></div>
+							<div class="caption-text">
+								<h3 style="border-top:2px solid white; border-bottom:2px solid white; padding:10px;">Info</h3>
+								<p>Add Text Here</p>
+								<a class=" btn btn-default" href="#"><span class="glyphicon glyphicon-plus"> INFO</span></a>
+							</div>
+						</div>
+					</div>
+			</div>	
+	    </div>
 </div>
-</div>
-<div class="container">
-  
- 
-</div><!-- /.container -->
 </section>
 </div>
+
+
+<!--image hover adv-->
 
     <div>
         <div class="oe_snippet_thumbnail">
             <img class="oe_snippet_thumbnail_img" src="add_your_dir_with.png"/>
-            <span class="oe_snippet_thumbnail_title">NAME</span>
+            <span class="oe_snippet_thumbnail_title">image hover adv</span>
         </div>
         <section class="oe_snippet_body mb32 mt16">        
-<div class="container">
-
-    <div class="rollover bottom">
-      <div class="v-holder overlay">
-           <div class="v-center">
-                        <p class="title"><span> Opening soon...</span><i class="icon-chevron-right"></i></p>
-                        
-                        <p class="body">
-                            Coming to South West London this April, we are excited to introduce our newest restaurant to the collection, maze Grill Park Walk. 
-                            <!--Html.Raw(node.GetPropertyValue("gridBody").Replace("\r\n", "<br />").Replace("\n", "<br />").Replace("\r", "<br />"))-->
-                        </p>
-                <div class="cta-wrapper">                                
-                    <a class='cta' href="/mazegrill/park-walk/">Find out more</a>
+<div class="container"> 
+    <div class="span4">
+         <div class="thumbnail">
+                <div class="caption">
+                    <h4>Thumbnail Headline</h4>
+                    <p>Add text</p>
+                    <p><a href="" class="label label-default" rel="tooltip" title="Go There">Go There</a></p>
                 </div>
+                <img class="img" src="http://lorempixel.com/400/300/sports/1/" alt="..."/>
             </div>
-        </div>
-    </div>
-</div>
+      </div> 
+</div> 
 </section>
 </div>
 
-<!-- dont do changes efter this -->            
+ dont do changes efter this             
        
         </div>   
     </xpath>

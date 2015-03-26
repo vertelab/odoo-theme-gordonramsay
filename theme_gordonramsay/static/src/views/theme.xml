@@ -3,7 +3,7 @@
 -->
 <openerp>
     <data>
-<template id="theme_gordonramsay" name="website assete for theme Gordonramsay" inherit_id="website.theme">
+<template id="theme_gordonramsay" name="website assete for theme Gordonramsay" inherit_id="website_less.theme">
     <xpath expr="." position="inside">
         <link rel="stylesheet" href="/theme_gordonramsay/static/src/css/custom.css"/>
     </xpath>
@@ -26,11 +26,7 @@
  <template id="layout_inherit" inherit_id="website.layout">
     <xpath expr="//html/head" position="inside">
 		<link rel="stylesheet" href="/theme_gordonramsay/static/src/css/bootstrap.css"/>
- 		<link rel="stylesheet" href="/theme_gordonramsay/static/src/css/custom.css"/> 
     </xpath>
-    <xpath expr="//div[@id='wrapwrap']/header" position="attributes" invisible="1">
-		<attribute name="id">header-style-1</attribute>   
-    </xpath> 
  <xpath expr="//footer" position="replace">
 	<div class="oe_structure" data-oe-id="776" data-oe-source-id="769" data-oe-xpath="/data/xpath/div" data-oe-model="ir.ui.view" data-oe-field="arch">
         </div>
