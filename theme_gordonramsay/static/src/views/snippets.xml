@@ -7,12 +7,16 @@
         <link rel="stylesheet" href="/theme_gordonramsay/static/src/css/snippets.css" t-ignore="true"/>
         <link rel="stylesheet" href="/theme_gordonramsay/static/src/css/hover.css" t-ignore="true"/>
         <link rel="stylesheet" href="/theme_gordonramsay/static/src/css/navbar.css" t-ignore="true"/>
+<!--
+        <link rel="stylesheet" href="/theme_gordonramsay/static/src/css/hover2.css" t-ignore="true"/>        
+-->
     </xpath>  
     </template>
     
     <template id="theme_gordonramsay.js" inherit_id="website_less.assets_frontend" customize_show="True" name="Snippet js"> 
     <xpath expr="//script[@src='/website/static/src/js/website.js']" position="after"> 
         <script type="text/javascript" src="/theme_gordonramsay/static/src/js/hover.js"></script>
+        <script type="text/javascript" src="/theme_gordonramsay/static/src/js/image.js"></script>
     </xpath>
     </template>
     
@@ -151,9 +155,9 @@
     <div class="span4">
          <div class="thumbnail">
                 <div class="caption">
-                    <h4>Thumbnail Headline</h4>
+                    <h4 class="mt16">Thumbnail Heaadline</h4>
                     <p>Add text</p>
-                    <p><a href="" class="label label-default" rel="tooltip" title="Go There">Go There</a></p>
+                    <p><a href="#" class="label label-default" rel="tooltip" title="Go There">Go There</a></p>
                 </div>
                 <img class="img" src="http://lorempixel.com/400/300/sports/1/" alt="..."/>
             </div>
@@ -165,8 +169,8 @@
 <!--navbar-->
     <div>
         <div class="oe_snippet_thumbnail">
-            <img class="oe_snippet_thumbnail_img" src="add_your_dir_with.png"/>
-            <span class="oe_snippet_thumbnail_title">NAME</span>
+            <img class="oe_snippet_thumbnail_img" src="/website/static/src/img/blocks/block_title.png"/>
+            <span class="oe_snippet_thumbnail_title">Navbar</span>
         </div>
         <section class="oe_snippet_body mb32 mt16">        
 <div class="container-fluid">    
@@ -207,7 +211,6 @@
 </div><!-- /.container-fluid -->
 </section>
 </div>
-
 
 <!-- dont do changes efter this -->            
        
