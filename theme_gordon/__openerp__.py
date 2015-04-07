@@ -20,8 +20,8 @@
 ##############################################################################
 
 {
-    'name': 'Theme Gordonramsay',
-    'version': '0.2',
+    'name': 'Theme Gordon',
+    'version': '0.1',
     'category': 'Theme',
     'description': """
 GordonRamsey style theme.
@@ -31,9 +31,7 @@ GordonRamsey style theme.
     'website': 'http://www.vertel.se',
     'depends': ['website',],
     'data': [
-        'gordonramsay_view.xml',
-        'static/src/views/theme.xml',
-        'static/src/views/snippets.xml',
+        'theme_gordon_view.xml',
 ],
     'application': True,
 }
