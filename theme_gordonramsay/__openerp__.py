@@ -25,11 +25,11 @@
     'category': 'Theme',
     'description': """
 GordonRamsey style theme.
-===================================================
+=========================
 """,
     'author': 'Vertel AB',
     'website': 'http://www.vertel.se',
-    'depends': ['website','website_less'],
+    'depends': ['website',],
     'data': [
         'gordonramsay_view.xml',
         'static/src/views/theme.xml',

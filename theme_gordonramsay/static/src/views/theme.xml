@@ -3,9 +3,11 @@
 -->
 <openerp>
     <data>
+<!--
 <template id="theme_gordonramsay" name="website assete for theme Gordonramsay" inherit_id="website_less.theme">
     <xpath expr="." position="inside">
     </xpath>
 </template>
+-->
 </data>
-</openerp>
+</openerp

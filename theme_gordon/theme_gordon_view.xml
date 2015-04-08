@@ -24,8 +24,7 @@ SNIPPETS
         
         
         
-           
-<template id="snippets" inherit_id="website.snippets" name="Clean Theme snippets">
+<template id="snippets" inherit_id="website.snippets" name="Theme Gordon snippets">
             <xpath expr="//div[@id='snippet_structure']" position="inside">
             <div>
                 <div class="oe_snippet_thumbnail">
@@ -33,80 +32,6 @@ SNIPPETS
                     <span class="oe_snippet_thumbnail_title">Image texthover grid</span>
                 </div>
                 <section class="oe_snippet_body fw_categories">
-                        <style>
-            .grid-box-g
-            {
-                box-sizing:border-box;
-                position:relative;
-                margin-bottom:15px;
-                width:100%;
-                height:300px;
-                overflow:hidden;
-            }
-            .grid-box-g img
-            {
-                width:100%;
-                height:100%;
-            }
-            .grid-box-overlay, .grid-box-overlay:hover, .grid-box-overlay:active
-            {
-                width:100%;
-                height:100%;
-                display: table;
-                background-color:#000;
-                background-color:rgba(0,0,0,.7);
-                position:absolute;
-                bottom:-250px;
-                
-                text-decoration:none !important;
-                color:#fff;
-                
-                -webkit-transition:bottom 0.2s ease-in-out;
-                -webkit-transition-delay: 0.5s; 
-                transition:bottom 0.2s ease-in-out;
-                transition-delay: 0.5s;
-            }
-            .grid-box-g:hover .grid-box-overlay
-            {
-                bottom:0;
-            }
-            .grid-box-overlay .overlay-row
-            {
-                display:table-row;
-                padding:0;
-                margin:0;
-                cellspacing:0;
-            }
-            .grid-box-overlay .overlay-title
-            {
-                height:50px;
-                width:100%;
-                background-color:rgba(0,0,0,.5);
-                box-sizing:border-box;
-                padding:10px;
-                padding-top:15px;
-                text-decoration:none;
-                text-transform:uppercase;
-                margin:0;
-            }
-            .grid-box-overlay .arrow-transform
-            {
-                position:absolute;
-                right:10px;
-                line-height:50px;
-            }
-            
-            .overlay-info
-            {
-                vertical-align: middle;
-                text-align: center;
-                display: table-cell;
-                height:250px;
-                margin-left:auto;
-                margin-right:auto;
-            }
-            
-        </style>
                     <div class="container">
                         <div class="row">
                             <div class="col-md-6">
@@ -161,15 +86,113 @@ SNIPPETS
                     </div>
                 </section>
             </div>
+<!--
         </xpath>
+-->
+        
+<!--
+        <xpath expr="//div[@id='snippet_structure']" position="inside">
+-->
+            <div>
+                <div class="oe_snippet_thumbnail">
+                    <img class="oe_snippet_thumbnail_img" src="/theme_gordon/static/src/img/block_panel_empty.png"/>
+                    <span class="oe_snippet_thumbnail_title">Image texthover grid one landing</span>
+                </div>
+                <section class="oe_snippet_body fw_categories">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div id="wrap" class="oe_structure oe_empty"/>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="grid-box-g">
+                                    <img src="/website/static/src/img/library/flight.jpg" style=""/>
+                                    <div class="grid-box-overlay">
+                                        <div class="overlay-row">
+                                        <p class="overlay-title">Lorem ipsum 
+                                            <span class="glyphicon glyphicon-chevron-down arrow-transform"></span>
+                                        </p>
+                                        </div>
+                                        <div class="overlay-info">
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            <a class="btn btn-danger" href="#">Lorem ipsum </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="grid-box-g">
+                                    <img src="/website/static/src/img/library/manufacturing.jpg" style="-webkit-animation-play-state: paused; -webkit-transition: none; transition: none"/>
+                                    <div class="grid-box-overlay">
+                                      <div class="overlay-row">
+                                        <p class="overlay-title">Lorem ipsum 
+                                            <span class="glyphicon glyphicon-chevron-down arrow-transform"></span>
+                                        </p>
+                                        </div>
+                                        <div class="overlay-info">
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            <a class="btn btn-danger" href="#">Lorem ipsum </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+<!--
+        </xpath>
+        
+        <xpath expr="//div[@id='snippet_structure']" position="inside">
+-->
+            <div>
+                <div class="oe_snippet_thumbnail">
+                    <img class="oe_snippet_thumbnail_img" src="/theme_gordon/static/src/img/block_panel_dual_empty.png"/>
+                    <span class="oe_snippet_thumbnail_title">Image texthover grid</span>
+                </div>
+                <section class="oe_snippet_body fw_categories">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-6">
+                                 <div id="wrap" class="oe_structure oe_empty"/>
+                                
+                            </div>
+                            <div class="col-md-3">
+                                <div class="grid-box-g">
+                                    <img src="/website/static/src/img/library/flight.jpg" style=""/>
+                                    <div class="grid-box-overlay">
+                                        <div class="overlay-row">
+                                        <p class="overlay-title">Lorem ipsum 
+                                            <span class="glyphicon glyphicon-chevron-down arrow-transform"></span>
+                                        </p>
+                                        </div>
+                                        <div class="overlay-info">
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                            <a class="btn btn-danger" href="#">Lorem ipsum </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                 <div id="wrap" class="oe_structure oe_empty"/>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </xpath>
+        
 </template>
         
         
 
-        
-        
 
-        
+<template id="theme_gordon_css" inherit_id="website_less.theme" customize_show="True" name="Snippet CSS"> 
+    <xpath expr="//link[@href='/website/static/src/css/website.css']" position="after">
+        <link rel="stylesheet" href="/theme_gordon/static/src/css/snippets.css" t-ignore="true"/>
+        <link rel="stylesheet" href="/theme_gordon/static/src/css/custom.css" t-ignore="true"/>
+    </xpath>  
+</template>        
         
         
         

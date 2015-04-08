@@ -28,6 +28,7 @@ from datetime import datetime
 import openerp.tools
 import werkzeug
 
+
 class website_gordonramsay(http.Controller):
     @http.route(['/henriksmatbod'], type='http', auth="public", website=True)
     def matbod_header(self, **post):
@@ -36,3 +37,7 @@ class website_gordonramsay(http.Controller):
         ctx = {
             }
         return request.render('theme_gordonramsay.main', ctx)   
+
+class website(models.Model):
+    _inherit = 'website'
+
