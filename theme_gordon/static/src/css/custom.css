@@ -9,11 +9,13 @@ body {
     -webkit-font-smoothing: antialiased !important;
     font-family: 'Cabin', sans-serif;
     color:#d6d6d6;
-    background-image: url(/theme_gordon/static/src/img/background_fork.jpg);
+/*
+    background-image: url(/theme_gordon/static/src/img/background_fork2.jpeg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
+*/
 }
 .btn 
 {
@@ -31,7 +33,7 @@ body {
     background-color:#263483;
     border:none;
 }
-.full-wrapper
+.container .full-wrapper
 {
     padding:0px;
     height:inherit;
@@ -44,14 +46,14 @@ body {
     background-color:rgba(16, 16, 19, 0.67);
     font-family: 'Francois One', sans-serif;
 }
-.logo
+.navbar-brand
 {
-
     height:100%;
     width:247px;
     display:block;
     box-sizing: border-box;
     padding:20px;
+    max-height: 100px;
 }
 .logoimage
 {
@@ -92,6 +94,19 @@ body {
     border-bottom:2px solid #283891;
 }
 
+/*
+main {
+    background-color:#101013;
+    -webkit-font-smoothing: antialiased !important;
+    font-family: 'Cabin', sans-serif;
+    color:#d6d6d6;
+    background-image: url(/theme_gordon/static/src/img/background_fork.jpeg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+*/
 .toggle-menu
 {
     height:100px;
@@ -111,6 +126,40 @@ body {
     width:32px;
     height:32px;
 }
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0px;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 100px;
+    padding: 5px 0px;
+    margin: 2px 0px 0px;
+    list-style: outside none none;
+    font-size: 14px;
+    background-color: #222;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 4px;
+    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.176);
+    background-clip: padding-box;
+    line-height: 25px;
+}
+
+div.dropdown > .dropdown-menu, div.dropdown > .dropdown-menu .dropdown-submenu > .dropdown-menu {  /* Customize menu */
+    background-color: #AAA;
+
+}
+.navbar-nav > li > .dropdown-menu {  /* systray  menu */
+    background-color: #AAA;
+}
+
+
+.dropdown-toggle {
+    line-height: 25px;
+}
+
 .jumbo-background
 {
 
@@ -206,7 +255,6 @@ body {
     padding-top:10px;
     padding-bottom:10px;
 }
-
 
 
 @media (max-width: 992px)
