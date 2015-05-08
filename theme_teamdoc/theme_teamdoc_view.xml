@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+         <template id="main" name="Teamdoc main">
+            <head>
+            </head>
+            <body>
+                <t t-name="website.main">
+                    <t t-call="website.layout">
+                      <div id="wrap" class="oe_structure oe_empty"/>
+                    </t>
+                </t>
+            </body>
+        </template>
+        
+        
+        
+        
+        
+        
+<!--
+SNIPPETS        
+-->
+        
+        
+        
+           
+<template id="snippets" inherit_id="website.snippets" name="Theme Teamdoc snippets">
+            <xpath expr="//div[@id='snippet_structure']" position="inside">
+            
+            </xpath>
+
+</template>
+        
+        
+
+<template id="theme_teamdoc_css" inherit_id="website.assets_frontend" customize_show="True" name="Teamdoc CSS"> 
+    <xpath expr="//script[@src='/web/static/lib/bootstrap/js/bootstrap.js']" position="after">
+        <link rel="stylesheet" href="/theme_teamdoc/static/src/css/snippets.css" t-ignore="true"/>
+        <link rel="stylesheet" href="/theme_teamdoc/static/src/css/custom.css" t-ignore="true"/>
+    </xpath>  
+</template>        
+        
+
+        
+        
+        
+        
+    </data>
+</openerp>
