@@ -16,6 +16,72 @@
         
         
         
+<template id="news-block-one" name="Latest news for a block">
+                  <t t-set="news" t-value="request.env['blog.post'].search([('website_published','=',True)],order='write_date asc')"/>
+                  
+                  
+                    <div class="grid-box-g" t-if="len(news)&gt;0">
+                      <t t-set="post" t-value="news[0]"/>
+                      <img t-att-src="post.background_image" style=""/>
+                      <div class="grid-box-overlay">
+                        <div class="overlay-row">
+                          <p class="overlay-title"><t t-esc="post.name"/></p>
+                          <span class="glyphicon glyphicon-chevron-down arrow-transform"/>
+                        </div>
+                        <div class="overlay-info">
+
+                         <h2><t t-esc="post.subtitle"/></h2>
+                         
+                         <a class="btn btn-primary" t-attf-href="/blog/#{ slug(post.blog_id) }/post/#{ slug(post) }">Läs mer</a>
+                         
+                        </div>
+                      </div>
+                    
+                </div>         
+
+</template>
+
+<template id="news-listing" name="News listing">
+    <t t-if="not news" t-set="news" t-value="request.env['blog.post'].search([('website_published','=',True)],order='write_date asc')"/>
+    <t t-if="not news_count" t-set="news_count" t-value="5"/>
+    
+    
+    <t t-foreach="news[0..news_count]" t-as="n" >
+        <a t-att-href="'news/%s' % n.id">
+            <t t-field="n.name" />
+        </a>
+    </t>
+
+</template>
+
+
+<template id="news-block-three" name="News block three">
+    <t t-if="not news" t-set="news" t-value="request.env['blog.post'].search([('website_published','=',True)],order='write_date asc')"/>
+    
+    
+    <div class="row md-cols-6">
+        <img t-att-src="news[0].background_image" style=""/>
+        <t t-field="news[0].name" />
+        <t t-field="news[0].content" />
+    </div>
+    <div class="row">
+        <div class="md-cols-3">
+        <a t-att-href="'news/%s' % news[1].id">
+            <t t-field="news[1].name" />
+        </a>
+        </div>
+        <div class="md-cols-3">
+        <a t-att-href="'news/%s' % news[2].id">
+            <t t-field="news[2].name" />
+        </a>
+        </div>
+
+
+    </div>
+    
+
+</template>
+
         
         
 <!--
