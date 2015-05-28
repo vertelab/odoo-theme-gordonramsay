@@ -30,9 +30,10 @@ Teamdoc style theme.
 """,
     'author': 'Vertel AB',
     'website': 'http://www.vertel.se',
-    'depends': ['website',],
+    'depends': ['website','website_blog'],
     'data': [
         'theme_teamdoc_view.xml',
+        'theme_freelancer.xml',
 ],
     'application': True,
 }

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+
+<!--
+        <template id="theme_freelancer_user_nav" inherit_id="website.user_navbar" customize_show="True" active="False" name="Freelancer User Nav Hide org">
+            <xpath expr="//@id='oe_main_menu_navbar'" position="replace">
+                <div id="oe_main_menu_navbar"/>
+            </xpath>
+        </template>
+-->
+
+
+        <template id="theme_freelancer" inherit_id="website.layout" customize_show="True" active="False" name="Freelancer">
+            
+<!--
+            <xpath expr="//@id='oe_main_menu_navbar'" position="replace">
+                <div id="oe_main_menu_navbar"/>
+            </xpath>
+-->
+           
+            
+            <xpath expr="//head" position="inside">
+                <style>
+                    body { padding-top: 200px; }
+                </style>
+            </xpath>
+            
+            
+            <xpath expr="//header" position="replace">
+             <!-- Navigation -->
+             <header>
+                <nav class="navbar navbar-default navbar-fixed-top">
+                        <div id="oe_main_menu_navbar" class="navbar-inverse" role="navigation">
+                            <div class="navbar-header">
+                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#oe_applications">
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>    
+                            </div>
+
+                            <ul id="oe_applications" class="nav navbar-nav navbar-left navbar-collapse collapse" groups="base.group_website_publisher">
+                                <li class="dropdown active">
+                                    <a href="#" class="dropdown-toggle hidden-xs" data-toggle="dropdown"><i class="fa fa-th-large"></i> Website<b class="caret"/></a>
+                                    <ul class="dropdown-menu">
+                                        <li t-foreach="menu_data['children']" t-as="menu">
+                                            <t t-call="web.menu_link"/>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+
+                            <ul id="oe_editzone" class="nav navbar-nav hidden-xs" style="padding-left: 20px; display: none;" groups="base.group_website_publisher">
+                                <li><button type="button" data-action="edit" class="btn btn-primary btn-xs">Edit</button></li>
+                            </ul>
+
+                            <ul id="oe_systray" class="nav navbar-nav navbar-right pull-right hidden-xs">
+                                <!-- Mobile -->
+                                <li>
+                                    <a data-action="show-mobile-preview" href="#">
+                                        <span title="Mobile preview"><i class="fa fa-mobile"/></span>
+                                    </a>
+                                </li>
+
+                                <!-- Promote -->
+                                <li groups="base.group_website_designer">
+                                    <a data-action="promote-current-page" href="#">
+                                        <span title="Promote page on the web">Promote</span>
+                                    </a>
+                                </li>
+
+                                <!-- Content -->
+                                <li class="dropdown" groups="base.group_website_publisher">
+                                    <a id="content-menu-button" class="dropdown-toggle" data-toggle="dropdown" href="#">
+                                        Content <span class="caret"></span>
+                                    </a>
+                                    <ul class="dropdown-menu oe_content_menu" role="menu">
+                                        <li groups="base.group_website_designer"><a data-action="edit_menu" href="#"><span title="Edit Top Menu">Edit Menu</span></a></li>
+                                        <li class="divider" groups="base.group_website_designer"> </li>
+                                        <li groups="base.group_website_designer"><a href="#" data-action="new_page">New Page</a></li>
+                                    </ul>
+                                </li>
+
+                                <!-- Customize -->
+                                <li class="dropdown" id="customize-menu" groups="base.group_website_designer">
+                                    <a id="customize-menu-button" class="dropdown-toggle" data-toggle="dropdown" href="#">
+                                        Customize <span class="caret"></span>
+                                    </a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="#advanced-view-editor" data-action='ace'>HTML Editor</a></li>
+                                        <li><a href="/page/website.themes">Change Theme</a></li>
+                                        <li><a href="/web#return_label=Website&amp;action=website.action_module_website">Install Apps</a></li>
+                                        <li class="divider"></li>
+                                    </ul>
+                                </li>
+
+                                <!-- Help -->
+                                <li class="dropdown">
+                                    <a id="help-menu-button" class="dropdown-toggle" data-toggle="dropdown" href="#">
+                                        Help <span class="caret"></span>
+                                    </a>
+                                    <ul class="dropdown-menu" role="menu" id="help-menu">
+                                        <li class="dropdown-header">HELP &amp; TUTORIALS</li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>  <!-- user_navbar -->
+                    
+                    <div class="container">
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header page-scroll">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-collapse">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand" href="/" t-field="res_company.name"/>
+                        </div>
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="collapse navbar-collapse navbar-top-collapse" >
+                                <ul class="nav navbar-nav navbar-right" id="top_menu">
+                                    <t t-foreach="website.menu_id.child_id" t-as="submenu">
+                                        <t t-call="website.submenu"/>
+                                    </t>
+                                    <li class="divider" t-ignore="true" t-if="website.user_id != user_id"/>
+                                    <li class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                            <b>
+                                                <span t-esc="user_id.name"/>
+                                                <span class="caret"></span>
+                                            </b>
+                                        </a>
+                                        <ul class="dropdown-menu js_usermenu" role="menu">
+                                            <li><a href="/web" role="menuitem">My Account</a></li>
+                                            <li class="divider"/>
+                                            <li><a t-attf-href="/web/session/logout?redirect=/" role="menuitem">Logout</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                        </div>
+                        <!-- /.navbar-collapse -->
+                    </div>
+                    <!-- /.container-fluid -->
+                </nav>
+                </header>                            
+            </xpath>
+
+            <xpath expr="//footer" position="replace">
+                        <!-- Footer -->
+                        <footer class="text-center">
+                            <div class="footer-above">
+                                <div class="container" id="footer_container">
+                                    <div class="row">
+                                        <div class="footer-col col-md-4">
+                                            <h3>Location</h3>
+                                            <p>3481 Melrose Place<br/>Beverly Hills, CA 90210</p>
+                                        </div>
+                                        <div class="footer-col col-md-4">
+                                                <h4>Connect with us</h4>
+                                                <ul class="list-unstyled">
+                                                    <li><a href="/page/website.contactus">Contact us</a></li>
+                                                </ul>
+                                                <ul class="list-unstyled">
+                                                    <li t-ignore="true"><i class="fa fa-phone"></i> <span t-field="res_company.phone"></span></li>
+                                                    <li t-ignore="true"><i class="fa fa-envelope"></i>  <span t-field="res_company.email"></span></li>
+                                                </ul>
+                                                <h2>
+                                                    <a t-att-href="website.social_facebook" t-if="website.social_facebook"><i class="fa fa-facebook-square"/></a>
+                                                    <a t-att-href="website.social_twitter" t-if="website.social_twitter"><i class="fa fa-twitter"/></a>
+                                                    <a t-att-href="website.social_linkedin" t-if="website.social_linkedin"><i class="fa fa-linkedin"/></a>
+                                                    <a t-att-href="website.social_youtube" t-if="website.social_youtube"><i class="fa fa-youtube-play"/></a>
+                                                    <a t-att-href="website.social_googleplus" t-if="website.social_googleplus" rel="publisher"><i class="fa fa-google-plus-square"/></a>
+                                                    <a t-att-href="website.social_github" t-if="website.social_github"><i class="fa fa-github"/></a>
+                                                </h2>
+                                        </div>
+                                        <div class="col-md-5 col-lg-offset-1">
+                                            <div>
+                                                <h4>
+                                                    <span t-field="res_company.name" />
+                                                    <small> - <a href="/page/website.aboutus">About us</a></small>
+                                                </h4>
+                                                <p>
+                                                    We are a team of passionate people whose goal is to improve everyone's
+                                                    life through disruptive products. We build great products to solve your
+                                                    business problems.
+                                                </p>
+                                                <p>
+                                                    Our products are designed for small to medium size companies willing to optimize
+                                                    their performance.
+                                                </p>
+                                                                      <h3>About Freelancer</h3>
+                                                                    <p>Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
+                                            </div>
+                                            <ul class="list-inline js_language_selector mt16" t-if="(request.website_multilang and len(languages) &gt; 1) or editable">
+                                                <li t-foreach="languages" t-as="lg">
+                                                    <a t-att-href="url_for(request.httprequest.path + '?' + keep_query(), lang=lg[0])"
+                                                     t-att-data-default-lang="editable and 'true' if lg[0] == website.default_lang_code else None">
+                                                     <t t-esc="lg[1].split('/').pop()"/></a>
+                                                </li>
+                                                <li groups="base.group_website_publisher">
+                                                    <t t-set="url_return" t-value="url_for('', '[lang]') + '?' + keep_query()"/>
+                                                    <a t-attf-href="/web#action=base.action_view_base_language_install&amp;website_id=#{website.id}&amp;url_return=#{url_return}">
+                                                    <i class="fa fa-plus-circle"/>
+                                                    Add a language...
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                </div>
+                                    </div> <!-- row -->
+                                </div>
+                            </div> <!-- above -->
+                            <div class="footer-below">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            Copyright &amp;copy; Your Website 2014
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            
+                        </footer>
+
+                        <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+                        <div class="scroll-top page-scroll visible-xs visible-sm">
+                            <a class="btn btn-primary" href="#page-top">
+                                <i class="fa fa-chevron-up"></i>
+                            </a>
+                        </div>
+                </xpath>
+            
+        </template>
+
+
+
+        <template id="navbar-fixed-top" inherit_id="website.layout" customize_show="True" active="False" name="Navbar fixed top">
+
+            <xpath expr="//head" position="inside">
+                <style>
+                    body { padding-top: 50px; }
+                </style>
+            </xpath>
+            
+
+            <xpath expr="//header" position="replace">
+             <!-- Navigation -->
+             <header>
+                <nav class="navbar navbar-default navbar-fixed-top">     
+              <div class="container">
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header page-scroll">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-collapse">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand" href="/" t-field="res_company.name"/>
+                        </div>
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="collapse navbar-collapse navbar-top-collapse" >
+                                <ul class="nav navbar-nav navbar-right" id="top_menu">
+                                    <t t-foreach="website.menu_id.child_id" t-as="submenu">
+                                        <t t-call="website.submenu"/>
+                                    </t>
+                                    <li class="divider" t-ignore="true" t-if="website.user_id != user_id"/>
+                                    <li class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                            <b>
+                                                <span t-esc="user_id.name"/>
+                                                <span class="caret"></span>
+                                            </b>
+                                        </a>
+                                        <ul class="dropdown-menu js_usermenu" role="menu">
+                                            <li><a href="/web" role="menuitem">My Account</a></li>
+                                            <li class="divider"/>
+                                            <li><a t-attf-href="/web/session/logout?redirect=/" role="menuitem">Logout</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                        </div>
+                        <!-- /.navbar-collapse -->
+                    </div>
+                    <!-- /.container-fluid -->
+                </nav>
+                </header>                            
+            </xpath>
+            </template>
+            
+            
+            
+            <template id="menu-side-col" inherit_id="website.layout" customize_show="True" active="False" name="Menu side-bar">
+
+            <xpath expr="//main" position="replace">
+             <!-- Navigation -->
+              <div class="container">
+                  <div class="row">
+                        <div class="col-md-8">
+                            <t t-raw="0"/>
+                        </div>
+                        <div class="col-md-4">
+                            <!-- Brand and toggle get grouped for better mobile display -->
+                            <div class="navbar-header page-scroll">
+                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-collapse">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+                              
+                            </div>
+                            <!-- Collect the nav links, forms, and other content for toggling -->
+                            <div class="collapse navbar-collapse navbar-top-collapse" >
+                                    <ul class="nav navbar-nav navbar-right" id="top_menu">
+                                        <t t-foreach="website.menu_id.child_id" t-as="submenu">
+                                            <t t-call="website.submenu"/>
+                                        </t>
+                                        <li class="divider" t-ignore="true" t-if="website.user_id != user_id"/>
+                                        <li class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
+                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                                <b>
+                                                    <span t-esc="user_id.name"/>
+                                                    <span class="caret"></span>
+                                                </b>
+                                            </a>
+                                            <ul class="dropdown-menu js_usermenu" role="menu">
+                                                <li><a href="/web" role="menuitem">My Account</a></li>
+                                                <li class="divider"/>
+                                                <li><a t-attf-href="/web/session/logout?redirect=/" role="menuitem">Logout</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                            </div>
+                            <div>
+                                <p/>
+                            </div>
+
+                    </div> <!-- col-md-4 -->
+                </div>
+            </div>
+            </xpath>
+
+            <xpath expr="//header" position="replace">
+                <header>
+                    <div class="navbar navbar-default navbar-static-top">
+                        <div class="container">
+                            <div class="navbar-header">
+                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-collapse">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+                                <a class="navbar-brand" href="/" t-field="res_company.name"/>
+                            </div>
+                            <div class="collapse navbar-collapse navbar-top-collapse"/>
+                        </div>
+                    </div>
+                </header>
+            </xpath>
+
+
+            </template>
+                
+    </data>
+    
+    
+    
+</openerp>
