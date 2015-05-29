@@ -291,7 +291,7 @@
             </template>
             
             
-            
+      
             <template id="menu-side-col" inherit_id="website.layout" customize_show="True" active="False" name="Menu side-bar">
 
             <xpath expr="//main" position="replace">
@@ -327,9 +327,11 @@
                                                 </b>
                                             </a>
                                             <ul class="dropdown-menu js_usermenu" role="menu">
+<!--
                                                 <li><a href="/web" role="menuitem">My Account</a></li>
                                                 <li class="divider"/>
                                                 <li><a t-attf-href="/web/session/logout?redirect=/" role="menuitem">Logout</a></li>
+-->
                                             </ul>
                                         </li>
                                     </ul>
@@ -364,9 +366,21 @@
 
 
             </template>
+            
+            <template id="big_logo" inherit_id="website.layout" customize_show="True" active="False" name="Big Logo" priority="99">
+                <xpath expr="//header//a[@class='navbar-brand logo'] | //header//a[@class='navbar-brand']" position="replace">
+                    <a href="/" class="navbar-brand"/>
+                </xpath>
+                
+                <xpath expr="//body/div" position="before">
+                    <div class="collapse navbar-collapse col-md-12" align="center" id="big_logo_column">
+                        <img src="/logo.png" t-att-alt="'Logo of %s' % res_company.name" t-att-title="res_company.name"/>
+                    </div>
+                </xpath>
+            </template>
+            
+
                 
     </data>
-    
-    
     
 </openerp>
