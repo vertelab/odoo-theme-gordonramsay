@@ -175,35 +175,7 @@ SNIPPETS
         </xpath>
     </template>
     
-    <!-- DRAG & DROP SNIPPETS -->
-    <template id="snippets" inherit_id="website.snippets" name="Theme Teamdoc Snippets">
-        <xpath expr="//div[@id='snippet_content']" position="inside">
-            <div>
-                <div class="oe_snippet_thumbnail">
-                    <img class="oe_snippet_thumbnail_img" src="/theme_gordon/static/src/img/block_panel_empty.png"/>
-                    <span class="oe_snippet_thumbnail_title">Boxes</span>
-                </div>
-                
-               <section><p></p>
-                    <ul id='services'>
-                        <li>
-                            <a href="mailto: blog@gmail.com"><div class='fa fa-envelope-o'></div></a>
-                            <span>E-mail</span>
-                        </li>
-                        <li>
-                            <a href="tel: 070-1232314"><div class='fa fa-mobile'></div></a>
-                            <span>Ring Oss</span>
-                        </li>
-                        <li>
-                            <a href="https://www.google.se/maps/place/Datalinjen+3,+583+30+Link%C3%B6ping/@58.3969471,15.5561867,17z/data=!3m1!4b1!4m2!3m1!1s0x46596f7d039b57bd:0x8553db47620d481b">
-                                <div class='fa fa-map-marker'></div></a>
-                            <span>Besök Oss</span>
-                        </li>
-                    </ul>
-                </section>
-            </div>
-        </xpath>
-    </template>
+    
         
     
 </data>
