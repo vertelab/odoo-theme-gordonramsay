@@ -89,28 +89,123 @@ SNIPPETS
 -->
         
         
-        
-           
-<template id="snippets" inherit_id="website.snippets" name="Theme Teamdoc snippets">
-            <xpath expr="//div[@id='snippet_structure']" position="inside">
+     <template id="theme_teamdoc_css" inherit_id="website.assets_frontend" customize_show="True" name="Teamdoc CSS"> 
+        <xpath expr="//script[@src='/web/static/lib/bootstrap/js/bootstrap.js']" position="after">
+            <link rel="stylesheet" href="/theme_teamdoc/static/src/css/snippets.css" t-ignore="true"/>
+            <link rel="stylesheet" href="/theme_teamdoc/static/src/css/custom.css" t-ignore="true"/>
+            <link rel="stylesheet" href="/theme_teamdoc/static/src/css/socialmedia.css" t-ignore="true"/>
+            <link rel="stylesheet" href="/theme_teamdoc/static/src/css/boxes.css" t-ignore="true"/> 
             
+            <!-- TRANSPARENT NAVBAR-->
+            <link rel="stylesheet" href="/theme_teamdoc/static/src/css/navbar.css" t-ignore="true"/>
+            <script src="/theme_teamdoc/static/src/js/navbar.js"></script>
+            
+             <!-- SOCIAL BUTTONS
+            <link href="http://codepen.io/cguillou/pen/LmCuJ.css" rel="stylesheet" type="text/css"/>
+            <script src="http://codepen.io/cguillou/pen/LmCuJ.scss"></script> -->
+            
+        </xpath>  
+    </template>    
+           
+    <!-- TRANSPARENT NAVBAR -->
+    <!-- <template id="transparent_navbar" inherit_id="website.layout" customize_show="True" active="False" name="Theme Teamdoc snippets">
+        <xpath expr="//ul[@id='top_menu']" position="replace"> -->
+        
+        <template id="transparent navbar" inherit_id="website.layout" customize_show="True" active="False" name="Theme Teamdoc snippets">
+            <xpath expr="//header" position="replace">
+                <header>
+                    <div id="custom-nav" class="navbar navbar-default navbar-fixed-top">
+                        <div class="container">
+                            <div class="navbar-header">
+                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-collapse">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+                                <a class="navbar-brand" href="/" t-field="res_company.name"/>
+                            </div>
+                            <div class="collapse navbar-collapse navbar-top-collapse">
+                                <ul class="nav navbar-nav navbar-right" id="top_menu">
+                                    <t t-foreach="website.menu_id.child_id" t-as="submenu">
+                                        <t t-call="website.submenu"/>
+                                    </t>
+                                    <li class="divider" t-ignore="true" t-if="website.user_id != user_id"/>
+                                    <li class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                            <b>
+                                                <span t-esc="user_id.name"/>
+                                                <span class="caret"></span>
+                                            </b>
+                                        </a>
+                                        <ul class="dropdown-menu js_usermenu" role="menu">
+                                            <li><a href="/web" role="menuitem">My Account</a></li>
+                                            <li class="divider"/>
+                                            <li><a t-attf-href="/web/session/logout?redirect=/" role="menuitem">Logout</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </header>
             </xpath>
+            
+              <xpath expr="//head" position="inside">
+<!--
+                <style>
+                    body { padding-top: 50px; }                    
+                </style>
+-->
+            </xpath>
+        </template>
 
-</template>
-        
-        
 
-<template id="theme_teamdoc_css" inherit_id="website.assets_frontend" customize_show="True" name="Teamdoc CSS"> 
-    <xpath expr="//script[@src='/web/static/lib/bootstrap/js/bootstrap.js']" position="after">
-        <link rel="stylesheet" href="/theme_teamdoc/static/src/css/snippets.css" t-ignore="true"/>
-        <link rel="stylesheet" href="/theme_teamdoc/static/src/css/custom.css" t-ignore="true"/>
-    </xpath>  
-</template>        
+    
+    <!-- SOCIAL MEDIA BUTTONS IN FOOTER -->
+    <template id="socialmedia" inherit_id="website.layout" customize_show="True" active="False" name="Social Media">
+        <xpath expr="//div[@id='info']/h2" position="replace">
+            <div >
+                <a href="https://www.facebook.com/bootsnipp"><i id="social" class="fa fa-facebook-square fa-3x social-fb"></i></a>
+                <a href="https://twitter.com/bootsnipp"><i id="social" class="fa fa-twitter-square fa-3x social-tw"></i></a>
+                <a href="https://www.linkedin.com/"><i id="social" class="fa fa-linkedin-square fa-3x social-in"/></a>
+                <a href="https://plus.google.com/+Bootsnipp-page"><i id="social" class="fa fa-google-plus-square fa-3x social-gp"></i></a>
+                <a href="mailto:goran@camcar.nu"><i id="social" class="fa fa-envelope-square fa-3x social-em"></i></a>
+            </div>
+        </xpath>
+    </template>
+    
+    <!-- DRAG & DROP SNIPPETS -->
+    <template id="snippets" inherit_id="website.snippets" name="Theme Teamdoc Snippets">
+        <xpath expr="//div[@id='snippet_content']" position="inside">
+            <div>
+                <div class="oe_snippet_thumbnail">
+                    <img class="oe_snippet_thumbnail_img" src="/theme_gordon/static/src/img/block_panel_empty.png"/>
+                    <span class="oe_snippet_thumbnail_title">Boxes</span>
+                </div>
+                
+               <section><p></p>
+                    <ul id='services'>
+                        <li>
+                            <a href="mailto: blog@gmail.com"><div class='fa fa-envelope-o'></div></a>
+                            <span>E-mail</span>
+                        </li>
+                        <li>
+                            <a href="tel: 070-1232314"><div class='fa fa-mobile'></div></a>
+                            <span>Ring Oss</span>
+                        </li>
+                        <li>
+                            <a href="https://www.google.se/maps/place/Datalinjen+3,+583+30+Link%C3%B6ping/@58.3969471,15.5561867,17z/data=!3m1!4b1!4m2!3m1!1s0x46596f7d039b57bd:0x8553db47620d481b">
+                                <div class='fa fa-map-marker'></div></a>
+                            <span>Besök Oss</span>
+                        </li>
+                    </ul>
+                </section>
+            </div>
+        </xpath>
+    </template>
         
-
-        
-        
-        
-        
-    </data>
+    
+</data>
 </openerp>
+
