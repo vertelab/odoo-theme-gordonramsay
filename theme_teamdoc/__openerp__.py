@@ -34,6 +34,7 @@ Teamdoc style theme.
     'data': [
         'theme_teamdoc_view.xml',
         'theme_freelancer.xml',
+        'theme_business_casual.xml',
 ],
     'application': True,
 }

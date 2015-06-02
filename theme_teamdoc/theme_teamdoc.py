@@ -35,7 +35,7 @@ class website(models.Model):
        
 class Teamdoc(http.Controller):
 
-    @http.route(['/logo500.png',],type='http', auth="none", cors="*")
+    @http.route(['/logo500.png',],type='http', auth="public", cors="*")
     def company_logo500(self, dbname=None, **kw):
         
         #def website_image(self, model, id, field, max_width=None, max_height=None):    
@@ -44,9 +44,9 @@ class Teamdoc(http.Controller):
       #  return "User id: %s" % (user_id)
 
         user = request.registry['res.users'].browse(request.cr, request.uid,request.uid)
-        return "User id: %s user %s " % (request.uid,user.company_id.logo_web)
-        return "User id: %s user %s company id %s" % (user_id,user,user.company_id.id if user.company_id else 99)
-        
+        #~ return "User id: %s user %s " % (request.uid,user.company_id.logo_web)
+        #~ return "User id: %s user %s company id %s" % (user_id,user,user.company_id.id if user.company_id else 99)
+        #~ 
         
         
         response = werkzeug.wrappers.Response()
