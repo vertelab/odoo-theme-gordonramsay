@@ -89,23 +89,7 @@ SNIPPETS
 -->
         
         
-     <template id="theme_teamdoc_css" inherit_id="website.assets_frontend" customize_show="True" name="Teamdoc CSS"> 
-        <xpath expr="//script[@src='/web/static/lib/bootstrap/js/bootstrap.js']" position="after">
-            <link rel="stylesheet" href="/theme_teamdoc/static/src/css/snippets.css" t-ignore="true"/>
-            <link rel="stylesheet" href="/theme_teamdoc/static/src/css/custom.css" t-ignore="true"/>
-            <link rel="stylesheet" href="/theme_teamdoc/static/src/css/socialmedia.css" t-ignore="true"/>
-            <link rel="stylesheet" href="/theme_teamdoc/static/src/css/boxes.css" t-ignore="true"/> 
-            
-            <!-- TRANSPARENT NAVBAR-->
-            <link rel="stylesheet" href="/theme_teamdoc/static/src/css/navbar.css" t-ignore="true"/>
-            <script src="/theme_teamdoc/static/src/js/navbar.js"></script>
-            
-             <!-- SOCIAL BUTTONS
-            <link href="http://codepen.io/cguillou/pen/LmCuJ.css" rel="stylesheet" type="text/css"/>
-            <script src="http://codepen.io/cguillou/pen/LmCuJ.scss"></script> -->
-            
-        </xpath>  
-    </template>    
+  
            
     <!-- TRANSPARENT NAVBAR -->
     <!-- <template id="transparent_navbar" inherit_id="website.layout" customize_show="True" active="False" name="Theme Teamdoc snippets">
