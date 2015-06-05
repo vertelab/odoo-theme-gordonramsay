@@ -38,16 +38,6 @@
             <xpath expr="//header//ul" position="attributes">
                  <attribute name="class">nav navbar-nav</attribute>
             </xpath>
-
-            <xpath expr="//main" position="replace">
-                <main class="mt16">
-                    <div class="row">
-                        <div class="box mt16">
-                            <t t-raw="0"/>
-                        </div>
-                    </div>
-                </main>
-            </xpath>
     
         </template>
         
