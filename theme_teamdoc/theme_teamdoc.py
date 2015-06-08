@@ -50,7 +50,24 @@ class Teamdoc(http.Controller):
         
         
         response = werkzeug.wrappers.Response()
-        return request.registry['website']._image(request.cr, request.uid, 'res.company', user.company_id.id, 'logo_web', response, max_width=500, max_height=None,)
+        return request.registry['website']._image(request.cr, request.uid, 'res.company', user.company_id.id, 'logo', response, max_width=500, max_height=None,)
+
+    @http.route(['/logo1024.png',],type='http', auth="public", cors="*")
+    def company_logo1024(self, dbname=None, **kw):
+        
+        #def website_image(self, model, id, field, max_width=None, max_height=None):    
+        #def _image(self, cr, uid, model, id, field, response, max_width=maxint, max_height=maxint, cache=None, context=None):
+        #user_id = request.registry['ir.model.data'].xmlid_to_res_id(request.cr, openerp.SUPERUSER_ID, 'base.public_user')
+      #  return "User id: %s" % (user_id)
+
+        user = request.registry['res.users'].browse(request.cr, request.uid,request.uid)
+        #~ return "User id: %s user %s " % (request.uid,user.company_id.logo_web)
+        #~ return "User id: %s user %s company id %s" % (user_id,user,user.company_id.id if user.company_id else 99)
+        #~ 
+        
+        
+        response = werkzeug.wrappers.Response()
+        return request.registry['website']._image(request.cr, request.uid, 'res.company', user.company_id.id, 'logo', response, max_width=1024, max_height=None,)
 
 
     @http.route(['/companytest',],type='http', auth="none")
