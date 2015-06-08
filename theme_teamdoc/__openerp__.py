@@ -21,7 +21,7 @@
 
 {
     'name': 'Theme Teamdoc',
-    'version': '0.2',
+    'version': '0.3',
     'category': 'Theme',
     'summary': 'A teamdoc style theme',
     'description': """
@@ -34,6 +34,8 @@ Teamdoc style theme.
     'data': [
         'theme_teamdoc_view.xml',
         'theme_freelancer.xml',
+        'theme_business_casual.xml',
+        'website_overwritten_templates.xml',
 ],
     'application': True,
 }
