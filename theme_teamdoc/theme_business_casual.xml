@@ -57,28 +57,32 @@
         </template>
         
         <template id="deactivate_user_dropdown" inherit_id="website.layout" name="Deactivate User Dropdown" priority="99">
-                <xpath expr="//body/div/header/div/div/div[2]/ul/li[2]" position="replace">
-
-                </xpath>
+            <xpath expr="//body/div/header/div/div/div[2]/ul/li[2]" position="replace">
+                <!-- remove log out menu in top menu -->
+            </xpath>
         </template>
         
         <template id="activate_user_dropdown" inherit_id="website.layout" name="Activate User Dropdown" priority="99">
-                <xpath expr="//body/div/footer/div" position="inside">
-                    <div class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                            <b>
-                                <span t-esc="user_id.name"/>
-                                <span class="caret"></span>
-                            </b>
-                        </a>
-                        <ul class="dropdown-menu js_usermenu" role="menu">
-                            <li><a href="/web" role="menuitem">My Account</a></li>
-                            <li class="divider"/>
-                            <li><a t-attf-href="/web/session/logout?redirect=/" role="menuitem">Logout</a></li>
-                        </ul>
-                    </div>
-                </xpath>
+            <xpath expr="//body/div/footer/div" position="inside">
+                <!-- remove log out menu in top menu -->
+                <div class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                        <b>
+                            <span t-esc="user_id.name"/>
+                            <span class="caret"></span>
+                        </b>
+                    </a>
+                    <ul class="dropdown-menu js_usermenu" role="menu">
+                        <li><a href="/web" role="menuitem">My Account</a></li>
+                        <li class="divider"/>
+                        <li><a t-attf-href="/web/session/logout?redirect=/" role="menuitem">Logout</a></li>
+                    </ul>
+                </div>
+            </xpath>
         </template>
+        
+
+        
         
         
         
