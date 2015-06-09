@@ -174,20 +174,17 @@
             
             <!-- Big Logo -->
             
-            <template id="big_logo" inherit_id="website.layout" customize_show="True" active="False" name="Big Logo" priority="99">
+            <template id="big_logo" inherit_id="website.layout" customize_show="True" active="False" name="Big Logo" priority="1">
                 <xpath expr="//header//a[@class='navbar-brand logo'] | //header//a[@class='navbar-brand']" position="replace">
                     <a href="/" class="navbar-brand"/>
                 </xpath>
                 
-                <xpath expr="//header" position="before">
+                <xpath expr="//header//div//div[@class='container']" position="before">
                     <div class="collapse navbar-collapse col-md-12" align="center" id="big_logo_column">
                         <img src="/logo.png" t-att-alt="'Logo of %s' % res_company.name" t-att-title="res_company.name"/>
                     </div>
                 </xpath>
-            </template>
-            
-
-                
+            </template>      
         
         
 <!--
@@ -205,14 +202,6 @@ SNIPPETS
             <!-- TRANSPARENT NAVBAR-->
             <link rel="stylesheet" href="/theme_teamdoc/static/src/css/navbar.css" t-ignore="true"/>
             <script src="/theme_teamdoc/static/src/js/navbar.js"></script>
-<!--
-            <script src="/theme_teamdoc/static/src/js/headerlogo.js"></script>
--->
-            
-             <!-- SOCIAL BUTTONS
-            <link href="http://codepen.io/cguillou/pen/LmCuJ.css" rel="stylesheet" type="text/css"/>
-            <script src="http://codepen.io/cguillou/pen/LmCuJ.scss"></script> -->
-            
         </xpath>  
     </template>  
     
@@ -240,7 +229,28 @@ SNIPPETS
             <img src="/logo.png" t-att-alt="'Logo of %s' % res_company.name" t-att-title="res_company.name"/>
         </a>
         </xpath>
-               
+        
+        <xpath expr="//header//ul[@class='nav navbar-nav navbar-right']" position="replace">
+            <ul class="nav navbar-nav" id="top_menu">
+                <t t-foreach="website.menu_id.child_id" t-as="submenu">
+                    <t t-call="website.submenu"/>
+                </t>
+                <li class="divider" t-ignore="true" t-if="website.user_id != user_id"/>
+                <li class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                        <b>
+                            <span t-esc="user_id.name"/>
+                            <span class="caret"></span>
+                        </b>
+                    </a>
+                    <ul class="dropdown-menu js_usermenu" role="menu">
+                        <li><a href="/web" role="menuitem">My Account</a></li>
+                        <li class="divider"/>
+                        <li><a t-attf-href="/web/session/logout?redirect=/" role="menuitem">Logout</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </xpath>
     </template>
     
     <!-- REPLACE COMPANY NAME -->
