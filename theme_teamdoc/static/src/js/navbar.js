@@ -1,11 +1,11 @@
-$(window).scroll(function() {
+$(document).on("scroll",function(){
     //After Scroll
-    if ($(".navbar").offset().top > 50) {
+    if ($(document).scrollTop()>50) {
         $('#custom-nav').addClass('affix');
         $(".navbar-fixed-top").addClass("top-nav-collapse");
-        $("#logo-header").addClass("hidden");
+        $("#big_logo_column").addClass("hidden");
         $(".navbar-brand").removeClass("hidden");
-        
+        $('#big_logo_column').addClass('affix');
       
         //$(".navbar-header").removeClass("hide");
     } 
@@ -13,8 +13,9 @@ $(window).scroll(function() {
     else {
         $('#custom-nav').removeClass('affix');
         $(".navbar-fixed-top").removeClass("top-nav-collapse");  
-        $("#logo-header").removeClass("hidden");
+        $("#big_logo_column").removeClass("hidden");
         $(".navbar-brand").addClass("hidden");
+        $('#big_logo_column').removeClass('affix');
         //$(".navbar-header").addClass("hide");
     }
     
