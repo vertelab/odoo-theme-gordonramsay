@@ -13,6 +13,7 @@
                 <style>
                     body {
                         background: url('/theme_teamdoc/static/src/img/brickwall.jpeg') no-repeat center center fixed;
+                        background-size: cover;
                         font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
                     }
                     h1,h2,h3,h4,h5,h6 {
