@@ -167,6 +167,7 @@
                                     <div class="collapse navbar-collapse navbar-top-collapse"/>
                                 </div>
                             </div>
+                            <ul class="nav nav-pills nav-stacked" id="top_menu"/>
                         </header>
                     </xpath>
             </template>

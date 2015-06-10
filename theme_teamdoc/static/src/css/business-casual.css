@@ -187,6 +187,7 @@ footer p {
 
     .navbar-nav>li>a {
         line-height: normal;
+        color: #343434;
     }
 
     .navbar-nav {

@@ -44,28 +44,18 @@
             <xpath expr="//header//div" position="attributes">
                  <attribute name="class">collapse navbar-collapse navbar-top-collapse custom</attribute>
             </xpath>
-    
-        </template>
-        
-        
-        <template id="logo_show_business_casual" inherit_id="website.layout" customize_show="True" active="False" name="Business Casual Show Logo" priority="99">
-                <xpath expr="//body/div" position="replace">
-                    <a href="/" class="brand logo">
-                        <img src="/logo1024.png" t-att-alt="'Logo of %s' % res_company.name" t-att-title="res_company.name"/>
-                    </a>
-                </xpath>
-        </template>
-        
-        <template id="deactivate_user_dropdown" inherit_id="website.layout" name="Deactivate User Dropdown" priority="99">
-            <xpath expr="//body/div/header/div/div/div[2]/ul/li[2]" position="replace">
+            
+            <xpath expr="//ul[@id='top_menu']" position="replace">
                 <!-- remove log out menu in top menu -->
+                <ul class="nav navbar-nav navbar-default" id="top_menu">
+                    <t t-foreach="website.menu_id.child_id" t-as="submenu">
+                        <t t-call="website.submenu"/>
+                    </t>
+                </ul>
             </xpath>
-        </template>
-        
-        <template id="activate_user_dropdown" inherit_id="website.layout" name="Activate User Dropdown" priority="99">
             <xpath expr="//body/div/footer/div" position="inside">
                 <!-- remove log out menu in top menu -->
-                <div class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
+                <li class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                         <b>
                             <span t-esc="user_id.name"/>
@@ -77,9 +67,21 @@
                         <li class="divider"/>
                         <li><a t-attf-href="/web/session/logout?redirect=/" role="menuitem">Logout</a></li>
                     </ul>
-                </div>
+                </li>
+            </xpath>
+    
+        </template>
+        
+        
+        <template id="logo_show_business_casual" inherit_id="website.layout" customize_show="True" active="False" name="Business Casual Show Logo" priority="99">
+            <xpath expr="//body/div" position="replace">
+                <a href="/" class="brand logo">
+                    <img src="/logo1024.png" t-att-alt="'Logo of %s' % res_company.name" t-att-title="res_company.name"/>
+                </a>
             </xpath>
         </template>
+        
+
         
 
         
