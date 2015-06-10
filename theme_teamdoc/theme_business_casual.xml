@@ -33,7 +33,7 @@
                     <div class="address-bar"><t t-esc="res_company.street"/> <t t-esc="res_company.city"/> <t t-esc="res_company.phone"/></div> 
            </xpath>
                    
-            <xpath expr="//header//a[@class='navbar-brand logo'] | //header//a[@class='navbar-brand']" position="replace">
+            <xpath expr="//header//a[@class='navbar-brand logo'] | //header//a[@class='navbar-brand'] | //header//a[@class='navbar-brand logo hidden']" position="replace">
                 <a href="/" class="navbar-brand"/>
             </xpath>
             
@@ -44,41 +44,47 @@
             <xpath expr="//header//div" position="attributes">
                  <attribute name="class">collapse navbar-collapse navbar-top-collapse custom</attribute>
             </xpath>
+            
+            <xpath expr="//ul[@id='top_menu']" position="replace">
+                <!-- remove log out menu in top menu -->
+                <ul class="nav navbar-nav navbar-default" id="top_menu">
+                    <t t-foreach="website.menu_id.child_id" t-as="submenu">
+                        <t t-call="website.submenu"/>
+                    </t>
+                </ul>
+            </xpath>
+            <xpath expr="//body/div/footer/div" position="inside">
+                <!-- remove log out menu in top menu -->
+                <li class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                        <b>
+                            <span t-esc="user_id.name"/>
+                            <span class="caret"></span>
+                        </b>
+                    </a>
+                    <ul class="dropdown-menu js_usermenu" role="menu">
+                        <li><a href="/web" role="menuitem">My Account</a></li>
+                        <li class="divider"/>
+                        <li><a t-attf-href="/web/session/logout?redirect=/" role="menuitem">Logout</a></li>
+                    </ul>
+                </li>
+            </xpath>
     
         </template>
         
         
         <template id="logo_show_business_casual" inherit_id="website.layout" customize_show="True" active="False" name="Business Casual Show Logo" priority="99">
-                <xpath expr="//body/div" position="replace">
-                    <a href="/" class="brand logo">
-                        <img src="/logo1024.png" t-att-alt="'Logo of %s' % res_company.name" t-att-title="res_company.name"/>
-                    </a>
-                </xpath>
+            <xpath expr="//body/div" position="replace">
+                <a href="/" class="brand logo">
+                    <img src="/logo1024.png" t-att-alt="'Logo of %s' % res_company.name" t-att-title="res_company.name"/>
+                </a>
+            </xpath>
         </template>
         
-        <template id="deactivate_user_dropdown" inherit_id="website.layout" name="Deactivate User Dropdown" priority="99">
-                <xpath expr="//body/div/header/div/div/div[2]/ul/li[2]" position="replace">
 
-                </xpath>
-        </template>
         
-        <template id="activate_user_dropdown" inherit_id="website.layout" name="Activate User Dropdown" priority="99">
-                <xpath expr="//body/div/footer/div" position="inside">
-                    <div class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                            <b>
-                                <span t-esc="user_id.name"/>
-                                <span class="caret"></span>
-                            </b>
-                        </a>
-                        <ul class="dropdown-menu js_usermenu" role="menu">
-                            <li><a href="/web" role="menuitem">My Account</a></li>
-                            <li class="divider"/>
-                            <li><a t-attf-href="/web/session/logout?redirect=/" role="menuitem">Logout</a></li>
-                        </ul>
-                    </div>
-                </xpath>
-        </template>
+
+        
         
         
         

@@ -164,8 +164,26 @@
                                 </button>
                                 <a class="navbar-brand" href="/" t-field="res_company.name"/>
                             </div>
+
                             <div class="collapse navbar-collapse navbar-top-collapse"/>
                         </div>
+                    </div>
+                    <ul class="nav nav-pills nav-stacked" id="top_menu"/>
+                </header>
+            </xpath>
+    </template>
+            
+            
+            <!-- Big Logo -->
+            
+            <template id="big_logo" inherit_id="website.layout" customize_show="True" active="False" name="Big Logo" priority="1">
+                <xpath expr="//header//a[@class='navbar-brand logo'] | //header//a[@class='navbar-brand']" position="replace">
+                    <a href="/" class="navbar-brand"/>
+                </xpath>
+                
+                <xpath expr="//header//div//div[@class='container']" position="before">
+                    <div class="collapse navbar-collapse col-md-12" align="center" id="big_logo_column">
+                        <img src="/logo.png" t-att-alt="'Logo of %s' % res_company.name" t-att-title="res_company.name"/>
                     </div>
                 </header>
             </xpath>
@@ -195,7 +213,6 @@ SNIPPETS
      <template id="theme_teamdoc_css" inherit_id="website.assets_frontend" customize_show="True" name="Teamdoc CSS"> 
         <xpath expr="//script[@src='/web/static/lib/bootstrap/js/bootstrap.js']" position="after">
             <link rel="stylesheet" href="/theme_teamdoc/static/src/css/snippets.css" t-ignore="true"/>
-            <link rel="stylesheet" href="/theme_teamdoc/static/src/css/custom.css" t-ignore="true"/>
             <link rel="stylesheet" href="/theme_teamdoc/static/src/css/socialmedia.css" t-ignore="true"/>
             <link rel="stylesheet" href="/theme_teamdoc/static/src/css/boxes.css" t-ignore="true"/> 
             
@@ -231,26 +248,8 @@ SNIPPETS
         </a>
         </xpath>
         
-        <xpath expr="//header//ul[@class='nav navbar-nav navbar-right']" position="replace">
-            <ul class="nav navbar-nav" id="top_menu">
-                <t t-foreach="website.menu_id.child_id" t-as="submenu">
-                    <t t-call="website.submenu"/>
-                </t>
-                <li class="divider" t-ignore="true" t-if="website.user_id != user_id"/>
-                <li class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                        <b>
-                            <span t-esc="user_id.name"/>
-                            <span class="caret"></span>
-                        </b>
-                    </a>
-                    <ul class="dropdown-menu js_usermenu" role="menu">
-                        <li><a href="/web" role="menuitem">My Account</a></li>
-                        <li class="divider"/>
-                        <li><a t-attf-href="/web/session/logout?redirect=/" role="menuitem">Logout</a></li>
-                    </ul>
-                </li>
-            </ul>
+        <xpath expr="//header//ul" position="attributes">
+             <attribute name="class">nav navbar-nav</attribute>
         </xpath>
     </template>
     
