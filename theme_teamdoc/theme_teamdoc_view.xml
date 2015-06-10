@@ -230,26 +230,8 @@ SNIPPETS
         </a>
         </xpath>
         
-        <xpath expr="//header//ul[@class='nav navbar-nav navbar-right'] | //header//ul[@class='nav navbar-nav']" position="replace">
-            <ul class="nav navbar-nav" id="top_menu">
-                <t t-foreach="website.menu_id.child_id" t-as="submenu">
-                    <t t-call="website.submenu"/>
-                </t>
-                <li class="divider" t-ignore="true" t-if="website.user_id != user_id"/>
-                <li class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                        <b>
-                            <span t-esc="user_id.name"/>
-                            <span class="caret"></span>
-                        </b>
-                    </a>
-                    <ul class="dropdown-menu js_usermenu" role="menu">
-                        <li><a href="/web" role="menuitem">My Account</a></li>
-                        <li class="divider"/>
-                        <li><a t-attf-href="/web/session/logout?redirect=/" role="menuitem">Logout</a></li>
-                    </ul>
-                </li>
-            </ul>
+        <xpath expr="//header//ul" position="attributes">
+             <attribute name="class">nav navbar-nav</attribute>
         </xpath>
     </template>
     
