@@ -175,16 +175,48 @@
             
             <!-- Big Logo -->
             
-            <template id="big_logo" inherit_id="website.layout" customize_show="True" active="False" name="Big Logo" priority="1">
-                <xpath expr="//header//a[@class='navbar-brand logo'] | //header//a[@class='navbar-brand']" position="replace">
-                    <a href="/" class="navbar-brand"/>
-                </xpath>
-                
+            <template id="big_logo" inherit_id="website.layout" customize_show="True" active="False" name="Big Logo" priority="99">
+              
+                <xpath expr="//head" position="inside">
+                            <style>
+                                	#big_logo_column{
+                                        padding-top:40px;
+                                        padding-bottom:20px;
+                                    }
+                                    
+                                body {
+                                    xpadding-top: 100px;
+                                }
+                            </style>
+                            <script>
+                            $(document).on("scroll",function(){
+                                    //After Scroll
+                                    if ($(document).scrollTop()>120) {
+                                        $(".navbar-fixed-top").addClass("top-nav-collapse");
+                                        $("#big_logo_column").addClass("hidden");
+                                        $(".navbar-brand").removeClass("hidden");
+                                    } 
+                                    //Before Scroll
+                                    else {
+                                        $(".navbar-fixed-top").removeClass("top-nav-collapse");  
+                                        $("#big_logo_column").removeClass("hidden");
+                                        $(".navbar-brand").addClass("hidden");
+                                    }                        
+                                });
+                            </script>
+               </xpath>
+
                 <xpath expr="//header//div//div[@class='container']" position="before">
                     <div class="collapse navbar-collapse col-md-12" align="center" id="big_logo_column">
-                        <img src="/logo.png" t-att-alt="'Logo of %s' % res_company.name" t-att-title="res_company.name"/>
+                        <img src="/logo1024.png" t-att-alt="'Logo of %s' % res_company.name" t-att-title="res_company.name"/>
                     </div>
                 </xpath>
+                
+            
+                <xpath expr="//header//a[@class='navbar-brand'] | //header//a[@class='navbar-brand logo'] | //header//a[@class='navbar-brand hidden'] | //header//a[@class='navbar-brand logo hidden']" position="attributes">
+                     <attribute name="class">navbar-brand logo hidden</attribute>
+                </xpath>
+            
             </template>      
         
         
@@ -193,42 +225,65 @@ SNIPPETS
 -->
         
         
+<!--
      <template id="theme_teamdoc_css" inherit_id="website.assets_frontend" customize_show="True" name="Teamdoc CSS"> 
         <xpath expr="//script[@src='/web/static/lib/bootstrap/js/bootstrap.js']" position="after">
             <link rel="stylesheet" href="/theme_teamdoc/static/src/css/snippets.css" t-ignore="true"/>
             <link rel="stylesheet" href="/theme_teamdoc/static/src/css/socialmedia.css" t-ignore="true"/>
             <link rel="stylesheet" href="/theme_teamdoc/static/src/css/boxes.css" t-ignore="true"/> 
             
-            <!-- TRANSPARENT NAVBAR-->
+
             <link rel="stylesheet" href="/theme_teamdoc/static/src/css/navbar.css" t-ignore="true"/>
             <script src="/theme_teamdoc/static/src/js/navbar.js"></script>
         </xpath>  
     </template>  
+-->
     
-    <!-- Header Logo Transform -->
-    <template id="logo header" inherit_id="website.layout" customize_show="True" active="False" name="Header Logo Transform">
-        <xpath expr="//body/div" position="before">
-            <div id="logo-header" class="nav-top clearfix">
-                <div class="logo" align="center">
-                    <img src="/logo.png" t-att-alt="'Logo of %s' % res_company.name" t-att-title="res_company.name"/>
-                </div>
-            </div>
-        </xpath>    
-    </template>
-
            
     <!-- TRANSPARENT NAVBAR -->        
     <template id="transparent navbar" inherit_id="website.layout" customize_show="True" active="False" name="Transparent Navbar">
+       
+        <xpath expr="//head" position="inside">
+                <!-- Custom CSS -->
+                <link href="/theme_teamdoc/static/src/css/transparent_navbar.css" rel="stylesheet"/>
+                <style>
+                    body {
+                        background: url('/theme_teamdoc/static/src/img/brickwall.jpeg') no-repeat center center fixed;
+                        background-size: cover;
+                        font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+                    }
+                    h1,h2,h3,h4,h5,h6 {
+                            text-transform: uppercase;
+                            font-family: "Josefin Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+                            font-weight: 700;
+                            letter-spacing: 1px;
+                    }
+                </style>
+                                <script>
+                $(document).on("scroll",function(){
+                        //After Scroll
+                        if ($(document).scrollTop()>50) {
+                            $('#custom-nav').addClass('affix');
+                            $('#big_logo_column').addClass('affix');
+                        } 
+                        //Before Scroll
+                        else {
+                            $('#custom-nav').removeClass('affix');
+                            $('#big_logo_column').removeClass('affix');
+                        }                        
+                    });
+                </script>
+                
+                <!-- Fonts -->
+                <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css"/>
+                <link href="http://fonts.googleapis.com/css?family=Josefin+Slab:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic" rel="stylesheet" type="text/css"/>
+        </xpath>
+
        <xpath expr="//body/div/header/div" position="attributes">
             <attribute name="id">custom-nav</attribute>
-            <attribute name="class">navbar navbar-default navbar-fixed-top</attribute>
         </xpath> 
         
-        <xpath expr="//header//a[@class='navbar-brand'] | //header//a[@class='navbar-brand logo']" position="replace">
-        <a href="/" class="navbar-brand logo hidden">
-            <img src="/logo.png" t-att-alt="'Logo of %s' % res_company.name" t-att-title="res_company.name"/>
-        </a>
-        </xpath>
+
         
         <xpath expr="//header//ul" position="attributes">
              <attribute name="class">nav navbar-nav</attribute>
