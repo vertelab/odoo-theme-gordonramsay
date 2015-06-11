@@ -45,16 +45,14 @@
                  <attribute name="class">collapse navbar-collapse navbar-top-collapse custom</attribute>
             </xpath>
             
-            <xpath expr="//ul[@id='top_menu']" position="replace">
+            <xpath expr="//ul[@id='top_menu']/li[1]" position="replace">
                 <!-- remove log out menu in top menu -->
-                <ul class="nav navbar-nav navbar-default" id="top_menu">
-                    <t t-foreach="website.menu_id.child_id" t-as="submenu">
-                        <t t-call="website.submenu"/>
-                    </t>
-                </ul>
             </xpath>
-            <xpath expr="//body/div/footer/div" position="inside">
+            <xpath expr="//ul[@id='top_menu']/li[1]" position="replace">
                 <!-- remove log out menu in top menu -->
+            </xpath>
+
+            <!-- <xpath expr="//footer/div" position="before">
                 <li class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                         <b>
@@ -68,10 +66,47 @@
                         <li><a t-attf-href="/web/session/logout?redirect=/" role="menuitem">Logout</a></li>
                     </ul>
                 </li>
-            </xpath>
-    
+            </xpath> -->
         </template>
-        
+
+        <template id="user_log_pit" inherit_id="website.layout_footer_copyright" name="User Log Out">
+            <xpath expr="//div[@id='layout_footer_copyright']" position="inside">
+                <!-- add log out menu in top menu -->
+                <div class="pull-right">
+                    <li class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            <b>
+                                <span t-esc="user_id.name"/>
+                                <span class="caret"></span>
+                            </b>
+                        </a>
+                        <ul class="dropdown-menu js_usermenu" role="menu">
+                            <li><a href="/web" role="menuitem">My Account</a></li>
+                            <li class="divider"/>
+                            <li><a t-attf-href="/web/session/logout?redirect=/" role="menuitem">Logout</a></li>
+                        </ul>
+                    </li>
+                </div>
+            </xpath>
+        </template>
+
+        <template id="user_log_in" inherit_id="website.show_sign_in" name="User Log In">
+            <xpath expr="//li[1]" position="replace">
+                <!-- remove log in menu in top menu -->
+            </xpath>
+            <xpath expr="//li[1]" position="replace">
+                <!-- remove log in menu in top menu -->
+            </xpath>
+            <xpath expr="//div[@id='layout_footer_copyright']" position="inside">
+                <div class="pull-right">
+                    <li groups="base.group_public">
+                        <a t-attf-href="/web/login">
+                            <b>Sign in</b>
+                        </a>
+                    </li>
+                </div>
+            </xpath>
+        </template>
         
         <template id="logo_show_business_casual" inherit_id="website.layout" customize_show="True" active="False" name="Business Casual Show Logo" priority="99">
             <xpath expr="//body/div" position="replace">

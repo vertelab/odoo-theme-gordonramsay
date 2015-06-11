@@ -84,15 +84,27 @@
 
 <!-- Customize Show templates -->
 
-
+        <!-- Navbar fixed top -->
         <template id="navbar-fixed-top" inherit_id="website.layout" customize_show="True" active="False" name="Navbar fixed top">
-            <xpath expr="//head" position="inside">
+            <!-- <xpath expr="//head" position="inside">
                 <style>
-                    body { padding-top: 50px; }                    
+                    body {
+                        min-height: 2000px;
+                        padding-top: 70px;
+                        }
+                    .navbar navbar-default navbar-static-top {position: absolute; top: 31px;}
+                    .navbar navbar-inverse {padding-top: 260px;}
+                    .navbar navbar-inverse navbar-fixed-top hidden-xs {padding-top: 300px;}
                 </style>
+            </xpath> -->
+            <!-- <xpath expr="//header/div" position="attributes">
+                <attribute name="class"></attribute>
+            </xpath> -->
+            <xpath expr="//body" position="attributes">
+                <attribute name="t-att-style">'' if editable else 'padding-top:51px;'</attribute>
             </xpath>
             <xpath expr="//header/div" position="attributes">
-                <attribute name="class">navbar navbar-default navbar-fixed-top</attribute>
+                <attribute name="t-att-class">'navbar navbar-default navbar-static-top' if editable else 'navbar navbar-default navbar-fixed-top'</attribute>
             </xpath>
         </template>
 
@@ -179,13 +191,9 @@
               
                 <xpath expr="//head" position="inside">
                             <style>
-                                	#big_logo_column{
-                                        padding-top:40px;
-                                        padding-bottom:20px;
-                                    }
-                                    
-                                body {
-                                    xpadding-top: 100px;
+                                #big_logo_column{
+                                    padding-top:40px;
+                                    padding-bottom:20px;
                                 }
                             </style>
                             <script>
