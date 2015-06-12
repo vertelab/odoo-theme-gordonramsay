@@ -29,8 +29,8 @@
             </xpath>
 
            <xpath expr="//body/div" position="before">
-                    <div class="brand" id="brand" t-field="res_company.name"/>
-                    <div class="address-bar"><t t-esc="res_company.street"/> <t t-esc="res_company.city"/> <t t-esc="res_company.phone"/></div> 
+                <div class="brand" id="brand" t-field="res_company.name"/>
+                <div class="address-bar"><t t-esc="res_company.street"/> <t t-esc="res_company.city"/> <t t-esc="res_company.phone"/></div> 
            </xpath>
                    
             <xpath expr="//header//a[@class='navbar-brand logo'] | //header//a[@class='navbar-brand'] | //header//a[@class='navbar-brand logo hidden']" position="replace">
@@ -41,9 +41,9 @@
                  <attribute name="class">nav navbar-nav</attribute>
             </xpath>
             
-            <xpath expr="//header//div" position="attributes">
+            <!-- <xpath expr="//header//div" position="attributes">
                  <attribute name="class">collapse navbar-collapse navbar-top-collapse custom</attribute>
-            </xpath>
+            </xpath> -->
             
             <xpath expr="//ul[@id='top_menu']/li[1]" position="replace">
                 <!-- remove log out menu in top menu -->
@@ -69,7 +69,7 @@
             </xpath> -->
         </template>
 
-        <template id="user_log_pit" inherit_id="website.layout_footer_copyright" name="User Log Out">
+        <template id="user_log_out" inherit_id="website.layout_footer_copyright" name="User Log Out">
             <xpath expr="//div[@id='layout_footer_copyright']" position="inside">
                 <!-- add log out menu in top menu -->
                 <div class="pull-right">
