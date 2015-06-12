@@ -172,25 +172,9 @@
                 </header>
             </xpath>
     </template>
-            
-            
-            <!-- Big Logo -->
-            
-            <template id="big_logo" inherit_id="website.layout" customize_show="True" active="False" name="Big Logo" priority="1">
-                <xpath expr="//header//a[@class='navbar-brand logo'] | //header//a[@class='navbar-brand']" position="replace">
-                    <a href="/" class="navbar-brand"/>
-                </xpath>
-                
-                <xpath expr="//header//div//div[@class='container']" position="before">
-                    <div class="collapse navbar-collapse col-md-12" align="center" id="big_logo_column">
-                        <img src="/logo.png" t-att-alt="'Logo of %s' % res_company.name" t-att-title="res_company.name"/>
-                    </div>
-                </header>
-            </xpath>
-    </template>
-    
     
     <!-- Big Logo -->
+<!--
     <template id="big_logo" inherit_id="website.layout" customize_show="True" active="False" name="Big Logo" priority="1">
         
         <xpath expr="//header//a[@class='navbar-brand logo'] | //header//a[@class='navbar-brand']" position="replace">
@@ -203,10 +187,6 @@
             </div>
         </xpath>
     </template>      
-    
-        
-<!--
-SNIPPETS        
 -->
         
         
@@ -216,9 +196,9 @@ SNIPPETS
             <link rel="stylesheet" href="/theme_teamdoc/static/src/css/socialmedia.css" t-ignore="true"/>
             <link rel="stylesheet" href="/theme_teamdoc/static/src/css/boxes.css" t-ignore="true"/> 
             
-            <!-- TRANSPARENT NAVBAR-->
+            <!-- TRANSPARENT NAVBAR
             <link rel="stylesheet" href="/theme_teamdoc/static/src/css/navbar.css" t-ignore="true"/>
-            <script src="/theme_teamdoc/static/src/js/navbar.js"></script>
+            <script src="/theme_teamdoc/static/src/js/navbar.js"></script>-->
 
         </xpath>  
     </template>  
@@ -236,6 +216,7 @@ SNIPPETS
 
            
     <!-- TRANSPARENT NAVBAR -->        
+<!--
     <template id="transparent navbar" inherit_id="website.layout" customize_show="True" active="False" name="Transparent Navbar">
        <xpath expr="//body/div/header/div" position="attributes">
             <attribute name="id">custom-nav</attribute>
@@ -252,6 +233,7 @@ SNIPPETS
              <attribute name="class">nav navbar-nav</attribute>
         </xpath>
     </template>
+-->
     
     <!-- REPLACE COMPANY NAME -->
 <!--
