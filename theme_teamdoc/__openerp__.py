@@ -33,7 +33,7 @@ Teamdoc style theme.
     'depends': ['website','website_blog'],
     'data': [
         'theme_teamdoc_view.xml',
-        #~ 'theme_business_casual.xml',
+        'theme_business_casual.xml',
         'website_overwritten_templates.xml',
         'theme_responsive_navbar.xml',
 ],
