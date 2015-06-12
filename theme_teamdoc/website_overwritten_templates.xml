@@ -8,7 +8,7 @@
 
 <template id="website.layout_footer_copyright" inherit_id="website.layout" name="Footer Copyright">
     <xpath expr="//footer" position="inside">
-        <div class="container mt16 mb8">
+        <div class="container mt16 mb8" id="layout_footer_copyright">
             <!-- 
             <div class="pull-right" t-ignore="true" t-if="not editable">
                 Create a <a href="http://www.odoo.com/page/website-builder">free website</a> with

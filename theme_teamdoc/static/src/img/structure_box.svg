@@ -17,7 +17,7 @@
    width="100"
    height="79"
    sodipodi:docname="structure_box.svg"
-   inkscape:export-filename="/run/user/1004/gvfs/sftp:host=odooutv.vertel.se/usr/share/odoo-theme-gordonramsay/theme_gordon/static/src/img/block_panel_dual_empty.png"
+   inkscape:export-filename="/run/user/1004/gvfs/sftp:host=192.168.1.90/usr/share/odoo-theme-gordonramsay/theme_teamdoc/static/src/img/structure_box.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -109,7 +109,7 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="2.2870461"
-     inkscape:cx="33.622076"
+     inkscape:cx="-73.284383"
      inkscape:cy="40.412771"
      inkscape:window-x="1331"
      inkscape:window-y="24"
