@@ -192,6 +192,55 @@
             <script src="http://cdn.bootcss.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
             <link href="/theme_teamdoc/static/src/css/left_side_menu.css" rel="stylesheet"/>
         </xpath>
+        <xpath expr="//main" position="replace">
+             <!-- Navigation -->
+              <div class="container">
+                  <div class="row">
+                    <div class="col-md-4">
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header page-scroll">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-collapse">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                          
+                        </div>
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="collapse navbar-collapse navbar-top-collapse" >
+                                <ul class="nav nav-pills nav-stacked" id="top_menu">
+                                    <t t-foreach="website.menu_id.child_id" t-as="submenu">
+                                        <t t-call="website.submenu"/>
+                                    </t>
+                                   
+                                    <li class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                       
+                                                <span t-esc="user_id.name"/>
+                                                <span class="caret"></span>
+                                           
+                                        </a>
+                                        <ul class="dropdown-menu js_usermenu" role="menu">
+
+                                            <li><a href="/web" role="menuitem">My Account</a></li>
+                                            <li class="divider"/>
+                                            <li><a t-attf-href="/web/session/logout?redirect=/" role="menuitem">Logout</a></li>
+
+                                        </ul>
+                                    </li>
+                                </ul>
+                        </div>
+                        <div>
+                            <p/>
+                        </div>
+                    </div> <!-- col-md-4 -->
+                    <div class="col-md-8">
+                        <t t-raw="0"/>
+                    </div>
+                </div>
+            </div>
+        </xpath>
     </template>
             
     <!-- Big Logo -->
