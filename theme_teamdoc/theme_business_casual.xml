@@ -70,7 +70,7 @@
         </template>
 
         <template id="user_log_out" inherit_id="website.layout_footer_copyright" name="User Log Out">
-            <xpath expr="//div[@id='layout_footer_copyright']" position="inside">
+            <xpath expr="//div" position="inside">
                 <!-- add log out menu in top menu -->
                 <div class="pull-right">
                     <li class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
@@ -97,7 +97,7 @@
             <xpath expr="//li[1]" position="replace">
                 <!-- remove log in menu in top menu -->
             </xpath>
-            <xpath expr="//div[@id='layout_footer_copyright']" position="inside">
+            <xpath expr="//div" position="inside">
                 <div class="pull-right">
                     <li groups="base.group_public">
                         <a t-attf-href="/web/login">
