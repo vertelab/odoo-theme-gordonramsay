@@ -193,11 +193,9 @@
             <link href="/theme_teamdoc/static/src/css/left_side_menu.css" rel="stylesheet"/>
         </xpath>
         <xpath expr="//main" position="replace">
-             <!-- Navigation -->
               <div class="container">
                   <div class="row">
                     <div class="col-md-4">
-                        <!-- Brand and toggle get grouped for better mobile display -->
                         <div class="navbar-header page-scroll">
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-collapse">
                                 <span class="sr-only">Toggle navigation</span>
@@ -207,7 +205,6 @@
                             </button>
                           
                         </div>
-                        <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse navbar-top-collapse" >
                                 <ul class="nav nav-pills nav-stacked" id="top_menu">
                                     <t t-foreach="website.menu_id.child_id" t-as="submenu">
@@ -234,7 +231,7 @@
                         <div>
                             <p/>
                         </div>
-                    </div> <!-- col-md-4 -->
+                    </div>
                     <div class="col-md-8">
                         <t t-raw="0"/>
                     </div>
