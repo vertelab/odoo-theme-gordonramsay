@@ -51,44 +51,63 @@
             <xpath expr="//ul[@id='top_menu']/li[1]" position="replace">
                 <!-- remove log out menu in top menu -->
             </xpath>
-                
-        </template>
 
-        <template id="user_log_out" inherit_id="website.layout_footer_copyright" name="User Log Out">
-            <xpath expr="//div[@id='layout_footer_copyright']" position="inside">
-                <!-- add log out menu in top menu -->
-                <div class="pull-right">
-                    <li class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                            <b>
-                                <span t-esc="user_id.name"/>
-                                <span class="caret"></span>
-                            </b>
-                        </a>
-                        <ul class="dropdown-menu js_usermenu" role="menu">
-                            <li><a href="/web" role="menuitem">My Account</a></li>
-                            <li class="divider"/>
-                            <li><a t-attf-href="/web/session/logout?redirect=/" role="menuitem">Logout</a></li>
-                        </ul>
-                    </li>
+            <xpath expr="//footer" position="inside">
+                <div class="container mt16 mb8">
+                    <div class="pull-right">
+                        <li class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <b>
+                                    <span t-esc="user_id.name"/>
+                                    <span class="caret"></span>
+                                </b>
+                            </a>
+                            <ul class="dropdown-menu js_usermenu" role="menu">
+                                <li><a href="/web" role="menuitem">My Account</a></li>
+                                <li class="divider"/>
+                                <li><a t-attf-href="/web/session/logout?redirect=/" role="menuitem">Logout</a></li>
+                            </ul>
+                        </li>
+                    </div>
+                    <div class="pull-right">
+                        <li groups="base.group_public">
+                            <a t-attf-href="/web/login">
+                                <b>Sign in</b>
+                            </a>
+                        </li>
+                    </div>
                 </div>
             </xpath>
+            
         </template>
 
-        <template id="user_log_in" inherit_id="website.show_sign_in" name="User Log In">
+
+        <template id="remove_user_log_in" inherit_id="website.show_sign_in" name="Remove User Log In">
             <xpath expr="//li[1]" position="replace">
                 <!-- remove log in menu in top menu -->
             </xpath>
             <xpath expr="//li[1]" position="replace">
                 <!-- remove log in menu in top menu -->
             </xpath>
-            <xpath expr="//div[@id='layout_footer_copyright']" position="inside">
-                <div class="pull-right">
-                    <li groups="base.group_public">
-                        <a t-attf-href="/web/login">
-                            <b>Sign in</b>
-                        </a>
-                    </li>
+        </template>
+
+        <template id="business_casual_footer" inherit_id="website.footer_default" name="Business Casual Footer">
+            <xpath expr="//div" position="inside">
+                <div class="container hidden-print">
+                    <div class="row">
+                        <div class="col-md-8">
+                        </div>
+                        <div class="col-md-4" id="info">
+                            <h4>Connect with us</h4>
+                            <ul class="list-unstyled">
+                                <li><a href="/page/website.contactus">Contact us</a></li>
+                            </ul>
+                            <ul class="list-unstyled">
+                                <li t-ignore="true"><i class="fa fa-phone"></i> <span t-field="res_company.phone"></span></li>
+                                <li t-ignore="true"><i class="fa fa-envelope"></i>  <span t-field="res_company.email"></span></li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
             </xpath>
         </template>
@@ -101,39 +120,10 @@
             </xpath>
         </template>
         
-
-        
-
-        
-        
-        
-        
-<!--
-        <li class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                <b>
-                    <span t-esc="user_id.name"/>
-                    <span class="caret"></span>
-                </b>
-            </a>
-            <ul class="dropdown-menu js_usermenu" role="menu">
-                <li><a href="/web" role="menuitem">My Account</a></li>
-                <li class="divider"/>
-                <li><a t-attf-href="/web/session/logout?redirect=/" role="menuitem">Logout</a></li>
-            </ul>
-        </li>
--->
-        
-        
-        
 <!--
 SNIPPETS        
 -->
-
-
-        
-        
-        
+  
 <template id="snippets_business_casual" inherit_id="website.snippets" name="Snippets Business Casual">
             <xpath expr="//div[@id='snippet_structure']" position="inside">
             <div>
