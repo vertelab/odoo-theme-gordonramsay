@@ -78,15 +78,14 @@
                     </div>
                 </div>
             </xpath>
-            
+
         </template>
 
-
         <template id="remove_user_log_in" inherit_id="website.show_sign_in" name="Remove User Log In">
-            <xpath expr="//li[1]" position="replace">
+            <xpath expr="//ul[@id='top_menu']/li[1]" position="replace">
                 <!-- remove log in menu in top menu -->
             </xpath>
-            <xpath expr="//li[1]" position="replace">
+            <xpath expr="//ul[@id='top_menu']/li[1]" position="replace">
                 <!-- remove log in menu in top menu -->
             </xpath>
         </template>
