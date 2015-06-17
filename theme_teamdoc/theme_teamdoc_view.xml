@@ -136,7 +136,7 @@
                                             <t t-call="website.submenu"/>
                                         </t>
                                        
-                                        <li class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
+                                        <!-- <li class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
                                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                                            
                                                     <span t-esc="user_id.name"/>
@@ -150,7 +150,7 @@
                                                 <li><a t-attf-href="/web/session/logout?redirect=/" role="menuitem">Logout</a></li>
 
                                             </ul>
-                                        </li>
+                                        </li> -->
                                     </ul>
                             </div>
                             <div>
@@ -181,6 +181,38 @@
                     <ul class="nav nav-pills nav-stacked" id="top_menu"/>
                 </header>
             </xpath>
+
+    </template>
+
+    <template id="move_login_out_to_footer" inherit_id="website.layout" customize_show="True" active="False" name="Show Sign In in Footer">
+
+            <xpath expr="//footer" position="inside">
+                <div class="container mt16 mb8" style="list-style: none;">
+                    <div class="pull-right">
+                        <li class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <b>
+                                    <span t-esc="user_id.name"/>
+                                    <span class="caret"></span>
+                                </b>
+                            </a>
+                            <ul class="dropdown-menu js_usermenu" role="menu">
+                                <li><a href="/web" role="menuitem">My Account</a></li>
+                                <li class="divider"/>
+                                <li><a t-attf-href="/web/session/logout?redirect=/" role="menuitem">Logout</a></li>
+                            </ul>
+                        </li>
+                    </div>
+                    <div class="pull-right">
+                        <li groups="base.group_public">
+                            <a t-attf-href="/web/login">
+                                <b>Sign in</b>
+                            </a>
+                        </li>
+                    </div>
+                </div>
+            </xpath>
+
     </template>
 
     <!-- Big Logo -->
