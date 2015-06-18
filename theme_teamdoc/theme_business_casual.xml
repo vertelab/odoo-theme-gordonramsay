@@ -75,7 +75,7 @@
                             </ul>
                             <ul class="list-unstyled">
                                 <li t-ignore="true"><i class="fa fa-phone"></i> <span t-field="res_company.phone"></span></li>
-                                <li t-ignore="true"><i class="fa fa-phone"></i> <span t-field="res_company.partner_id.mobile"></span></li>
+                                <li t-ignore="true"><i class="fa fa-mobile"></i> <span t-field="res_company.partner_id.mobile"></span></li>
                                 <li t-ignore="true"><i class="fa fa-envelope"></i>  <span t-field="res_company.email"></span></li>
                             </ul>
                         </div>
