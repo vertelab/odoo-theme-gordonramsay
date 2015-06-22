@@ -36,6 +36,7 @@ Teamdoc style theme.
         'theme_business_casual.xml',
         'website_overwritten_templates.xml',
         'theme_responsive_navbar.xml',
+        'theme_magp.xml',
 ],
     'application': True,
 }
