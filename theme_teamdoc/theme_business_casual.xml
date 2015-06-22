@@ -30,7 +30,7 @@
 
            <xpath expr="//body/div" position="before">
                 <div class="brand" id="brand" t-field="res_company.name"/>
-                <div class="address-bar"><t t-esc="res_company.street"/> | <t t-esc="res_company.partner_id.zip"/> | <t t-esc="res_company.city"/> | <t t-esc="res_company.phone"/> | <t t-esc="res_company.partner_id.mobile"/></div> 
+                <div class="address-bar"><t t-esc="res_company.street"/> | <t t-esc="res_company.partner_id.zip"/> <t t-esc="res_company.city"/> | <t t-esc="res_company.phone"/> | <t t-esc="res_company.partner_id.mobile"/></div> 
            </xpath>
                    
             <xpath expr="//header//a[@class='navbar-brand logo'] | //header//a[@class='navbar-brand'] | //header//a[@class='navbar-brand logo hidden']" position="replace">
