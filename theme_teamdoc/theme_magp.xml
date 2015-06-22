@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <openerp>
+        <data>
+            <template id="news-block-one" inherit_id="website.layout" customize_show="True" active="False" name="Latest news for a block">
+            
+             <xpath expr="//head" position="inside">
+                <!-- Custom CSS -->
+                <link href="/theme_teamdoc/static/src/css/magp.css" rel="stylesheet"/>
+            </xpath>
+            
+            <!-- Removes Odoo Top-Menu -->
+            <xpath expr="//ul[@id='top_menu']" position="replace"></xpath>
+            
+            <!-- Adding Back The ul For Odoo Top-Menu -->
+            <xpath expr="//header/div/div/div[2]" position="inside">
+                <ul class="nav navbar-nav navbar-right" id="top_menu">
+                    
+                </ul>
+            </xpath>
+            
+            <!-- The Layout For MAGP Page -->
+            <xpath expr="//main/t" position="replace">
+                <div class="container" id="main_body">
+                    <div class="col-md-1"></div>
+                    <!-- LEFT SIDE NAVBAR -->
+                    <div class="jumbotron col-md-3" id="news_box">
+                        <b>Meny</b>
+                        <!-- Brand and toggle get grouped for better mobile display -->
+                        <div class="navbar-header page-scroll">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-collapse">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                        </div>
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                        <div class="collapse navbar-collapse navbar-top-collapse" >
+                            <ul class="nav nav-pills nav-stacked" id="top_menu">
+                                <t t-foreach="website.menu_id.child_id" t-as="submenu">
+                                    <t t-call="website.submenu"/>
+                                </t>
+                            </ul>
+                        </div>
+                        <div>
+                            <p/>
+                        </div>
+                    </div>
+
+                    <div class="col-md-1"></div>
+                
+                    <!-- LATEST NEWS BOX / MIDDLE BOX -->
+                    <div class="jumbotron col-md-6" id="left_menu">
+                        <t t-set="news" t-value="request.env['blog.post'].search([('website_published','=',True)],order='write_date asc')"/>
+                        <div class="grid-box-g" t-if="len(news)&gt;0">
+                            <t t-set="post" t-value="news[0]"/>
+                            <img t-att-src="post.background_image" class="img-responsive" style=""/>
+                            <div class="grid-box-overlay">
+                                <div class="overlay-row">
+                                    <p class="overlay-title"><t t-esc="post.name"/>
+                                    </p>
+                                    <!--<span class="glyphicon glyphicon-chevron-down arrow-transform"/>-->
+                                </div>
+                                <div class="overlay-info">
+                                    <h2><t t-esc="post.subtitle"/></h2>
+                                    <a class="btn btn-primary" t-attf-href="/blog/#{ slug(post.blog_id) }/post/#{ slug(post) }">Läs mer</a>
+                                </div>
+                            </div>
+                        </div>
+                        <hr/>
+                    </div>
+                    <div class="col-md-1"></div>
+                </div>
+            </xpath>
+        </template>
+    </data>
+</openerp>
