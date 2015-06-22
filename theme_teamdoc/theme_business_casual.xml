@@ -4,7 +4,7 @@
 
 <!-- http://startbootstrap.com/template-overviews/business-casual/ -->
 
-        <template id="theme_business_casual" inherit_id="website.layout" customize_show="True" active="False" name="Business Casual">
+        <template id="theme_business_casual" inherit_id="website.layout" customize_show="True" active="False" name="Business Casual" priority="99">
             
             <xpath expr="//head" position="inside">
                 <!-- Custom CSS -->
@@ -48,25 +48,34 @@
             <xpath expr="//ul[@id='top_menu']/li[1]" position="replace">
                 <!-- remove log in -->
             </xpath>
+
+            <xpath expr="//ul[@id='top_menu']/li[1]" position="replace">
+                <!-- remove log in -->
+            </xpath>
+
+            <xpath expr="//ul[@id='top_menu']/li[1]" position="replace">
+                <!-- remove log in -->
+            </xpath>
             
             <!-- <xpath expr="//header//div" position="attributes">
                  <attribute name="class">collapse navbar-collapse navbar-top-collapse custom</attribute>
             </xpath> -->
         </template>
 
-        <template id="business_casual_footer" inherit_id="website.footer_default" customize_show="True" active="False" name="Business Casual Footer">
-            <xpath expr="//div" position="inside">
+        <template id="business_casual_footer" inherit_id="website.layout" customize_show="True" active="False" name="Business Casual Footer" priority="99">
+            <xpath expr="//footer/div" position="replace">
                 <div class="container hidden-print">
                     <div class="row">
                         <div class="col-md-8">
                         </div>
                         <div class="col-md-4" id="info">
-                            <h4>Connect with us</h4>
+                            <h4><span t-field="res_company.name"/></h4>
                             <ul class="list-unstyled">
                                 <li><a href="/page/website.contactus">Contact us</a></li>
                             </ul>
                             <ul class="list-unstyled">
                                 <li t-ignore="true"><i class="fa fa-phone"></i> <span t-field="res_company.phone"></span></li>
+                                <li t-ignore="true"><i class="fa fa-mobile"></i> <span t-field="res_company.partner_id.mobile"></span></li>
                                 <li t-ignore="true"><i class="fa fa-envelope"></i>  <span t-field="res_company.email"></span></li>
                             </ul>
                         </div>

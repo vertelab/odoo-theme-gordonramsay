@@ -173,8 +173,8 @@
 
         </template>
 
-        <template id="move_login_out_to_footer" inherit_id="website.layout" customize_show="True" active="False" name="Show Sign In in Footer">
 
+    <template id="show_sign_in_in_footer" inherit_id="website.layout" customize_show="True" active="False" name="Show Sign In in Footer">
                 <xpath expr="//footer" position="inside">
                     <div class="container mt16 mb8" style="list-style: none;">
                         <div class="pull-right">
