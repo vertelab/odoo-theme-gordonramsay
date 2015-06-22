@@ -49,26 +49,30 @@
             </t> 
         </template>
 
-        <template id="news-block-three" name="News block three">
+        <template id="news-block-three" customize_show="True" active="False" name="News block three">
             <t t-if="not news" t-set="news" t-value="request.env['blog.post'].search([('website_published','=',True)],order='write_date asc')"/>
             
             <div class="row md-cols-6">
-                <img t-att-src="news[0].background_image" style=""/>
-                <t t-field="news[0].name" />
-                <t t-field="news[0].content" />
+                <t t-if="news[0].name">
+                    <img t-att-src="news[0].background_image" style=""/>
+                    <t t-field="news[0].name" />
+                    <t t-field="news[0].content" />
+                </t>
             </div>
+<!--
             <div class="row">
                 <div class="md-cols-3">
-                <a t-att-href="'news/%s' % news[1].id">
-                    <t t-field="news[1].name" />
-                </a>
+                    <a t-att-href="'news/%s' % news[1].id">
+                        <t t-field="news[1].name" />
+                    </a>
                 </div>
                 <div class="md-cols-3">
-                <a t-att-href="'news/%s' % news[2].id">
-                    <t t-field="news[2].name" />
-                </a>
+                    <a t-att-href="'news/%s' % news[2].id">
+                        <t t-field="news[2].name" />
+                    </a>
                 </div>
             </div>
+-->
         </template>
 
         <!-- Customize Show templates -->

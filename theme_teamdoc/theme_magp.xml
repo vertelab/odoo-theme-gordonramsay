@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
     <openerp>
         <data>
-            <template id="news-block-one" inherit_id="website.layout" customize_show="True" active="False" name="Latest news for a block">
+            <template id="news-block-one" inherit_id="website.layout" customize_show="True" active="False" name="Theme MAGP">
             
              <xpath expr="//head" position="inside">
                 <!-- Custom CSS -->
@@ -19,7 +19,7 @@
             </xpath>
             
             <!-- The Layout For MAGP Page -->
-            <xpath expr="//main/t" position="replace">
+            <xpath expr="//main/t" position="before">
                 <div class="container" id="main_body">
                     <div class="col-md-1"></div>
                     <!-- LEFT SIDE NAVBAR -->
@@ -35,43 +35,88 @@
                             </button>
                         </div>
                         <!-- Collect the nav links, forms, and other content for toggling -->
-                        <div class="collapse navbar-collapse navbar-top-collapse" >
+                        <div class="collapse navbar-collapse navbar-top-collapse" id="left_navbar">
                             <ul class="nav nav-pills nav-stacked" id="top_menu">
-                                <t t-foreach="website.menu_id.child_id" t-as="submenu">
+                                <t t-foreach="website.menu_id.child_id" t-as="submenu" >
                                     <t t-call="website.submenu"/>
                                 </t>
                             </ul>
-                        </div>
+                        </div><br/><br/>
                         <div>
-                            <p/>
+                            <b>Nyheter</b><br/>                                                                       
+                            <font size="0.9">  
+                                <!--List with news-->
+                                <t t-set="news" t-value="request.env['blog.post'].search([('website_published','=',True)],order='write_date desc')"/>
+                                <t t-foreach="news" t-as="n">                    
+                                    <!--Todo list-->
+                                    <a t-att-href="'/blog/our-news-1/post/%s' % n.id" style="color:black;">
+                                        <t t-raw="n.name"/> 
+                                    </a><br/>
+                                    <t t-esc="n.write_date"/><br/>
+                                </t>
+                            </font>
+                            <br/>
+                            <a t-att-href="'/blog/our-news-1' ">
+                                <b style="color:black">Nyhetsarkiv</b>
+                            </a>
                         </div>
                     </div>
 
                     <div class="col-md-1"></div>
                 
                     <!-- LATEST NEWS BOX / MIDDLE BOX -->
+                    <!-- Bloginlägg #1 -->
                     <div class="jumbotron col-md-6" id="left_menu">
-                        <t t-set="news" t-value="request.env['blog.post'].search([('website_published','=',True)],order='write_date asc')"/>
+                        <t t-set="news" t-value="request.env['blog.post'].search([('website_published','=',True)],order='write_date desc')"/>
                         <div class="grid-box-g" t-if="len(news)&gt;0">
-                            <t t-set="post" t-value="news[0]"/>
-                            <img t-att-src="post.background_image" class="img-responsive" style=""/>
+                            <t t-set="post_0" t-value="news[0]"/>
+                            <p class="overlay-title">
+                                <t t-esc="post_0.name"/> 
+                            </p>
+                            <t t-esc="post_0.write_date"/>
+                            <img t-att-src="post_0.background_image" class="img-responsive" style=""/>
                             <div class="grid-box-overlay">
                                 <div class="overlay-row">
-                                    <p class="overlay-title"><t t-esc="post.name"/>
-                                    </p>
-                                    <!--<span class="glyphicon glyphicon-chevron-down arrow-transform"/>-->
+<!--
+                                    <t t-raw="post_0.content"/>
+-->
                                 </div>
                                 <div class="overlay-info">
-                                    <h2><t t-esc="post.subtitle"/></h2>
-                                    <a class="btn btn-primary" t-attf-href="/blog/#{ slug(post.blog_id) }/post/#{ slug(post) }">Läs mer</a>
+                                    <h4><t t-esc="post_0.subtitle"/></h4>
+                                    <a class="btn btn-primary" t-attf-href="/blog/#{slug(post_0.blog_id)}/post/#{slug(post_0)}">Läs mer</a>
                                 </div>
                             </div>
                         </div>
                         <hr/>
+                    
+                        <div class="row">
+                        <!--Bloginlägg #2 -->
+                        <div class="col-md-6">
+                            <t t-if="len(news)>1">
+                                <t t-set="post_1" t-value="news[1]"/>
+                                <b><t t-esc="post_1.name" /></b><br/>
+                                <font size="0.9"><t t-esc="post_1.write_date"/></font><br/>
+                                <a class="btn btn-primary" t-attf-href="/blog/#{slug(post_1.blog_id)}/post/#{slug(post_1)}">Läs mer</a>
+                            </t>
+                        </div>
+                        
+                        <!--Bloginlägg #3 -->
+                        <div class="col-md-6">
+                        <t t-if="len(news)>2">
+                            <t t-set="post_2" t-value="news[2]"/>
+                            <b><t t-esc="post_2.name"/></b><br/>
+                            <font size="0.9"><t t-esc="post_2.write_date"/></font><br/>
+                            <a class="btn btn-primary" t-attf-href="/blog/#{slug(post_2.blog_id)}/post/#{slug(post_2)}">Läs mer</a>
+                        </t>                        
+                        
+                        </div>
                     </div>
                     <div class="col-md-1"></div>
+                </div>
                 </div>
             </xpath>
         </template>
     </data>
 </openerp>
+
+
