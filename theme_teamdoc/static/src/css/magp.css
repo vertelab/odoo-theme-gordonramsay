@@ -1,5 +1,5 @@
 #main_body{
-    padding-top: 250px;
+    padding-top: 350px;
 }
 
 #news_box{
@@ -15,4 +15,13 @@
 #left_navbar >ul>li>a>span{
     color: black;
     font-size:12px;
+}
+
+#news_list{
+    list-style-type:none;
+    size:2;
+}
+
+#menu_button >button>span{
+    color:black;
 }

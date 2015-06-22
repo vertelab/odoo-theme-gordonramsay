@@ -6,6 +6,14 @@
              <xpath expr="//head" position="inside">
                 <!-- Custom CSS -->
                 <link href="/theme_teamdoc/static/src/css/magp.css" rel="stylesheet"/>
+                <style>
+                    body{
+                        background: url('http://www.magp.se/images/Bakgrund_2014.jpg');
+                        background-size: cover;
+                        background-position: 0px 100px;
+                    }
+                    
+                </style>
             </xpath>
             
             <!-- Removes Odoo Top-Menu -->
@@ -26,7 +34,7 @@
                     <div class="jumbotron col-md-3" id="news_box">
                         <b>Meny</b>
                         <!-- Brand and toggle get grouped for better mobile display -->
-                        <div class="navbar-header page-scroll">
+                        <div class="navbar-header page-scroll"  id="menu_button">
                             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-top-collapse">
                                 <span class="sr-only">Toggle navigation</span>
                                 <span class="icon-bar"></span>
@@ -47,13 +55,16 @@
                             <font size="0.9">  
                                 <!--List with news-->
                                 <t t-set="news" t-value="request.env['blog.post'].search([('website_published','=',True)],order='write_date desc')"/>
-                                <t t-foreach="news" t-as="n">                    
-                                    <!--Todo list-->
+                                <t t-set="nbr" t-value="0"/>
+                                <t t-foreach="news" t-as="n"> 
+                                    <t t-if="nbr&lt;5">
                                     <a t-att-href="'/blog/our-news-1/post/%s' % n.id" style="color:black;">
                                         <t t-raw="n.name"/> 
                                     </a><br/>
                                     <t t-esc="n.write_date"/><br/>
-                                </t>
+                                    </t>
+                                    <t t-set="nbr" t-value="nbr+1"/>
+                                </t>  
                             </font>
                             <br/>
                             <a t-att-href="'/blog/our-news-1' ">
