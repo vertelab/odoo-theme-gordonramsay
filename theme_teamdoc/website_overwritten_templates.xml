@@ -8,16 +8,16 @@
 
 <template id="website.layout_footer_copyright" inherit_id="website.layout" name="Footer Copyright">
     <xpath expr="//footer" position="inside">
-        <div class="container mt16 mb8" id="layout_footer_copyright">
+        <div id="layout_footer_copyright">
             <!-- 
             <div class="pull-right" t-ignore="true" t-if="not editable">
                 Create a <a href="http://www.odoo.com/page/website-builder">free website</a> with
                 <a class="label label-danger" href="http://www.odoo.com/page/website-builder">Odoo</a>
             </div>
             -->
-            <div class="pull-left text-muted" itemscope="itemscope" itemtype="http://schema.org/Organization">
+            <!-- <div class="pull-left text-muted" itemscope="itemscope" itemtype="http://schema.org/Organization">
                 Copyright &amp;copy; <span t-field="res_company.name" itemprop="name">Company name</span>
-            </div>
+            </div> -->
         </div>
     </xpath>
 </template>
