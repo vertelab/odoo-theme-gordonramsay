@@ -40,14 +40,6 @@
             <xpath expr="//header//ul" position="attributes">
                  <attribute name="class">nav navbar-nav</attribute>
             </xpath>
-
-            <xpath expr="//ul[@id='top_menu']/li[1]" position="replace">
-                <!-- remove log in -->
-            </xpath>
-
-            <xpath expr="//ul[@id='top_menu']/li[1]" position="replace">
-                <!-- remove log in -->
-            </xpath>
             
             <!-- <xpath expr="//header//div" position="attributes">
                  <attribute name="class">collapse navbar-collapse navbar-top-collapse custom</attribute>
