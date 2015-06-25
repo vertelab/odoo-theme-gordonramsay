@@ -1,0 +1,11 @@
+<slideshow>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/Testervren2010/answeringservice.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/Testervren2010/casestudy.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<control bar_visible='off' />
+</slideshow>

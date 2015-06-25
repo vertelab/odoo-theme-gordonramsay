@@ -1,0 +1,75 @@
+<slideshow>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/OfficieltrningKnutsorp20110413/0STCC1104130130.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/OfficieltrningKnutsorp20110413/0STCC1104130173.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/OfficieltrningKnutsorp20110413/0STCC1104130182.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/OfficieltrningKnutsorp20110413/0STCC1104130319.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/OfficieltrningKnutsorp20110413/0STCC1104130323.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/OfficieltrningKnutsorp20110413/0STCC1104130392.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/OfficieltrningKnutsorp20110413/0STCC1104130393.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/OfficieltrningKnutsorp20110413/0STCC1104130479.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/OfficieltrningKnutsorp20110413/0STCC1104130494.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/OfficieltrningKnutsorp20110413/0STCC1104130572.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/OfficieltrningKnutsorp20110413/0STCC1104130621.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/OfficieltrningKnutsorp20110413/0STCC1104130682.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/OfficieltrningKnutsorp20110413/0STCC1104130685.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/OfficieltrningKnutsorp20110413/0STCC1104130694.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/OfficieltrningKnutsorp20110413/0STCC1104130695.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/OfficieltrningKnutsorp20110413/0STCC1104130700.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/OfficieltrningKnutsorp20110413/0STCC1104130705.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/OfficieltrningKnutsorp20110413/0STCC1104130750.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<control bar_visible='off' />
+</slideshow>

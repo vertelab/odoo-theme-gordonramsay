@@ -25,6 +25,7 @@ from openerp import http
 from openerp.http import request
 from openerp import SUPERUSER_ID
 from datetime import datetime
+from lxml import html
 import openerp.tools
 import werkzeug
 
@@ -32,6 +33,8 @@ import werkzeug
 class website(models.Model):
     _inherit = 'website'
        
+    def get_news(self, text):
+        return ' '.join(html.fromstring(text).text_content().split())
        
 class Teamdoc(http.Controller):
 

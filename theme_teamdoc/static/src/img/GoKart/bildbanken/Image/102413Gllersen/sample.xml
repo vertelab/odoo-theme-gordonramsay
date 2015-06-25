@@ -1,0 +1,51 @@
+<slideshow>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/102413Gllersen/I2B5872.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/102413Gllersen/I2B5869.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/102413Gllersen/I2B5851.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/102413Gllersen/I2B5824.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/102413Gllersen/I2B5815.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/102413Gllersen/I2B5885.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/102413Gllersen/I2B5914.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/102413Gllersen/MG6426.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/102413Gllersen/MG6450.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/102413Gllersen/3STCC1306290506.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/102413Gllersen/I2B5895.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/102413Gllersen/I2B5877.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<control bar_visible='off' />
+</slideshow>

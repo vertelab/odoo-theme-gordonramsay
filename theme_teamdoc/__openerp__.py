@@ -37,6 +37,8 @@ Teamdoc style theme.
         'website_overwritten_templates.xml',
         'theme_responsive_navbar.xml',
         'theme_magp.xml',
+        'magp_backup.xml',
+        'countdown_timer.xml',
 ],
     'application': True,
 }

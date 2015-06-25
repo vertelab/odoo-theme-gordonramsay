@@ -1,0 +1,103 @@
+<slideshow>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/IMG9032.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/IMG9026.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/IMG8979.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/IMG8939.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/IMG8920.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/IMG8917.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/IMG8894.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/4I2B0555.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/4I2B0552.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/4I2B0487.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/4I2B0449.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/IMG9071.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/IMG9076.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/2STCC1406070309.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/2STCC1406070504.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/2STCC1406070555.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/2STCC1406070619.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/2STCC1406070749.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/2STCC1406070777.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/2STCC1406070818.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/2STCC1406070837.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/2STCC1406070860.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/2STCC1406071038.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/2STCC1406071096.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/2014GBG/2STCC1406071119.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<control bar_visible='off' />
+</slideshow>

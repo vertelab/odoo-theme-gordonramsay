@@ -1,0 +1,83 @@
+<slideshow>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/20130505Knutstorp/I2B7675.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/20130505Knutstorp/I2B7756.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/20130505Knutstorp/I2B7888.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/20130505Knutstorp/MG1312.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/20130505Knutstorp/MG1723.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/20130505Knutstorp/MG3563.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/20130505Knutstorp/MG3598.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/20130505Knutstorp/MG4167.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/20130505Knutstorp/MG4169.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/20130505Knutstorp/MG4204.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040003.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040009.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040132.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040536.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040661.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040665.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040479.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040975.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305041018.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040985.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<control bar_visible='off' />
+</slideshow>

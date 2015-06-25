@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<gallery 
+				galleryname="20130505 Knutstorp" 
+				layout="5" 
+				preferredstage="1"
+				stagewidth="500"
+				stageheight="450"
+				popuplink="0"
+				popuplinktype="2" 
+				popuplinktext="Klicka h&#228;r f&#246;r att se en stor version av bilden!" 
+				popuplinkfont="Verdana" 
+				smoothscroll="0" 
+				speedsmoothness="0" 
+				scrollwhenclose="1" 
+				maxspeed="5" 
+				picbgcolor="0xffffff"
+				picbgalpha="100"
+				picalpha="100" 
+				bgcolor="0xffffff"
+				bgalpha=""
+				pnlcolor="0xe7e7e7"
+				pnlalpha="100" 
+				thumbloadbarcolor="0x666666" 
+				captionbgcolor="0xffffff" 
+				captioncolor="0x333333" 
+				titlecolor="0xffffff" 
+				pagebtncolor="0xffffff" 
+				animpagebtns="0" 
+				showcaption="1" 
+				showselected="1" 
+				selectioncolor="0xff0000" 
+				roundrect="1" 
+				roundpix="4" 
+				showprintbtn="0" 
+				showzoombtns="0" 
+				zoomincrement="10" 
+				maxzoom="4" 
+				loadthumbsatonce="0" 
+				thumbloaddelay="150" 
+				drawshadows="1" 
+				drawbgshadows="0" 
+				imageamount="5"
+				imageamountx="1" 
+				shadowwidth="4" 
+				shadowcolor="0x00000" 
+				shadowalpha="15" 
+				imgtransition="1" 
+				autoresize="1" 
+				thumbresize="1" 
+				slideshow="1" 
+				slideshowdelay="10"
+				slideshowstop="0" 
+				halign="right" 
+				valign="top" 
+				hmargin="10"
+				vmargin="15"  
+				thumbpadding1="5" 
+				thumbpadding2="5"
+				thumbwidth="60"
+				thumbheight="40"
+				thumbspace="5"
+				thumbborder="2"
+				reversebuttons="0"
+				thumbenlarge="0"
+				thumbenlargezoom="1"
+			>
+<image thumb="./sidadmin/bildbanken/Image/20130505Knutstorp/thumb_I2B7675.jpg" >./sidadmin/bildbanken/Image/20130505Knutstorp/I2B7675.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20130505Knutstorp/I2B7675.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20130505Knutstorp/thumb_I2B7756.jpg" >./sidadmin/bildbanken/Image/20130505Knutstorp/I2B7756.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20130505Knutstorp/I2B7756.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20130505Knutstorp/thumb_I2B7888.jpg" >./sidadmin/bildbanken/Image/20130505Knutstorp/I2B7888.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20130505Knutstorp/I2B7888.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20130505Knutstorp/thumb_MG1312.jpg" >./sidadmin/bildbanken/Image/20130505Knutstorp/MG1312.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20130505Knutstorp/MG1312.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20130505Knutstorp/thumb_MG1723.jpg" >./sidadmin/bildbanken/Image/20130505Knutstorp/MG1723.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20130505Knutstorp/MG1723.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20130505Knutstorp/thumb_MG3563.jpg" >./sidadmin/bildbanken/Image/20130505Knutstorp/MG3563.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20130505Knutstorp/MG3563.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20130505Knutstorp/thumb_MG3598.jpg" >./sidadmin/bildbanken/Image/20130505Knutstorp/MG3598.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20130505Knutstorp/MG3598.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20130505Knutstorp/thumb_MG4167.jpg" >./sidadmin/bildbanken/Image/20130505Knutstorp/MG4167.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20130505Knutstorp/MG4167.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20130505Knutstorp/thumb_MG4169.jpg" >./sidadmin/bildbanken/Image/20130505Knutstorp/MG4169.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20130505Knutstorp/MG4169.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20130505Knutstorp/thumb_MG4204.jpg" >./sidadmin/bildbanken/Image/20130505Knutstorp/MG4204.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20130505Knutstorp/MG4204.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20130505Knutstorp/thumb_1STCC1305040003.jpg" >./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040003.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040003.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20130505Knutstorp/thumb_1STCC1305040009.jpg" >./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040009.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040009.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20130505Knutstorp/thumb_1STCC1305040132.jpg" >./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040132.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040132.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20130505Knutstorp/thumb_1STCC1305040536.jpg" >./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040536.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="301" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040536.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20130505Knutstorp/thumb_1STCC1305040661.jpg" >./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040661.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040661.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20130505Knutstorp/thumb_1STCC1305040665.jpg" >./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040665.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="301" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040665.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20130505Knutstorp/thumb_1STCC1305040479.jpg" >./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040479.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040479.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20130505Knutstorp/thumb_1STCC1305040975.jpg" >./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040975.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040975.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20130505Knutstorp/thumb_1STCC1305041018.jpg" >./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305041018.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305041018.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20130505Knutstorp/thumb_1STCC1305040985.jpg" >./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040985.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20130505Knutstorp/1STCC1305040985.jpg</imageurl>
+	

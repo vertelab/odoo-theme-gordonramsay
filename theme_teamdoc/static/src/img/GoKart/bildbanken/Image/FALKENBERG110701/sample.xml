@@ -1,0 +1,103 @@
+<slideshow>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020009.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020075.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020086.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020280.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020281.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020287.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020322.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020325.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020335.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020358.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020375.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020402.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020427.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020571.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020632.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020704.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020705.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020736.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020852.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020902.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020921.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020923.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020925.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020927.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/FALKENBERG110701/5STCC1107020943.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<control bar_visible='off' />
+</slideshow>

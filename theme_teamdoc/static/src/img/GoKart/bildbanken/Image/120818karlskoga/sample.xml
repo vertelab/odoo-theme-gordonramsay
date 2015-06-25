@@ -1,0 +1,59 @@
+<slideshow>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/120818karlskoga/DSC09097.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/120818karlskoga/DSC09108.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/120818karlskoga/DSC09109.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/120818karlskoga/DSC09123.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/120818karlskoga/DSC09124.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/120818karlskoga/DSC09127.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/120818karlskoga/DSC09135.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/120818karlskoga/DSC09136.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/120818karlskoga/DSC09138.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/120818karlskoga/DSC09143.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/120818karlskoga/DSC09145.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/120818karlskoga/DSC09155.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/120818karlskoga/DSC09156.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/120818karlskoga/DSC09163.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<control bar_visible='off' />
+</slideshow>

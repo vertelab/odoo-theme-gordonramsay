@@ -12,24 +12,25 @@
                         background-size: cover;
                         background-position: 0px 100px;
                     }
-                    
                 </style>
             </xpath>
+            
+            
             
             <!-- Removes Odoo Top-Menu -->
             <xpath expr="//ul[@id='top_menu']" position="replace"></xpath>
             
             <!-- Adding Back The ul For Odoo Top-Menu -->
             <xpath expr="//header/div/div/div[2]" position="inside">
-                <ul class="nav navbar-nav navbar-right" id="top_menu">
-                    
-                </ul>
+                <ul class="nav navbar-nav navbar-right" id="top_menu"></ul>
             </xpath>
             
             <!-- The Layout For MAGP Page -->
-            <xpath expr="//main/t" position="before">
+            <xpath expr="//main" position="replace">
                 <div class="container" id="main_body">
+<!--
                     <div class="col-md-1"></div>
+-->
                     <!-- LEFT SIDE NAVBAR -->
                     <div class="jumbotron col-md-3" id="news_box">
                         <b>Meny</b>
@@ -72,58 +73,17 @@
                             </a>
                         </div>
                     </div>
-
                     <div class="col-md-1"></div>
-                
-                    <!-- LATEST NEWS BOX / MIDDLE BOX -->
-                    <!-- Bloginlägg #1 -->
-                    <div class="jumbotron col-md-6" id="left_menu">
-                        <t t-set="news" t-value="request.env['blog.post'].search([('website_published','=',True)],order='write_date desc')"/>
-                        <div class="grid-box-g" t-if="len(news)&gt;0">
-                            <t t-set="post_0" t-value="news[0]"/>
-                            <p class="overlay-title">
-                                <t t-esc="post_0.name"/> 
-                            </p>
-                            <t t-esc="post_0.write_date"/>
-                            <img t-att-src="post_0.background_image" class="img-responsive" style=""/>
-                            <div class="grid-box-overlay">
-                                <div class="overlay-row">
+                        <main class="jumbotron col-md-7" id="left_menu">
 <!--
-                                    <t t-raw="post_0.content"/>
+                            <div class="" id="left_menu">
 -->
-                                </div>
-                                <div class="overlay-info">
-                                    <h4><t t-esc="post_0.subtitle"/></h4>
-                                    <a class="btn btn-primary" t-attf-href="/blog/#{slug(post_0.blog_id)}/post/#{slug(post_0)}">Läs mer</a>
-                                </div>
+                                <t t-raw="0"/>
+<!--
                             </div>
-                        </div>
-                        <hr/>
-                    
-                        <div class="row">
-                        <!--Bloginlägg #2 -->
-                        <div class="col-md-6">
-                            <t t-if="len(news)>1">
-                                <t t-set="post_1" t-value="news[1]"/>
-                                <b><t t-esc="post_1.name" /></b><br/>
-                                <font size="0.9"><t t-esc="post_1.write_date"/></font><br/>
-                                <a class="btn btn-primary" t-attf-href="/blog/#{slug(post_1.blog_id)}/post/#{slug(post_1)}">Läs mer</a>
-                            </t>
-                        </div>
-                        
-                        <!--Bloginlägg #3 -->
-                        <div class="col-md-6">
-                        <t t-if="len(news)>2">
-                            <t t-set="post_2" t-value="news[2]"/>
-                            <b><t t-esc="post_2.name"/></b><br/>
-                            <font size="0.9"><t t-esc="post_2.write_date"/></font><br/>
-                            <a class="btn btn-primary" t-attf-href="/blog/#{slug(post_2.blog_id)}/post/#{slug(post_2)}">Läs mer</a>
-                        </t>                        
-                        
-                        </div>
-                    </div>
+-->
+                        </main>
                     <div class="col-md-1"></div>
-                </div>
                 </div>
             </xpath>
         </template>

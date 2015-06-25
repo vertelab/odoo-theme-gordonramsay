@@ -1,0 +1,51 @@
+<slideshow>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/MantorpSTCC18maj2008/MG4182.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/MantorpSTCC18maj2008/MG4177.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/MantorpSTCC18maj2008/MG4210.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/MantorpSTCC18maj2008/MG4291.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/MantorpSTCC18maj2008/MG4296.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/MantorpSTCC18maj2008/MG4307.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/MantorpSTCC18maj2008/MG4321.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/MantorpSTCC18maj2008/MG4328.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/MantorpSTCC18maj2008/MG4350.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/MantorpSTCC18maj2008/MG4459.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/MantorpSTCC18maj2008/STCC20080518MantorpPark003.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/MantorpSTCC18maj2008/STCC20080518MantorpPark002.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<control bar_visible='off' />
+</slideshow>

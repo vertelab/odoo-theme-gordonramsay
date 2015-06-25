@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<gallery 
+				galleryname="Mantorp STCC 26 sep-09" 
+				layout="5" 
+				preferredstage="1"
+				stagewidth="500"
+				stageheight="450"
+				popuplink="0"
+				popuplinktype="2" 
+				popuplinktext="Klicka h&#228;r f&#246;r att se en stor version av bilden!" 
+				popuplinkfont="Verdana" 
+				smoothscroll="0" 
+				speedsmoothness="0" 
+				scrollwhenclose="1" 
+				maxspeed="5" 
+				picbgcolor="0xffffff"
+				picbgalpha="100"
+				picalpha="100" 
+				bgcolor="0xffffff"
+				bgalpha=""
+				pnlcolor="0xe7e7e7"
+				pnlalpha="100" 
+				thumbloadbarcolor="0x666666" 
+				captionbgcolor="0xffffff" 
+				captioncolor="0x333333" 
+				titlecolor="0xffffff" 
+				pagebtncolor="0xffffff" 
+				animpagebtns="0" 
+				showcaption="1" 
+				showselected="1" 
+				selectioncolor="0xff0000" 
+				roundrect="1" 
+				roundpix="4" 
+				showprintbtn="0" 
+				showzoombtns="0" 
+				zoomincrement="10" 
+				maxzoom="4" 
+				loadthumbsatonce="0" 
+				thumbloaddelay="150" 
+				drawshadows="1" 
+				drawbgshadows="0" 
+				imageamount="5"
+				imageamountx="1" 
+				shadowwidth="4" 
+				shadowcolor="0x00000" 
+				shadowalpha="15" 
+				imgtransition="1" 
+				autoresize="1" 
+				thumbresize="1" 
+				slideshow="1" 
+				slideshowdelay="10"
+				slideshowstop="0" 
+				halign="right" 
+				valign="top" 
+				hmargin="10"
+				vmargin="15"  
+				thumbpadding1="5" 
+				thumbpadding2="5"
+				thumbwidth="60"
+				thumbheight="40"
+				thumbspace="5"
+				thumbborder="2"
+				reversebuttons="0"
+				thumbenlarge="0"
+				thumbenlargezoom="1"
+			>
+<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC01960.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC01960.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC01960.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC01963.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC01963.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC01963.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC01965.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC01965.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC01965.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC01972.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC01972.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC01972.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC01977.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC01977.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC01977.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC01985.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC01985.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC01985.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC01987.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC01987.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC01987.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC01990.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC01990.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC01990.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC01992.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC01992.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC01992.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02005.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02005.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02005.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02006.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02006.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02006.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02008.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02008.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02008.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02010.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02010.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02010.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02013.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02013.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02013.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02014.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02014.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02014.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02020.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02020.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02020.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02021.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02021.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02021.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02023.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02023.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02023.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02027.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02027.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02027.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02030.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02030.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02030.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02032.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02032.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02032.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02040.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02040.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02040.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02043.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02043.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02043.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02047.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02047.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02047.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02049.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02049.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02049.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02051.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02051.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02051.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02053.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02053.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02053.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02056.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02056.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02056.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02059.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02059.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02059.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02060.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02060.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02060.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02066.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02066.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02066.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02067.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02067.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02067.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02071.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02071.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02071.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02077.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02077.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02077.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02096.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02096.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02096.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02100.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02100.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02100.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02102.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02102.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02102.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02106.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02106.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02106.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02109.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02109.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02109.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02111.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02111.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02111.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02115.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02115.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02115.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02117.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02117.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02117.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02121.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02121.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02121.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02123.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02123.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02123.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02124.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02124.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02124.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02127.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02127.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02127.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02130.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02130.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02130.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02146.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02146.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02146.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02148.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02148.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02148.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02149.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02149.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02149.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02152.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02152.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02152.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02160.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02160.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02160.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02164.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02164.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02164.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02174.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02174.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02174.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02182.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02182.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02182.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02183.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02183.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02183.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02184.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02184.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02184.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02187.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02187.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02187.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02189.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02189.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02189.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02190.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02190.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02190.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02191.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02191.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02191.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02192.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02192.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02192.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02196.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02196.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02196.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02200.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02200.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02200.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02201.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02201.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02201.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02203.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02203.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02203.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02204.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02204.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02204.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02206.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02206.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02206.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02207.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02207.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02207.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02210.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02210.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02210.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02214.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02214.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02214.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02215.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02215.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02215.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02220.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02220.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02220.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02221.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02221.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02221.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02223.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02223.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02223.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02225.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02225.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02225.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02226.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02226.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02226.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02230.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02230.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02230.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02231.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02231.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02231.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02232.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02232.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02232.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02234.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02234.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02234.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02235.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02235.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02235.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02238.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02238.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02238.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02240.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02240.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02240.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02241.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02241.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02241.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02248.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02248.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02248.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02249.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02249.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02249.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02258.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02258.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02258.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02259.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02259.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02259.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02262.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02262.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02262.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02266.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02266.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02266.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02267.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02267.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02267.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02268.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02268.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02268.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02270.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02270.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02270.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02274.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02274.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02274.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02276.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02276.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02276.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02287.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02287.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02287.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02294.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02294.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02294.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02295.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02295.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02295.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02299.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02299.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02299.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02317.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02317.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02317.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02322.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02322.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02322.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02323.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02323.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02323.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02325.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02325.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02325.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02327.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02327.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02327.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02332.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02332.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02332.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02335.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02335.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02335.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02336.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02336.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02336.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02340.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02340.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02340.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02341.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02341.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02341.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02348.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02348.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02348.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02351.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02351.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02351.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02361.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02361.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02361.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02366.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02366.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02366.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02371.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02371.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02371.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02372.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02372.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02372.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02386.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02386.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02386.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02395.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02395.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02395.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02397.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02397.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02397.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02403.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02403.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02403.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02407.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02407.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02407.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02408.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02408.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02408.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02412.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02412.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02412.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02425.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02425.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02425.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02426.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02426.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02426.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02428.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02428.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02428.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02435.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02435.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02435.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02437.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02437.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02437.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02446.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02446.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02446.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02465.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02465.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02465.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02475.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02475.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02475.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02484.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02484.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02484.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02486.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02486.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02486.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02496.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02496.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02496.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02512.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02512.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02512.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02526.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02526.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02526.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_DSC02527.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02527.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/DSC02527.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_S6300010.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/S6300010.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="375" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/S6300010.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_S6300012.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/S6300012.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="375" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/S6300012.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MantorpSTCC26sep09/thumb_S6300014.jpg" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/S6300014.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="375" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MantorpSTCC26sep09/S6300014.jpg</imageurl>
+	

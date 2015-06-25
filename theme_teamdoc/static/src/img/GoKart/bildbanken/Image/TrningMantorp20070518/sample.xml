@@ -1,0 +1,79 @@
+<slideshow>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/TrningMantorp20070518/ConvertedMantorp070518003.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/TrningMantorp20070518/ConvertedMantorp070518007.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/TrningMantorp20070518/ConvertedMantorp070518008.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/TrningMantorp20070518/ConvertedMantorp070518011.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/TrningMantorp20070518/ConvertedMantorp070518015.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/TrningMantorp20070518/ConvertedMantorp070518018.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/TrningMantorp20070518/ConvertedMantorp070518026.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/TrningMantorp20070518/ConvertedMantorp070518028.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/TrningMantorp20070518/ConvertedMantorp070518031.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/TrningMantorp20070518/ConvIMGP0442.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/TrningMantorp20070518/ConvIMGP0464.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/TrningMantorp20070518/ConvIMGP0467.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/TrningMantorp20070518/ConvIMGP0480.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/TrningMantorp20070518/ConvIMGP0503.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/TrningMantorp20070518/ConvIMGP0510.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/TrningMantorp20070518/ConvIMGP0514.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/TrningMantorp20070518/ConvIMGP0518.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/TrningMantorp20070518/ConvIMGP0524.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/TrningMantorp20070518/ConvIMGP0540.jpg' alpha='100' />
+	  <transition type='fade_to_black' duration='1' />
+	</slide>
+	<control bar_visible='off' />
+</slideshow>

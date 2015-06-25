@@ -1,0 +1,83 @@
+<slideshow>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGteborgStadsrace2011/IMG0167.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGteborgStadsrace2011/IMG0378.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGteborgStadsrace2011/IMG5752.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGteborgStadsrace2011/IMG6466.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGteborgStadsrace2011/IMG6934.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGteborgStadsrace2011/IMG7112.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGteborgStadsrace2011/IMG7270.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGteborgStadsrace2011/IMG7293.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGteborgStadsrace2011/IMG7423.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGteborgStadsrace2011/IMG8292.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGteborgStadsrace2011/IMG8499.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGteborgStadsrace2011/IMG9062.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGteborgStadsrace2011/IMG9062.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGteborgStadsrace2011/IMG9170.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGteborgStadsrace2011/IMG9246.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGteborgStadsrace2011/IMG9304.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGteborgStadsrace2011/IMG9332.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGteborgStadsrace2011/IMG9350.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGteborgStadsrace2011/IMG9528.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGteborgStadsrace2011/IMG9628.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<control bar_visible='off' />
+</slideshow>

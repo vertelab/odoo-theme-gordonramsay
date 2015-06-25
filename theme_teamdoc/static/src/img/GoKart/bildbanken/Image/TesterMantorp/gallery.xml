@@ -1,0 +1,150 @@
+<gallery 
+				galleryname="Tester Mantorp" 
+				layout="5" 
+				preferredstage="1"
+				stagewidth="500"
+				stageheight="450"
+				popuplink="0"
+				popuplinktype="2" 
+				popuplinktext="Klicka h&#228;r f&#246;r att se en stor version av bilden!" 
+				popuplinkfont="Verdana" 
+				smoothscroll="0" 
+				speedsmoothness="0" 
+				scrollwhenclose="1" 
+				maxspeed="5" 
+				picbgcolor="0xffffff"
+				picbgalpha="100"
+				picalpha="100" 
+				bgcolor="0xffffff"
+				bgalpha=""
+				pnlcolor="0xe7e7e7"
+				pnlalpha="100" 
+				thumbloadbarcolor="0x666666" 
+				captionbgcolor="0xffffff" 
+				captioncolor="0x333333" 
+				titlecolor="0xffffff" 
+				pagebtncolor="0xffffff" 
+				animpagebtns="0" 
+				showcaption="1" 
+				showselected="1" 
+				selectioncolor="0xff0000" 
+				roundrect="1" 
+				roundpix="4" 
+				showprintbtn="0" 
+				showzoombtns="0" 
+				zoomincrement="10" 
+				maxzoom="4" 
+				loadthumbsatonce="0" 
+				thumbloaddelay="150" 
+				drawshadows="1" 
+				drawbgshadows="0" 
+				imageamount="5"
+				imageamountx="1" 
+				shadowwidth="4" 
+				shadowcolor="0x00000" 
+				shadowalpha="15" 
+				imgtransition="1" 
+				autoresize="1" 
+				thumbresize="1" 
+				slideshow="1" 
+				slideshowdelay="10"
+				slideshowstop="0" 
+				halign="right" 
+				valign="top" 
+				hmargin="10"
+				vmargin="15"  
+				thumbpadding1="5" 
+				thumbpadding2="5"
+				thumbwidth="60"
+				thumbheight="40"
+				thumbspace="5"
+				thumbborder="2"
+				reversebuttons="0"
+				thumbenlarge="0"
+				thumbenlargezoom="1"
+			>
+<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02680.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02680.jpg</image>
+	<captiontext>F2 sv&#228;ngen i fin linje\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02680.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02662.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02662.jpg</image>
+	<captiontext>Nya puckar p&#229;\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02662.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02700.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02700.jpg</image>
+	<captiontext>Full fart i teamet\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02700.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02720.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02720.jpg</image>
+	<captiontext>In i Parissv&#228;ngen\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02720.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC027211.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC027211.jpg</image>
+	<captiontext>Paris h&#228;rlig sv&#228;ng\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC027211.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02622.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02622.jpg</image>
+	<captiontext>Hungriga mekar \n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02622.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02626.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02626.jpg</image>
+	<captiontext>Tommy p&#229; bes&#246;k\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02626.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02722.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02722.jpg</image>
+	<captiontext>Utg&#229;ngen p&#229; Paris \n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02722.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02736.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02736.jpg</image>
+	<captiontext>Jaga jaga \n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02736.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02747.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02747.jpg</image>
+	<captiontext>Sn&#229;lt sp&#229;r \n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02747.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02751.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02751.jpg</image>
+	<captiontext>Jaga 2 st\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02751.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02754.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02754.jpg</image>
+	<captiontext>F2 sv&#228;ngen ligger den fint i\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02754.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02784.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02784.jpg</image>
+	<captiontext>Taktikern mycket n&#246;jd med dagen\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02784.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02792.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02792.jpg</image>
+	<captiontext>Gunnar bl&#228;ndad av solen\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02792.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02832.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02832.jpg</image>
+	<captiontext>Mattias n&#246;jd med dagen\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02832.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02836.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02836.jpg</image>
+	<captiontext>Taktikern f&#229;r goda r&#229;d av Marco\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02836.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02838.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02838.jpg</image>
+	<captiontext>Tankning inf&#246;r setupp av chassi\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02838.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02849.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02849.jpg</image>
+	<captiontext>Dagen avklarad nu v&#228;ntar en ny testdag f&#246;r Mattias\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02849.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02854.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02854.jpg</image>
+	<captiontext>Analys med Marco\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02854.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02877.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02877.jpg</image>
+	<captiontext>Emil o Danielle drevar om inf&#246;r morgondagen\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02877.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02881.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02881.jpg</image>
+	<captiontext>Luca o Emil r&#228;knar kugg till Geller&#229;sens raka\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02881.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02883.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02883.jpg</image>
+	<captiontext>Marco inspekterar\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02883.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02885.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02885.jpg</image>
+	<captiontext>Taktikern djupt inne i dataanalysens v&#228;rld\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02885.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02894.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02894.jpg</image>
+	<captiontext>Momentkoll By Nordauto\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02894.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02901.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02901.jpg</image>
+	<captiontext>Broddway sopar banan tillsammans med MAGP\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02901.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02902.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02902.jpg</image>
+	<captiontext>Far o son 2 som trivs tillsammans\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02902.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02909.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02909.jpg</image>
+	<captiontext>Taktikern pekar med hela handen\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02909.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/TesterMantorp/thumb_DSC02916.jpg" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02916.jpg</image>
+	<captiontext>Upplastning o avresa mot Karlskoga\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/TesterMantorp/DSC02916.jpg</imageurl>
+	

@@ -17,11 +17,21 @@
     font-size:12px;
 }
 
-#news_list{
-    list-style-type:none;
-    size:2;
+#left_navbar {
+     padding-left:0px;
+     padding-right:20px;
+     margin-left:-15px;
 }
 
 #menu_button >button>span{
-    color:black;
+    background:black;
 }
+#menu_button >button{
+    border-color: black;
+}
+
+.navbar.navbar-static-top{
+    display:none;
+}
+
+

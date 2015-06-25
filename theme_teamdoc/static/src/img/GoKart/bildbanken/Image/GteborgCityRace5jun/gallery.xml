@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<gallery 
+				galleryname="G&#246;teborg City Race 5 jun" 
+				layout="5" 
+				preferredstage="1"
+				stagewidth="500"
+				stageheight="450"
+				popuplink="0"
+				popuplinktype="2" 
+				popuplinktext="Klicka h&#228;r f&#246;r att se en stor version av bilden!" 
+				popuplinkfont="Verdana" 
+				smoothscroll="0" 
+				speedsmoothness="0" 
+				scrollwhenclose="1" 
+				maxspeed="5" 
+				picbgcolor="0xffffff"
+				picbgalpha="100"
+				picalpha="100" 
+				bgcolor="0xffffff"
+				bgalpha=""
+				pnlcolor="0xe7e7e7"
+				pnlalpha="100" 
+				thumbloadbarcolor="0x666666" 
+				captionbgcolor="0xffffff" 
+				captioncolor="0x333333" 
+				titlecolor="0xffffff" 
+				pagebtncolor="0xffffff" 
+				animpagebtns="0" 
+				showcaption="1" 
+				showselected="1" 
+				selectioncolor="0xff0000" 
+				roundrect="1" 
+				roundpix="4" 
+				showprintbtn="0" 
+				showzoombtns="0" 
+				zoomincrement="10" 
+				maxzoom="4" 
+				loadthumbsatonce="0" 
+				thumbloaddelay="150" 
+				drawshadows="1" 
+				drawbgshadows="0" 
+				imageamount="5"
+				imageamountx="1" 
+				shadowwidth="4" 
+				shadowcolor="0x00000" 
+				shadowalpha="15" 
+				imgtransition="1" 
+				autoresize="1" 
+				thumbresize="1" 
+				slideshow="1" 
+				slideshowdelay="10"
+				slideshowstop="0" 
+				halign="right" 
+				valign="top" 
+				hmargin="10"
+				vmargin="15"  
+				thumbpadding1="5" 
+				thumbpadding2="5"
+				thumbwidth="60"
+				thumbheight="40"
+				thumbspace="5"
+				thumbborder="2"
+				reversebuttons="0"
+				thumbenlarge="0"
+				thumbenlargezoom="1"
+			>
+<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02217.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02217.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02217.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02249.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02249.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02249.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02271.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02271.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02271.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02308.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02308.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02308.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02312.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02312.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02312.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02316.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02316.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02316.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02317.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02317.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02317.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02326.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02326.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02326.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02330.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02330.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02330.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02342.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02342.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02342.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02368.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02368.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02368.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02371.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02371.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02371.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02383.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02383.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02383.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02424.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02424.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02424.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02428.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02428.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02428.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02429.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02429.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02429.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02431.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02431.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02431.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02436.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02436.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02436.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02440.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02440.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02440.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02449.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02449.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02449.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02456.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02456.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02456.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02470.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02470.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02470.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02477.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02477.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02477.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02492.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02492.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02492.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02503.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02503.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02503.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02521.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02521.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02521.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02531.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02531.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02531.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02533.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02533.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02533.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02534.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02534.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02534.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02540.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02540.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02540.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02628.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02628.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02628.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02750.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02750.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02750.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02780.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02780.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02780.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02788.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02788.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02788.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02794.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02794.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02794.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02821.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02821.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02821.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02836.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02836.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02836.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02876.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02876.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02876.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02880.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02880.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02880.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02886.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02886.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02886.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02897.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02897.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02897.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02903.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02903.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02903.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02954.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02954.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02954.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC02985.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02985.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC02985.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03119.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03119.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03119.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03121.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03121.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03121.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03125.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03125.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03125.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03126.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03126.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03126.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03131.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03131.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03131.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03136.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03136.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03136.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03142.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03142.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03142.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03151.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03151.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03151.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03185.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03185.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03185.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03186.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03186.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03186.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03199.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03199.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03199.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03223.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03223.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03223.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03238.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03238.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03238.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03240.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03240.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03240.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03244.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03244.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03244.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03250.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03250.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03250.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03253.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03253.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03253.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03259.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03259.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03259.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03268.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03268.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03268.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03271.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03271.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03271.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03274.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03274.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03274.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03277.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03277.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03277.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03278.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03278.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03278.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03284.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03284.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03284.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03295.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03295.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03295.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03301.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03301.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03301.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03306.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03306.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03306.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03310.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03310.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03310.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03338.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03338.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03338.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03348.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03348.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03348.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03350.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03350.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03350.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03358.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03358.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03358.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03397.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03397.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03397.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03402.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03402.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03402.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03406.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03406.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03406.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03410.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03410.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03410.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03417.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03417.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03417.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03458.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03458.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03458.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/GteborgCityRace5jun/thumb_DSC03479.JPG" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03479.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/GteborgCityRace5jun/DSC03479.JPG</imageurl>
+	

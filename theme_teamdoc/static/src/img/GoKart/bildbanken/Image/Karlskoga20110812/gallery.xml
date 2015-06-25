@@ -1,0 +1,156 @@
+<gallery 
+				galleryname="Karlskoga 20110812" 
+				layout="5" 
+				preferredstage="1"
+				stagewidth="500"
+				stageheight="450"
+				popuplink="0"
+				popuplinktype="2" 
+				popuplinktext="Klicka h&#228;r f&#246;r att se en stor version av bilden!" 
+				popuplinkfont="Verdana" 
+				smoothscroll="0" 
+				speedsmoothness="0" 
+				scrollwhenclose="1" 
+				maxspeed="5" 
+				picbgcolor="0xffffff"
+				picbgalpha="100"
+				picalpha="100" 
+				bgcolor="0xffffff"
+				bgalpha=""
+				pnlcolor="0xe7e7e7"
+				pnlalpha="100" 
+				thumbloadbarcolor="0x666666" 
+				captionbgcolor="0xffffff" 
+				captioncolor="0x333333" 
+				titlecolor="0xffffff" 
+				pagebtncolor="0xffffff" 
+				animpagebtns="0" 
+				showcaption="1" 
+				showselected="1" 
+				selectioncolor="0xff0000" 
+				roundrect="1" 
+				roundpix="4" 
+				showprintbtn="0" 
+				showzoombtns="0" 
+				zoomincrement="10" 
+				maxzoom="4" 
+				loadthumbsatonce="0" 
+				thumbloaddelay="150" 
+				drawshadows="1" 
+				drawbgshadows="0" 
+				imageamount="5"
+				imageamountx="1" 
+				shadowwidth="4" 
+				shadowcolor="0x00000" 
+				shadowalpha="15" 
+				imgtransition="1" 
+				autoresize="1" 
+				thumbresize="1" 
+				slideshow="1" 
+				slideshowdelay="10"
+				slideshowstop="0" 
+				halign="right" 
+				valign="top" 
+				hmargin="10"
+				vmargin="15"  
+				thumbpadding1="5" 
+				thumbpadding2="5"
+				thumbwidth="60"
+				thumbheight="40"
+				thumbspace="5"
+				thumbborder="2"
+				reversebuttons="0"
+				thumbenlarge="0"
+				thumbenlargezoom="1"
+			>
+<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130001.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130001.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130001.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130063.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130063.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130063.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130065.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130065.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130065.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130106.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130106.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130106.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130137.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130137.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130137.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130240.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130240.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130240.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130244.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130244.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130244.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130247.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130247.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130247.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130250.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130250.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130250.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130253.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130253.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130253.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130274.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130274.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130274.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130280.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130280.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130280.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130286.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130286.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130286.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130289.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130289.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130289.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130300.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130300.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130300.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130366.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130366.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130366.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130372.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130372.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130372.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130438.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130438.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130438.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130447.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130447.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130447.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130459.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130459.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130459.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130650.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130650.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130650.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130651.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130651.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130651.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130687.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130687.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130687.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130689.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130689.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130689.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108130764.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130764.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108130764.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108131165.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108131165.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108131165.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108131194.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108131194.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108131194.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108131237.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108131237.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108131237.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108131246.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108131246.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108131246.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Karlskoga20110812/thumb_6STCC1108131292.jpg" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108131292.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Karlskoga20110812/6STCC1108131292.jpg</imageurl>
+	
