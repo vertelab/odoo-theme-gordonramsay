@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<gallery 
+				galleryname="2015-05-09 Sk&#246;vde" 
+				layout="5" 
+				preferredstage="1"
+				stagewidth="500"
+				stageheight="450"
+				popuplink="0"
+				popuplinktype="2" 
+				popuplinktext="Klicka h&#228;r f&#246;r att se en stor version av bilden!" 
+				popuplinkfont="Verdana" 
+				smoothscroll="0" 
+				speedsmoothness="0" 
+				scrollwhenclose="1" 
+				maxspeed="5" 
+				picbgcolor="0xffffff"
+				picbgalpha="100"
+				picalpha="100" 
+				bgcolor="0xffffff"
+				bgalpha=""
+				pnlcolor="0xe7e7e7"
+				pnlalpha="100" 
+				thumbloadbarcolor="0x666666" 
+				captionbgcolor="0xffffff" 
+				captioncolor="0x333333" 
+				titlecolor="0xffffff" 
+				pagebtncolor="0xffffff" 
+				animpagebtns="0" 
+				showcaption="1" 
+				showselected="1" 
+				selectioncolor="0xff0000" 
+				roundrect="1" 
+				roundpix="4" 
+				showprintbtn="0" 
+				showzoombtns="0" 
+				zoomincrement="10" 
+				maxzoom="4" 
+				loadthumbsatonce="0" 
+				thumbloaddelay="150" 
+				drawshadows="1" 
+				drawbgshadows="0" 
+				imageamount="5"
+				imageamountx="1" 
+				shadowwidth="4" 
+				shadowcolor="0x00000" 
+				shadowalpha="15" 
+				imgtransition="1" 
+				autoresize="1" 
+				thumbresize="1" 
+				slideshow="1" 
+				slideshowdelay="10"
+				slideshowstop="0" 
+				halign="right" 
+				valign="top" 
+				hmargin="10"
+				vmargin="15"  
+				thumbpadding1="5" 
+				thumbpadding2="5"
+				thumbwidth="60"
+				thumbheight="40"
+				thumbspace="5"
+				thumbborder="2"
+				reversebuttons="0"
+				thumbenlarge="0"
+				thumbenlargezoom="1"
+			>
+<image thumb="./sidadmin/bildbanken/Image/20150509Skvde/thumb_I2B3041.JPG" >./sidadmin/bildbanken/Image/20150509Skvde/I2B3041.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20150509Skvde/I2B3041.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20150509Skvde/thumb_I2B3043.JPG" >./sidadmin/bildbanken/Image/20150509Skvde/I2B3043.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20150509Skvde/I2B3043.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20150509Skvde/thumb_I2B3071.JPG" >./sidadmin/bildbanken/Image/20150509Skvde/I2B3071.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20150509Skvde/I2B3071.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20150509Skvde/thumb_I2B3187.JPG" >./sidadmin/bildbanken/Image/20150509Skvde/I2B3187.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20150509Skvde/I2B3187.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20150509Skvde/thumb_I2B3203.JPG" >./sidadmin/bildbanken/Image/20150509Skvde/I2B3203.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20150509Skvde/I2B3203.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20150509Skvde/thumb_I2B3791.JPG" >./sidadmin/bildbanken/Image/20150509Skvde/I2B3791.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20150509Skvde/I2B3791.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20150509Skvde/thumb_I2B3799.JPG" >./sidadmin/bildbanken/Image/20150509Skvde/I2B3799.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="675" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20150509Skvde/I2B3799.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20150509Skvde/thumb_I2B3807.JPG" >./sidadmin/bildbanken/Image/20150509Skvde/I2B3807.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20150509Skvde/I2B3807.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20150509Skvde/thumb_I2B3829.JPG" >./sidadmin/bildbanken/Image/20150509Skvde/I2B3829.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20150509Skvde/I2B3829.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20150509Skvde/thumb_MG8933.JPG" >./sidadmin/bildbanken/Image/20150509Skvde/MG8933.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20150509Skvde/MG8933.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20150509Skvde/thumb_MG9143.JPG" >./sidadmin/bildbanken/Image/20150509Skvde/MG9143.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20150509Skvde/MG9143.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20150509Skvde/thumb_Q8B3713.JPG" >./sidadmin/bildbanken/Image/20150509Skvde/Q8B3713.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20150509Skvde/Q8B3713.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20150509Skvde/thumb_Q8B3758.JPG" >./sidadmin/bildbanken/Image/20150509Skvde/Q8B3758.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20150509Skvde/Q8B3758.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20150509Skvde/thumb_Q8B3770.JPG" >./sidadmin/bildbanken/Image/20150509Skvde/Q8B3770.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20150509Skvde/Q8B3770.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20150509Skvde/thumb_Q8B3790.JPG" >./sidadmin/bildbanken/Image/20150509Skvde/Q8B3790.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20150509Skvde/Q8B3790.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20150509Skvde/thumb_Q8B3794.JPG" >./sidadmin/bildbanken/Image/20150509Skvde/Q8B3794.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20150509Skvde/Q8B3794.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/20150509Skvde/thumb_Q8B3976.JPG" >./sidadmin/bildbanken/Image/20150509Skvde/Q8B3976.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="300" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/20150509Skvde/Q8B3976.JPG</imageurl>
+	

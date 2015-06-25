@@ -1,0 +1,23 @@
+<slideshow>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGellersen31maj04/20040531STCCGellersen001.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGellersen31maj04/20040531STCCGellersen010.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGellersen31maj04/20040531STCCGellersen009.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGellersen31maj04/20040531STCCGellersen004.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<slide>
+      <image url='./sidadmin/bildbanken/Image/STCCGellersen31maj04/20040531STCCGellersen002.jpg' alpha='100' duration='10' />
+	  <transition type='dissolve' duration='3' />
+	</slide>
+	<control bar_visible='off' />
+</slideshow>

@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<gallery 
+				galleryname="Falkenberg STCC 11 jun-09" 
+				layout="5" 
+				preferredstage="1"
+				stagewidth="500"
+				stageheight="450"
+				popuplink="0"
+				popuplinktype="2" 
+				popuplinktext="Klicka h&#228;r f&#246;r att se en stor version av bilden!" 
+				popuplinkfont="Verdana" 
+				smoothscroll="0" 
+				speedsmoothness="0" 
+				scrollwhenclose="1" 
+				maxspeed="5" 
+				picbgcolor="0xffffff"
+				picbgalpha="100"
+				picalpha="100" 
+				bgcolor="0xffffff"
+				bgalpha=""
+				pnlcolor="0xe7e7e7"
+				pnlalpha="100" 
+				thumbloadbarcolor="0x666666" 
+				captionbgcolor="0xffffff" 
+				captioncolor="0x333333" 
+				titlecolor="0xffffff" 
+				pagebtncolor="0xffffff" 
+				animpagebtns="0" 
+				showcaption="1" 
+				showselected="1" 
+				selectioncolor="0xff0000" 
+				roundrect="1" 
+				roundpix="4" 
+				showprintbtn="0" 
+				showzoombtns="0" 
+				zoomincrement="10" 
+				maxzoom="4" 
+				loadthumbsatonce="0" 
+				thumbloaddelay="150" 
+				drawshadows="1" 
+				drawbgshadows="0" 
+				imageamount="5"
+				imageamountx="1" 
+				shadowwidth="4" 
+				shadowcolor="0x00000" 
+				shadowalpha="15" 
+				imgtransition="1" 
+				autoresize="1" 
+				thumbresize="1" 
+				slideshow="1" 
+				slideshowdelay="10"
+				slideshowstop="0" 
+				halign="right" 
+				valign="top" 
+				hmargin="10"
+				vmargin="15"  
+				thumbpadding1="5" 
+				thumbpadding2="5"
+				thumbwidth="60"
+				thumbheight="40"
+				thumbspace="5"
+				thumbborder="2"
+				reversebuttons="0"
+				thumbenlarge="0"
+				thumbenlargezoom="1"
+			>
+<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC05931.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05931.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05931.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC05934.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05934.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05934.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC05935.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05935.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05935.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC05938.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05938.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05938.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC05953.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05953.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05953.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC05971.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05971.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05971.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC05977.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05977.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05977.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC05978.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05978.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05978.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC05984.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05984.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05984.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC05985.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05985.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05985.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC05988.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05988.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05988.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC05991.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05991.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05991.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC05994.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05994.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05994.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC05997.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05997.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC05997.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06006.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06006.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06006.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06008.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06008.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06008.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06010.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06010.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06010.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06015.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06015.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06015.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06018.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06018.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06018.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06019.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06019.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06019.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06020.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06020.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06020.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06021.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06021.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06021.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06022.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06022.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06022.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06024.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06024.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06024.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06025.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06025.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06025.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06031.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06031.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06031.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06033.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06033.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06033.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06034.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06034.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06034.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06035.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06035.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06035.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06037.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06037.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06037.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06039.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06039.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06039.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06042.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06042.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06042.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06043.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06043.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06043.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06046.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06046.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06046.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06050.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06050.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06050.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06051.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06051.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06051.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06056.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06056.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06056.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06068.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06068.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06068.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06079.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06079.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06079.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06081.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06081.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06081.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06082.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06082.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06082.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06083.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06083.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06083.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06084.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06084.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06084.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06106.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06106.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06106.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06114.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06114.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06114.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06124.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06124.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06124.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06126.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06126.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06126.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_DSC06129.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06129.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/DSC06129.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_HPIM1219.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/HPIM1219.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="373" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/HPIM1219.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/thumb_HPIM1221.jpg" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/HPIM1221.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="373" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/FalkenbergSTCC11jun09/HPIM1221.jpg</imageurl>
+	

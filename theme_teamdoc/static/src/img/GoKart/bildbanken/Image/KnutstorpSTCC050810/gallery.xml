@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<gallery 
+				galleryname="Knutstorp STCC 050810" 
+				layout="5" 
+				preferredstage="1"
+				stagewidth="500"
+				stageheight="450"
+				popuplink="0"
+				popuplinktype="2" 
+				popuplinktext="Klicka h&#228;r f&#246;r att se en stor version av bilden!" 
+				popuplinkfont="Verdana" 
+				smoothscroll="0" 
+				speedsmoothness="0" 
+				scrollwhenclose="1" 
+				maxspeed="5" 
+				picbgcolor="0xffffff"
+				picbgalpha="100"
+				picalpha="100" 
+				bgcolor="0xffffff"
+				bgalpha=""
+				pnlcolor="0xe7e7e7"
+				pnlalpha="100" 
+				thumbloadbarcolor="0x666666" 
+				captionbgcolor="0xffffff" 
+				captioncolor="0x333333" 
+				titlecolor="0xffffff" 
+				pagebtncolor="0xffffff" 
+				animpagebtns="0" 
+				showcaption="1" 
+				showselected="1" 
+				selectioncolor="0xff0000" 
+				roundrect="1" 
+				roundpix="4" 
+				showprintbtn="0" 
+				showzoombtns="0" 
+				zoomincrement="10" 
+				maxzoom="4" 
+				loadthumbsatonce="0" 
+				thumbloaddelay="150" 
+				drawshadows="1" 
+				drawbgshadows="0" 
+				imageamount="5"
+				imageamountx="1" 
+				shadowwidth="4" 
+				shadowcolor="0x00000" 
+				shadowalpha="15" 
+				imgtransition="1" 
+				autoresize="1" 
+				thumbresize="1" 
+				slideshow="1" 
+				slideshowdelay="10"
+				slideshowstop="0" 
+				halign="right" 
+				valign="top" 
+				hmargin="10"
+				vmargin="15"  
+				thumbpadding1="5" 
+				thumbpadding2="5"
+				thumbwidth="60"
+				thumbheight="40"
+				thumbspace="5"
+				thumbborder="2"
+				reversebuttons="0"
+				thumbenlarge="0"
+				thumbenlargezoom="1"
+			>
+<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00069.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00069.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00069.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00128.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00128.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00128.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00172.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00172.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00172.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00214.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00214.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00214.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00242.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00242.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00242.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00306.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00306.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00306.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00317.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00317.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00317.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00327.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00327.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00327.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00329.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00329.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00329.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00332.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00332.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00332.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00337.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00337.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00337.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00344.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00344.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00344.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00385.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00385.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00385.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00389.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00389.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00389.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00392.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00392.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00392.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00404.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00404.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00404.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00413.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00413.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00413.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00419.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00419.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00419.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00430.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00430.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00430.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00438.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00438.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00438.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00447.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00447.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00447.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00450.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00450.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00450.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00454.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00454.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00454.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00473.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00473.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00473.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00491.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00491.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00491.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00504.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00504.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00504.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00529.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00529.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00529.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00595.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00595.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00595.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00607.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00607.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00607.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00613.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00613.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00613.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00643.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00643.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00643.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00691.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00691.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00691.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00709.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00709.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00709.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00753.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00753.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00753.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00756.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00756.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00756.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00759.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00759.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00759.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00773.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00773.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00773.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00780.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00780.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00780.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00782.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00782.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00782.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00790.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00790.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00790.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00796.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00796.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00796.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00798.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00798.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00798.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00800.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00800.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00800.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00811.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00811.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00811.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/KnutstorpSTCC050810/thumb_DSC00818.jpg" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00818.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="280" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/KnutstorpSTCC050810/DSC00818.jpg</imageurl>
+	

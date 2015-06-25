@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<gallery 
+				galleryname="STCC Premi&#228;r Jyllandsringen 2011-04-23" 
+				layout="5" 
+				preferredstage="1"
+				stagewidth="500"
+				stageheight="450"
+				popuplink="0"
+				popuplinktype="2" 
+				popuplinktext="Klicka h&#228;r f&#246;r att se en stor version av bilden!" 
+				popuplinkfont="Verdana" 
+				smoothscroll="0" 
+				speedsmoothness="0" 
+				scrollwhenclose="1" 
+				maxspeed="5" 
+				picbgcolor="0xffffff"
+				picbgalpha="100"
+				picalpha="100" 
+				bgcolor="0xffffff"
+				bgalpha=""
+				pnlcolor="0xe7e7e7"
+				pnlalpha="100" 
+				thumbloadbarcolor="0x666666" 
+				captionbgcolor="0xffffff" 
+				captioncolor="0x333333" 
+				titlecolor="0xffffff" 
+				pagebtncolor="0xffffff" 
+				animpagebtns="0" 
+				showcaption="1" 
+				showselected="1" 
+				selectioncolor="0xff0000" 
+				roundrect="1" 
+				roundpix="4" 
+				showprintbtn="0" 
+				showzoombtns="0" 
+				zoomincrement="10" 
+				maxzoom="4" 
+				loadthumbsatonce="0" 
+				thumbloaddelay="150" 
+				drawshadows="1" 
+				drawbgshadows="0" 
+				imageamount="5"
+				imageamountx="1" 
+				shadowwidth="4" 
+				shadowcolor="0x00000" 
+				shadowalpha="15" 
+				imgtransition="1" 
+				autoresize="1" 
+				thumbresize="1" 
+				slideshow="1" 
+				slideshowdelay="10"
+				slideshowstop="0" 
+				halign="right" 
+				valign="top" 
+				hmargin="10"
+				vmargin="15"  
+				thumbpadding1="5" 
+				thumbpadding2="5"
+				thumbwidth="60"
+				thumbheight="40"
+				thumbspace="5"
+				thumbborder="2"
+				reversebuttons="0"
+				thumbenlarge="0"
+				thumbenlargezoom="1"
+			>
+<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104230006.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230006.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230006.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104230129.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230129.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230129.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104230137.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230137.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230137.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104230138.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230138.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230138.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104230176.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230176.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230176.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104230232.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230232.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230232.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104230280.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230280.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230280.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104230282.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230282.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230282.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104230343.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230343.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230343.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104230413.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230413.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230413.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104230483.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230483.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230483.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104230495.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230495.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230495.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104230556.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230556.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230556.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104230702.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230702.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230702.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104230758.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230758.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230758.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104230778.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230778.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230778.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104230779.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230779.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230779.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104230791.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230791.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230791.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104230836.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230836.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230836.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104230877.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230877.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230877.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104230992.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230992.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104230992.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104231041.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104231041.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104231041.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_MG1060.JPG" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/MG1060.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/MG1060.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_MG1086.JPG" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/MG1086.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/MG1086.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_MG1097.JPG" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/MG1097.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/MG1097.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_MG1138.JPG" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/MG1138.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/MG1138.JPG</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104231150.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104231150.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104231150.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104231154.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104231154.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104231154.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104231162.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104231162.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104231162.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104231187.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104231187.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104231187.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104231216.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104231216.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104231216.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104231308.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104231308.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104231308.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_1STCC1104231432.jpg" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104231432.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/1STCC1104231432.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/thumb_IMG0712.JPG" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/IMG0712.JPG</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="334" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/STCCPremirJyllandsringen20110423/IMG0712.JPG</imageurl>
+	

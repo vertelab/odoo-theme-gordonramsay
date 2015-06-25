@@ -1,0 +1,123 @@
+<gallery 
+				galleryname="Gokartfinal" 
+				layout="5" 
+				preferredstage="1"
+				stagewidth="500"
+				stageheight="450"
+				popuplink="0"
+				popuplinktype="2" 
+				popuplinktext="Klicka h&#228;r f&#246;r att se en stor version av bilden!" 
+				popuplinkfont="Verdana" 
+				smoothscroll="0" 
+				speedsmoothness="0" 
+				scrollwhenclose="1" 
+				maxspeed="5" 
+				picbgcolor="0xffffff"
+				picbgalpha="100"
+				picalpha="100" 
+				bgcolor="0xffffff"
+				bgalpha=""
+				pnlcolor="0xe7e7e7"
+				pnlalpha="100" 
+				thumbloadbarcolor="0x666666" 
+				captionbgcolor="0xffffff" 
+				captioncolor="0x333333" 
+				titlecolor="0xffffff" 
+				pagebtncolor="0xffffff" 
+				animpagebtns="0" 
+				showcaption="1" 
+				showselected="1" 
+				selectioncolor="0xff0000" 
+				roundrect="1" 
+				roundpix="4" 
+				showprintbtn="0" 
+				showzoombtns="0" 
+				zoomincrement="10" 
+				maxzoom="4" 
+				loadthumbsatonce="0" 
+				thumbloaddelay="150" 
+				drawshadows="1" 
+				drawbgshadows="0" 
+				imageamount="5"
+				imageamountx="1" 
+				shadowwidth="4" 
+				shadowcolor="0x00000" 
+				shadowalpha="15" 
+				imgtransition="1" 
+				autoresize="1" 
+				thumbresize="1" 
+				slideshow="1" 
+				slideshowdelay="10"
+				slideshowstop="0" 
+				halign="right" 
+				valign="top" 
+				hmargin="10"
+				vmargin="15"  
+				thumbpadding1="5" 
+				thumbpadding2="5"
+				thumbwidth="60"
+				thumbheight="40"
+				thumbspace="5"
+				thumbborder="2"
+				reversebuttons="0"
+				thumbenlarge="0"
+				thumbenlargezoom="1"
+			>
+<image thumb="./sidadmin/bildbanken/Image/Gokartfinal/thumb_Gokart2013110632.jpg" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110632.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110632.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Gokartfinal/thumb_Gokart2013110614.jpg" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110614.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110614.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Gokartfinal/thumb_Gokart2013110610.jpg" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110610.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110610.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Gokartfinal/thumb_Gokart2013110621.jpg" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110621.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110621.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Gokartfinal/thumb_Gokart2013110625.jpg" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110625.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110625.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Gokartfinal/thumb_Gokart201311067.jpg" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart201311067.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart201311067.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Gokartfinal/thumb_Gokart201311061.jpg" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart201311061.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart201311061.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Gokartfinal/thumb_Gokart2013110620.jpg" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110620.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110620.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Gokartfinal/thumb_Gokart2013110623.jpg" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110623.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110623.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Gokartfinal/thumb_Gokart201311064.jpg" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart201311064.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart201311064.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Gokartfinal/thumb_Gokart2013110611.jpg" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110611.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110611.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Gokartfinal/thumb_Gokart2013110624.jpg" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110624.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110624.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Gokartfinal/thumb_Gokart2013110617.jpg" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110617.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110617.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Gokartfinal/thumb_Gokart201311069.jpg" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart201311069.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart201311069.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Gokartfinal/thumb_Gokart201311062.jpg" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart201311062.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart201311062.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Gokartfinal/thumb_Gokart2013110616.jpg" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110616.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110616.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Gokartfinal/thumb_Gokart2013110628.jpg" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110628.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110628.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Gokartfinal/thumb_Gokart201311063.jpg" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart201311063.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart201311063.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/Gokartfinal/thumb_Gokart2013110615.jpg" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110615.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="500" popupheight="333" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/Gokartfinal/Gokart2013110615.jpg</imageurl>
+	

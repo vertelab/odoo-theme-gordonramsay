@@ -1,0 +1,78 @@
+<gallery 
+				galleryname="MAGP Tiokampen" 
+				layout="4" 
+				preferredstage="1"
+				stagewidth="450"
+				stageheight="300"
+				popuplink="1"
+				popuplinktype="2" 
+				popuplinktext="Klicka h&#228;r f&#246;r att se en stor version av bilden!" 
+				popuplinkfont="Verdana" 
+				smoothscroll="1" 
+				speedsmoothness="0" 
+				scrollwhenclose="1" 
+				maxspeed="10" 
+				picbgcolor="0xffffff"
+				picbgalpha="100"
+				picalpha="100" 
+				bgcolor="0xffffff"
+				bgalpha=""
+				pnlcolor="0xffffff"
+				pnlalpha="100" 
+				thumbloadbarcolor="0x666666" 
+				captionbgcolor="0xffffff" 
+				captioncolor="0x333333" 
+				titlecolor="0xffffff" 
+				pagebtncolor="0xffffff" 
+				animpagebtns="1" 
+				showcaption="1" 
+				showselected="1" 
+				selectioncolor="0xff0000" 
+				roundrect="0" 
+				roundpix="4" 
+				showprintbtn="1" 
+				showzoombtns="1" 
+				zoomincrement="10" 
+				maxzoom="4" 
+				loadthumbsatonce="0" 
+				thumbloaddelay="150" 
+				drawshadows="1" 
+				drawbgshadows="1" 
+				imageamount="9"
+				imageamountx="3" 
+				shadowwidth="4" 
+				shadowcolor="0x00000" 
+				shadowalpha="15" 
+				imgtransition="2" 
+				autoresize="0" 
+				thumbresize="1" 
+				slideshow="0" 
+				slideshowdelay="5"
+				slideshowstop="0" 
+				halign="center" 
+				valign="middle" 
+				hmargin="10"
+				vmargin="10"  
+				thumbpadding1="10" 
+				thumbpadding2="10"
+				thumbwidth="50"
+				thumbheight="50"
+				thumbspace="5"
+				thumbborder="5"
+				reversebuttons="0"
+				thumbenlarge="1"
+				thumbenlargezoom=""
+			>
+<image thumb="./sidadmin/bildbanken/Image/MAGPTiokampen/thumb_DSC00484.jpg" >./sidadmin/bildbanken/Image/MAGPTiokampen/DSC00484.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="301" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MAGPTiokampen/DSC00484.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MAGPTiokampen/thumb_DSC00489.jpg" >./sidadmin/bildbanken/Image/MAGPTiokampen/DSC00489.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="301" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MAGPTiokampen/DSC00489.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MAGPTiokampen/thumb_DSC00495.jpg" >./sidadmin/bildbanken/Image/MAGPTiokampen/DSC00495.jpg</image>
+	<captiontext>\n</captiontext>
+		<imageurl popupwidth="450" popupheight="301" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MAGPTiokampen/DSC00495.jpg</imageurl>
+	<image thumb="./sidadmin/bildbanken/Image/MAGPTiokampen/thumb_DSC00498.jpg" >./sidadmin/bildbanken/Image/MAGPTiokampen/DSC00498.jpg</image>
+	<captiontext>Sl&#228;pvagnen o Fyrtornet\n</captiontext>
+		<imageurl popupwidth="450" popupheight="301" exturl="http://" exturlwindow="_blank" >./sidadmin/bildbanken/Image/MAGPTiokampen/DSC00498.jpg</imageurl>
+	
