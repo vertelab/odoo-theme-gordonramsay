@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+
+<!-- big logo and block menu by Haojun -->
+
+        <template id="theme_big_logo_and_block_menu" inherit_id="website.layout" customize_show="True" active="False" name="Big Logo and Block Menu" priority="99">
+            
+            <xpath expr="//head" position="inside">
+                <!-- Custom CSS -->
+                <link href="/theme_teamdoc/static/src/css/brfgeneralen.css" rel="stylesheet"/>
+                <link href="/theme_teamdoc/static/src/css/vertical_slide.css" rel="stylesheet"/>
+            </xpath>
+
+            <xpath expr="//body" position="inside">
+                <script src="/theme_teamdoc/static/src/js/vertical_slide.js"></script>
+            </xpath>
+
+           <xpath expr="//div[@class='navbar navbar-default navbar-static-top']" position="before">
+                <div class="img-responsive center-block hidden-xs">
+                    <img class="mt2 mb2" src="/theme_teamdoc/static/src/img/brfgeneralen/header_950.gif"/>
+                </div>
+           </xpath>
+            
+            <xpath expr="//header//ul" position="attributes">
+                 <attribute name="class">nav navbar-nav</attribute>
+            </xpath>
+
+            <xpath expr="//ul[@id='top_menu']/li[1]" position="attributes">
+                <attribute name="class">divider hidden</attribute>
+            </xpath>
+
+            <xpath expr="//ul[@id='top_menu']/li[2]" position="attributes">
+                <attribute name="class">dropdown hidden</attribute>
+            </xpath>
+
+        </template>
+
+        <!-- snippets -->
+        <template id="snippets_vertical_slide" inherit_id="website.snippets" name="Snippets Vertical Slide">
+            <xpath expr="//div[@id='snippet_structure']" position="inside">
+                <div>
+                    <div class="oe_snippet_thumbnail">
+                        <img class="oe_snippet_thumbnail_img" src="/theme_teamdoc/static/src/img/structure_box.png"/>
+                        <span class="oe_snippet_thumbnail_title">Vertical Slide</span>
+                    </div>
+                    <div id="wrap" class="oe_structure oe_empty"/>
+                    <section class="oe_snippet_body fw_categories mt16">
+                        <div class="container">
+                            <div class="row-fluid">
+                              <div class="span6 offset3">
+                                <div id="myCarousel" class="carousel slide vertical">
+                                    <!-- Carousel items -->
+                                    <div class="carousel-inner">
+                                        <div class="active item">
+                                            <img alt="first slide" src="/theme_teamdoc/static/src/img/structure_box.png"/>
+                                        </div>
+                                        </div>
+                                        <!-- Carousel nav -->
+                                        <a class="carousel-control left" href="#myCarousel" data-slide="prev">‹</a>
+                                        <a class="carousel-control right" href="#myCarousel" data-slide="next">›</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+
+            </xpath>
+        </template>
+
+    </data>
+</openerp>
