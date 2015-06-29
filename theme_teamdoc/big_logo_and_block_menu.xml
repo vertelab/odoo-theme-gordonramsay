@@ -41,24 +41,37 @@
             <xpath expr="//div[@id='snippet_structure']" position="inside">
                 <div>
                     <div class="oe_snippet_thumbnail">
-                        <img class="oe_snippet_thumbnail_img" src="/theme_teamdoc/static/src/img/structure_box.png"/>
+                        <img class="oe_snippet_thumbnail_img" src="/website/static/src/img/blocks/block_banner.png"/>
                         <span class="oe_snippet_thumbnail_title">Vertical Slide</span>
                     </div>
                     <div id="wrap" class="oe_structure oe_empty"/>
-                    <section class="oe_snippet_body fw_categories mt16">
+                    <section class="oe_snippet_body fw_categories mt16 mb16">
                         <div class="container">
                             <div class="row-fluid">
-                              <div class="span6 offset3">
-                                <div id="myCarousel" class="carousel slide vertical">
-                                    <!-- Carousel items -->
-                                    <div class="carousel-inner">
-                                        <div class="active item">
-                                            <img alt="first slide" src="/theme_teamdoc/static/src/img/structure_box.png"/>
-                                        </div>
+                                <div class="span6 offset3">
+                                    <div id="carousel_vertical" class="carousel slide vertical">
+                                        <!-- Carousel items -->
+                                        <div class="carousel-inner">
+                                            <div class="item active" style="background-image: url('/website/static/src/img/banner/color_splash.jpg')">
+                                                <div class="container">
+                                                    <div class="row content">
+                                                        <div class="carousel-content col-md-6 col-sm-12">
+                                                                <h2>Your Banner Title</h2>
+                                                                <h3>Click to customize this text</h3>
+                                                                <p>
+                                                                    <a href="/page/website.contactus" class="btn btn-success btn-large">Contact us</a>
+                                                                </p>
+                                                        </div>
+                                                        <div class="carousel-img col-md-6 hidden-sm hidden-xs">
+                                                            <img class="img-responsive" src="/website/static/src/img/banner/banner_picture.png" alt="Banner Odoo Image"/>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>
                                         <!-- Carousel nav -->
-                                        <a class="carousel-control left" href="#myCarousel" data-slide="prev">‹</a>
-                                        <a class="carousel-control right" href="#myCarousel" data-slide="next">›</a>
+                                        <div class="carousel-control left hidden" data-target="#carousel_vertical" data-slide="prev" style="height: 100%"><i class="fa fa-chevron-up"></i></div>
+                                        <div class="carousel-control right hidden" data-target="#carousel_vertical" data-slide="next" style="height: 100%"><i class="fa fa-chevron-down"></i></div>
                                     </div>
                                 </div>
                             </div>
