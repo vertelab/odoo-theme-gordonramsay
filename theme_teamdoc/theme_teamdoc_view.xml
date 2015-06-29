@@ -13,31 +13,19 @@
             </body>
         </template>
         
-
-
-<!--
-        <template id="news-block-one" name="Latest news for a block">
-            <t t-set="news" t-value="request.env['blog.post'].search([('website_published','=',True)],order='write_date asc')"/>
-                <div class="grid-box-g" t-if="len(news)&gt;0">
-                    <t t-set="post" t-value="news[0]"/>
-                    <img t-att-src="post.background_image" class="img-responsive" style=""/>
-                    <div class="grid-box-overlay">
-                        <div class="overlay-row">
-                              <p class="overlay-title"><t t-esc="post.name"/></p>
-                              <span class="glyphicon glyphicon-chevron-down arrow-transform"/>
-                        </div>
-                        <div class="overlay-info">
-                            <h2><t t-esc="post.subtitle"/></h2>
-                            <a class="btn btn-primary" t-attf-href="/blog/#{ slug(post.blog_id) }/post/#{ slug(post) }">Läs mer</a>
-                        </div>
-                    </div>
-                </div> 
-            </div>
+        <!-- custom css and javascript -->
+        <template id="custom_css_and_js" inherit_id="website.assets_editor" name="Custom CSS and JS">
+            <xpath expr="//link[last()]" position="after">
+                <link href="/theme_teamdoc/static/src/css/vertical_slide.css" rel="stylesheet"/>
+            </xpath>
+            <xpath expr="//script[last()]" position="after">
+                <script src="/theme_teamdoc/static/src/js/vertical_slide.js"></script>
+                <script type="text/javascript" src="/theme_teamdoc/static/src/js/week_day.js"></script>
+                <script type="text/javascript" src="/theme_teamdoc/static/src/js/swedish_clock.js"></script>
+                <script type="text/javascript" src="/theme_teamdoc/static/src/js/name_of_the_day.js"></script>
+            </xpath>
         </template>
         
--->
-        
-
         <template id="news-listing" name="News listing">
             <t t-if="not news" t-set="news" t-value="request.env['blog.post'].search([('website_published','=',True)],order='write_date asc')"/>
             <t t-if="not news_count" t-set="news_count" t-value="5"/>
@@ -75,8 +63,6 @@
 -->
         </template>
 
-        <!-- Customize Show templates -->
-
         <!-- Navbar fixed top -->
         <template id="navbar-fixed-top" inherit_id="website.layout" customize_show="True" active="False" name="Navbar fixed top">
             <!-- <xpath expr="//head" position="inside">
@@ -103,7 +89,6 @@
 
         <!-- Menu side-bar -->
         <template id="menu-right-side-col" inherit_id="website.layout" customize_show="True" active="False" name="Menu side-bar Right">
-        
                 <xpath expr="//main" position="replace">
                  <!-- Navigation -->
                   <div class="container">
@@ -182,37 +167,125 @@
 
         </template>
 
-
+    <!-- show sign in in footer -->
     <template id="show_sign_in_in_footer" inherit_id="website.layout" customize_show="True" active="False" name="Show Sign In in Footer" priority="99">
-
-            <xpath expr="//footer" position="inside">
-                <div class="container" style="list-style: none; background: none;">
-                    <div class="pull-right">
-                        <li class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                                <b>
-                                    <span t-esc="user_id.name"/>
-                                    <span class="caret"></span>
-                                </b>
-                            </a>
-                            <ul class="dropdown-menu js_usermenu" role="menu">
-                                <li><a href="/web" role="menuitem">My Account</a></li>
-                                <li class="divider"/>
-                                <li><a t-attf-href="/web/session/logout?redirect=/" role="menuitem">Logout</a></li>
-                            </ul>
-                        </li>
-                    </div>
-                    <div class="pull-right">
-                        <li groups="base.group_public">
-                            <a t-attf-href="/web/login">
-                                <b>Sign in</b>
-                            </a>
-                        </li>
-                    </div>
+        <xpath expr="//footer" position="inside">
+            <div class="container" style="list-style: none; background: none;">
+                <div class="pull-right">
+                    <li class="dropdown" t-ignore="true" t-if="website.user_id != user_id">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            <b>
+                                <span t-esc="user_id.name"/>
+                                <span class="caret"></span>
+                            </b>
+                        </a>
+                        <ul class="dropdown-menu js_usermenu" role="menu">
+                            <li><a href="/web" role="menuitem">My Account</a></li>
+                            <li class="divider"/>
+                            <li><a t-attf-href="/web/session/logout?redirect=/" role="menuitem">Logout</a></li>
+                        </ul>
+                    </li>
                 </div>
-            </xpath>
+                <div class="pull-right">
+                    <li groups="base.group_public">
+                        <a t-attf-href="/web/login">
+                            <b>Sign in</b>
+                        </a>
+                    </li>
+                </div>
+            </div>
+        </xpath>
+    </template>
 
+    <!-- SNIPPETS -->
+    <template id="custom_snippets" inherit_id="website.snippets" name="Custom Snippets">
+        <!-- custom structure snippets -->
+        <xpath expr="//div[@id='snippet_structure']" position="inside">
+            <!-- vertical slide -->
+            <div id="vetical_slide_snippet">
+                <div class="oe_snippet_thumbnail">
+                    <img class="oe_snippet_thumbnail_img" src="/website/static/src/img/banner/business_guy.jpg"/>
+                    <span class="oe_snippet_thumbnail_title">Vertical Slide</span>
+                </div>
+                <div id="wrap" class="oe_structure oe_empty"/>
+                <section class="oe_snippet_body fw_categories mt16 mb16">
+                    <div class="container">
+                        <div class="row-fluid">
+                            <div class="span6 offset3">
+                                <div id="carousel_vertical" class="carousel slide vertical">
+                                    <!-- Carousel items -->
+                                    <div class="carousel-inner">
+                                        <div class="item active" style="background-image: url('/website/static/src/img/banner/color_splash.jpg')">
+                                            <div class="container">
+                                                <div class="row content">
+                                                    <div class="carousel-content col-md-6 col-sm-12">
+                                                            <h2>Your Banner Title</h2>
+                                                            <h3>Click to customize this text</h3>
+                                                            <p>
+                                                                <a href="/page/website.contactus" class="btn btn-success btn-large">Contact us</a>
+                                                            </p>
+                                                    </div>
+                                                    <div class="carousel-img col-md-6 hidden-sm hidden-xs">
+                                                        <img class="img-responsive" src="/website/static/src/img/banner/banner_picture.png" alt="Banner Odoo Image"/>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Carousel nav -->
+                                    <div class="carousel-control left hidden" data-target="#carousel_vertical" data-slide="prev" style="height: 100%"><i class="fa fa-chevron-up"></i></div>
+                                    <div class="carousel-control right hidden" data-target="#carousel_vertical" data-slide="next" style="height: 100%"><i class="fa fa-chevron-down"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+
+            <!-- Swedish clock with week day and name of the day -->
+            <div id="swedish_clock_snippet">
+                <div class="oe_snippet_thumbnail">
+                    <img class="oe_snippet_thumbnail_img" src="/website/static/src/img/parallax/parallax_photo1.jpg"/>
+                    <span class="oe_snippet_thumbnail_title">Swedish Clock</span>
+                </div>
+                <section class="oe_snippet_body fw_categories mt16 mb16">
+                    <div class="text-center">
+                        <p><font size="3" style="color:#178ACC">
+                            <span id="veckodag"></span>
+                            <span id="klocka"></span>
+                            <span id="namnsdag"></span>
+                        </font></p>
+                    </div>
+
+                    
+                </section>
+            </div>
+        </xpath>
+
+    </template>
+
+
+<!--
+        <template id="news-block-one" name="Latest news for a block">
+            <t t-set="news" t-value="request.env['blog.post'].search([('website_published','=',True)],order='write_date asc')"/>
+                <div class="grid-box-g" t-if="len(news)&gt;0">
+                    <t t-set="post" t-value="news[0]"/>
+                    <img t-att-src="post.background_image" class="img-responsive" style=""/>
+                    <div class="grid-box-overlay">
+                        <div class="overlay-row">
+                              <p class="overlay-title"><t t-esc="post.name"/></p>
+                              <span class="glyphicon glyphicon-chevron-down arrow-transform"/>
+                        </div>
+                        <div class="overlay-info">
+                            <h2><t t-esc="post.subtitle"/></h2>
+                            <a class="btn btn-primary" t-attf-href="/blog/#{ slug(post.blog_id) }/post/#{ slug(post) }">Läs mer</a>
+                        </div>
+                    </div>
+                </div> 
+            </div>
         </template>
+        
+-->
 
     <!-- Big Logo -->
     

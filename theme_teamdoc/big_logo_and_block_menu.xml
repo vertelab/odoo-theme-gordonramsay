@@ -2,25 +2,19 @@
 <openerp>
     <data>
 
-<!-- big logo and block menu by Haojun -->
-
+<!-- theme big logo and block menu by Haojun -->
         <template id="theme_big_logo_and_block_menu" inherit_id="website.layout" customize_show="True" active="False" name="Big Logo and Block Menu" priority="99">
             
             <xpath expr="//head" position="inside">
                 <!-- Custom CSS -->
                 <link href="/theme_teamdoc/static/src/css/brfgeneralen.css" rel="stylesheet"/>
-                <link href="/theme_teamdoc/static/src/css/vertical_slide.css" rel="stylesheet"/>
             </xpath>
 
-            <xpath expr="//body" position="inside">
-                <script src="/theme_teamdoc/static/src/js/vertical_slide.js"></script>
-            </xpath>
-
-           <xpath expr="//div[@class='navbar navbar-default navbar-static-top']" position="before">
+            <xpath expr="//div[@class='navbar navbar-default navbar-static-top']" position="before">
                 <div class="img-responsive center-block hidden-xs">
                     <img class="mt2 mb2" src="/theme_teamdoc/static/src/img/brfgeneralen/header_950.gif"/>
                 </div>
-           </xpath>
+            </xpath>
             
             <xpath expr="//header//ul" position="attributes">
                  <attribute name="class">nav navbar-nav</attribute>
@@ -34,52 +28,6 @@
                 <attribute name="class">dropdown hidden</attribute>
             </xpath>
 
-        </template>
-
-        <!-- snippets -->
-        <template id="snippets_vertical_slide" inherit_id="website.snippets" name="Snippets Vertical Slide">
-            <xpath expr="//div[@id='snippet_structure']" position="inside">
-                <div>
-                    <div class="oe_snippet_thumbnail">
-                        <img class="oe_snippet_thumbnail_img" src="/website/static/src/img/blocks/block_banner.png"/>
-                        <span class="oe_snippet_thumbnail_title">Vertical Slide</span>
-                    </div>
-                    <div id="wrap" class="oe_structure oe_empty"/>
-                    <section class="oe_snippet_body fw_categories mt16 mb16">
-                        <div class="container">
-                            <div class="row-fluid">
-                                <div class="span6 offset3">
-                                    <div id="carousel_vertical" class="carousel slide vertical">
-                                        <!-- Carousel items -->
-                                        <div class="carousel-inner">
-                                            <div class="item active" style="background-image: url('/website/static/src/img/banner/color_splash.jpg')">
-                                                <div class="container">
-                                                    <div class="row content">
-                                                        <div class="carousel-content col-md-6 col-sm-12">
-                                                                <h2>Your Banner Title</h2>
-                                                                <h3>Click to customize this text</h3>
-                                                                <p>
-                                                                    <a href="/page/website.contactus" class="btn btn-success btn-large">Contact us</a>
-                                                                </p>
-                                                        </div>
-                                                        <div class="carousel-img col-md-6 hidden-sm hidden-xs">
-                                                            <img class="img-responsive" src="/website/static/src/img/banner/banner_picture.png" alt="Banner Odoo Image"/>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- Carousel nav -->
-                                        <div class="carousel-control left hidden" data-target="#carousel_vertical" data-slide="prev" style="height: 100%"><i class="fa fa-chevron-up"></i></div>
-                                        <div class="carousel-control right hidden" data-target="#carousel_vertical" data-slide="next" style="height: 100%"><i class="fa fa-chevron-down"></i></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-
-            </xpath>
         </template>
 
     </data>
