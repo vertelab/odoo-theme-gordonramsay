@@ -242,22 +242,20 @@
                 </section>
             </div>
 
-            <!-- Swedish clock with week day and name of the day -->
+            <!-- Swedish clock with week day and name of day -->
             <div id="swedish_clock_snippet">
                 <div class="oe_snippet_thumbnail">
                     <img class="oe_snippet_thumbnail_img" src="/website/static/src/img/parallax/parallax_photo1.jpg"/>
                     <span class="oe_snippet_thumbnail_title">Swedish Clock</span>
                 </div>
                 <section class="oe_snippet_body fw_categories mt16 mb16">
-                    <div class="text-center">
-                        <p><font size="3" style="color:#178ACC">
+                    <div class="text-center hidden-xs">
+                        <p><font size="3" style="color:#92BDE5">
                             <span id="veckodag"></span>
                             <span id="klocka"></span>
                             <span id="namnsdag"></span>
                         </font></p>
                     </div>
-
-                    
                 </section>
             </div>
         </xpath>

@@ -11,8 +11,8 @@
             </xpath>
 
             <xpath expr="//div[@class='navbar navbar-default navbar-static-top']" position="before">
-                <div class="img-responsive center-block hidden-xs">
-                    <img class="mt2 mb2" src="/theme_teamdoc/static/src/img/brfgeneralen/header_950.gif"/>
+                <div class="container text-center">
+                    <img class="img-responsive center-block hidden-xs mt2 mb2" src="/theme_teamdoc/static/src/img/brfgeneralen/header_950.gif"/>
                 </div>
             </xpath>
             
