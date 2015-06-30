@@ -12,17 +12,16 @@
                 </t>
             </body>
         </template>
-        
+
         <!-- custom css and javascript -->
-        <template id="custom_css_and_js" inherit_id="website.assets_editor" name="Custom CSS and JS">
-            <xpath expr="//link[last()]" position="after">
+        <template id="custom_css_and_js" inherit_id="website.layout" name="Custom CSS and JS">
+            <xpath expr="//head" position="inside">
                 <link href="/theme_teamdoc/static/src/css/vertical_slide.css" rel="stylesheet"/>
             </xpath>
-            <xpath expr="//script[last()]" position="after">
-                <script src="/theme_teamdoc/static/src/js/vertical_slide.js"></script>
-                <script type="text/javascript" src="/theme_teamdoc/static/src/js/week_day.js"></script>
+            <xpath expr="//body" position="inside">
+                <script type="text/javascript" src="/theme_teamdoc/static/src/js/vertical_slide.js"></script>
                 <script type="text/javascript" src="/theme_teamdoc/static/src/js/swedish_clock.js"></script>
-                <script type="text/javascript" src="/theme_teamdoc/static/src/js/name_of_day.js"></script>
+                <script type="text/javascript">swedish_clock();</script>
             </xpath>
         </template>
         
@@ -251,9 +250,7 @@
                 <section class="oe_snippet_body fw_categories mt16 mb16">
                     <div class="text-center">
                         <p><font size="3" style="color:#92BDE5">
-                            <span id="veckodag"></span>
-                            <span id="klocka"></span>
-                            <span id="namnsdag"></span>
+                            <span id="clock"></span>
                         </font></p>
                     </div>
                 </section>
