@@ -22,7 +22,7 @@
                 <script src="/theme_teamdoc/static/src/js/vertical_slide.js"></script>
                 <script type="text/javascript" src="/theme_teamdoc/static/src/js/week_day.js"></script>
                 <script type="text/javascript" src="/theme_teamdoc/static/src/js/swedish_clock.js"></script>
-                <script type="text/javascript" src="/theme_teamdoc/static/src/js/name_of_the_day.js"></script>
+                <script type="text/javascript" src="/theme_teamdoc/static/src/js/name_of_day.js"></script>
             </xpath>
         </template>
         
@@ -242,14 +242,14 @@
                 </section>
             </div>
 
-            <!-- Swedish clock with week day and name of day -->
+            <!-- Swedish clock with week day and name of the day -->
             <div id="swedish_clock_snippet">
                 <div class="oe_snippet_thumbnail">
                     <img class="oe_snippet_thumbnail_img" src="/website/static/src/img/parallax/parallax_photo1.jpg"/>
                     <span class="oe_snippet_thumbnail_title">Swedish Clock</span>
                 </div>
                 <section class="oe_snippet_body fw_categories mt16 mb16">
-                    <div class="text-center hidden-xs">
+                    <div class="text-center">
                         <p><font size="3" style="color:#92BDE5">
                             <span id="veckodag"></span>
                             <span id="klocka"></span>
