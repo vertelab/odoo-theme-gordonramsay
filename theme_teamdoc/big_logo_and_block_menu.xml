@@ -10,7 +10,7 @@
                 <link href="/theme_teamdoc/static/src/css/brfgeneralen.css" rel="stylesheet"/>
             </xpath>
 
-            <xpath expr="//div[@class='navbar navbar-default navbar-static-top']" position="before">
+            <xpath expr="//div[@class='navbar navbar-default navbar-static-top'] | //div[@class='navbar navbar-default navbar-static-top hidden-lg hidden-md hidden-sm']" position="before">
                 <div class="container text-center">
                     <img class="img-responsive center-block hidden-xs mt2 mb2" src="/theme_teamdoc/static/src/img/brfgeneralen/header_950.gif"/>
                 </div>
