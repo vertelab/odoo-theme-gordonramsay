@@ -21,11 +21,19 @@
 }
 */
 
+/*
 body{ 
 	font: normal 13px/20px Arial, Helvetica, sans-serif; word-wrap:break-word;
 	color: #eee;
 	background: #353535;
 }
+*/
+
+#countdown #race_info > *{
+	font: normal Arial, Helvetica, sans-serif; word-wrap:break-word;
+	color: #eee;
+}
+
 #countdown{
 	width: 465px;
 	height: 260px;
@@ -43,7 +51,7 @@ body{
 */
 	padding: 24px 0;
 	position: absolute;
-  top: 0; bottom: 0; left: 0; right: 0;
+	top: 0; bottom: 0; left: 0; right: 0;
 }
 
 #countdown:before{

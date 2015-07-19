@@ -3,10 +3,10 @@
     <data>    
         <template id="countdown_customize" inherit_id="website.layout" name="Countdown customize">
             <xpath expr="//head" position="inside">
-                <link href="/theme_teamdoc/static/src/css/countdown.css" rel="stylesheet"/>   
+                <link href="/theme_teamdoc/static/src/css/countdown.css" rel="stylesheet"/>  
             </xpath>
             <xpath expr="//body" position="inside">
-                <script src="/theme_teamdoc/static/src/js/countdown.js"></script>
+                <script type="text/javascript" src="/theme_teamdoc/static/src/js/countdown.js"></script>
            </xpath>
         </template>
         
@@ -19,8 +19,8 @@
                     </div>
                     
                     <section class="oe_snippet_body ">
-                        <script>
-                            var target_date = new Date(2015, 5, 25, 18, 00); // set the countdown date, (month 0-11)
+                        <script type="text/javascript">
+                            document.addEventListener("DOMContentLoaded", function(){initCountdown(2015, 5, 25, 18, 00)}); // set the countdown date, (month 0-11)
                         </script>
                         <div id="countdown">
                             <div id="race_info">
