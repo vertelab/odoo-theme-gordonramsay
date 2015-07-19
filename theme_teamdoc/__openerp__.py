@@ -35,6 +35,7 @@ Teamdoc style theme.
         'theme_teamdoc_view.xml',
         'theme_business_casual.xml',
         'website_overwritten_templates.xml',
+        'big_logo_and_block_menu.xml',
         'theme_responsive_navbar.xml',
         'theme_magp.xml',
         'magp_backup.xml',

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <openerp>
     <data>    
-        <template id="countdown_customize" inherit_id="website.layout" name="Countdown customize">
+        <template id="countdown_customize" inherit_id="website.layout" customize_show="True" active="False" name="Countdown customize">
             <xpath expr="//head" position="inside">
                 <link href="/theme_teamdoc/static/src/css/countdown.css" rel="stylesheet"/>  
             </xpath>

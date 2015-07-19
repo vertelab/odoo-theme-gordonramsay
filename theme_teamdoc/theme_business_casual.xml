@@ -40,6 +40,14 @@
             <xpath expr="//header//ul" position="attributes">
                  <attribute name="class">nav navbar-nav</attribute>
             </xpath>
+
+            <xpath expr="//ul[@id='top_menu']/li[1]" position="attributes">
+                <attribute name="class">divider hidden</attribute>
+            </xpath>
+
+            <xpath expr="//ul[@id='top_menu']/li[2]" position="attributes">
+                <attribute name="class">dropdown hidden</attribute>
+            </xpath>
             
             <!-- <xpath expr="//header//div" position="attributes">
                  <attribute name="class">collapse navbar-collapse navbar-top-collapse custom</attribute>
